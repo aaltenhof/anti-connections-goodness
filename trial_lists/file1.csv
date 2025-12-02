@@ -1,0 +1,102 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+95983,2,town,doctor,phone,hand,1,small town,3.0,24.0
+89616,2,mother,room,woman,world,2,women empowerment,2.0,20.0
+93445,2,state,meeting,birthday,pain,3,wedding,3.0,2.0
+93444,2,blood,dog,bed,office,4,Many people have all of these things,1.0,62.0
+88939,2,food,street,coffee,hair,5,All things that aethestically motivated girls post to their Instagrams,3.0,57.0
+88939,2,house,girl,baby,boy,6,All things that little kids like to either play with or as during recess,1.0,74.0
+93556,2,evidence,trip,doc,summer,7,When you're trying to finish an essay but your friends are trying to arrange spring break.,0.0,23.0
+89616,2,murder,dude,afternoon,message,8,certain aspects of a suspect in a killing,3.0,28.0
+96049,2,word,part,number,week,9,day of the week,3.0,38.0
+93556,2,deal,end,rest,second,12,Actions taken in a casino,1.0,17.0
+93556,2,child,city,daughter,book,13,Words you might find in an English learning textbook.,3.0,19.0
+93556,2,officer,floor,plane,mouth,14,Things that could be the feature of a porno.,0.0,67.0
+93556,2,clown,furniture,corn,towel,15,Items that can match in color,1.0,58.0
+89616,2,case,party,death,couple,16,a murder at a party,3.0,12.0
+93556,2,funeral,unit,taste,arrest,17,"A romcom about a cop and a criminal falling in love but the cop dies in action, leaving the criminal alone and mourning.",1.0,19.0
+96049,2,park,camera,chicken,wine,18,restaurant,1.0,55.0
+93445,2,drink,movie,picture,shot,19,action film,0.0,77.0
+93556,2,ground,gold,nose,professor,20,Things that can be dug into.,1.0,16.0
+92985,2,order,system,information,security,21,prison,0.0,93.0
+93556,2,court,mama,lieutenant,lunch,22,Words that come up when a lawyer and their mother are talking after church.,2.0,23.0
+96049,2,line,captain,husband,dinner,23,worker,3.0,36.0
+89616,2,army,train,card,building,24,aspects of deployment transportation,3.0,17.0
+89616,2,command,safety,permission,defense,26,going to war,2.0,18.0
+93542,1,mission,enemy,east,hero,27,The plot of minions,0.0,41.0
+92946,1,boat,hotel,earth,ball,28,Things that can be round/balls,1.0,60.0
+95028,1,movement,oxygen,pattern,temperature,29,"important details to pay attention to when conducting a chemistry experiment
+",0.0,65.0
+94894,1,agent,wedding,colonel,club,30,bachelorette party gone wrong,0.0,72.0
+89597,1,lawyer,bank,letter,college,31,accounting,1.0,71.0
+95028,1,paper,road,eye,table,32,concepts that may be involved in a court case,3.0,0.0
+92984,1,bedroom,planet,candy,shower,33,child,3.0,22.0
+92946,1,box,bag,window,apartment,34,Things that are shape 2-D/3-D square?,4.0,16.0
+87744,1,punishment,stress,option,heavens,35,anxiety,2.0,26.0
+94894,1,confession,request,anger,solution,36,court trial,0.0,94.0
+93926,1,middle,partner,angel,folks,37,words that can describe people,1.0,38.0
+94257,1,difference,situation,service,pleasure,38,Customer service,3.0,26.0
+94257,1,class,king,piece,boss,39,Royalty,2.0,29.0
+94914,1,surprise,space,idiot,killer,40,The movie scream,2.0,50.0
+89597,1,arm,neck,computer,hat,41,"things you use
+",1.0,37.0
+89597,1,board,shop,camp,stage,42,"camp rock
+",4.0,1.0
+89597,1,star,truck,list,store,43,"short words
+",4.0,4.0
+95028,1,report,top,ride,area,44,things involved in a police's work,3.0,13.0
+96097,1,glass,teacher,cell,queen,45,words that can refer to people/things,4.0,0.0
+94914,1,ice,brain,beer,fish,46,Things you store in the cold,4.0,7.0
+93482,1,blade,robot,patch,rocket,47,Things that might appear during a sci-fi movie,1.0,37.0
+94914,1,horse,ship,clothes,tv,48,Words that could end in line,3.0,58.0
+93983,3,bird,cake,rain,chest,49,Things found in Minecraft video games.,1.0,18.0
+93555,3,pal,spot,client,north,50,antarctica,3.0,22.0
+93117,3,cash,machine,gift,land,51,Ways to get rich,1.0,80.0
+96162,3,horn,flower,basketball,chick,52,Things you can find in a farm themed event,3.0,44.0
+93117,3,crowd,soldier,football,bullet,53,The story of Forrest Gump,1.0,63.0
+93122,3,dollar,rose,bike,button,54,petals,3.0,0.0
+93990,3,photo,stairs,university,belt,55,Things you can lose,3.0,42.0
+95936,3,jacket,ear,radar,senator,56,in the photo's of the senators' guards,2.0,23.0
+96162,3,tea,suit,beach,arms,57,Having a meeting at the beach and taking tea,2.0,37.0
+93122,3,girlfriend,cop,station,record,58,reasons you might be in prison,3.0,61.0
+96162,3,pants,sea,hole,river,59,What sailors have or seen,4.0,0.0
+93122,3,health,shame,pardon,condition,60,care,4.0,0.0
+95936,3,milk,coat,jury,meat,61,"in a distribution trial
+",2.0,24.0
+93117,3,foot,wall,sheriff,prison,62,"Circumstances of a property damage arrest
+",3.0,81.0
+96084,3,lake,pocket,glasses,buck,63,"words that can all follow the word ""eye""",2.0,74.0
+93122,3,shoe,mail,chocolate,gate,64,lace,4.0,0.0
+96162,3,weather,project,property,base,65,Things that are observed or done during camping,2.0,59.0
+93555,3,language,society,freedom,rule,67,having rights,0.0,81.0
+94320,3,telephone,desert,sword,wire,68,"Things that are useless in a desert
+",2.0,23.0
+93983,3,test,field,group,gas,69,Things associated with school.,1.0,23.0
+94320,3,desk,note,ticket,cream,71,things you may find in a person's bedroom,2.0,50.0
+93555,3,bottle,restaurant,teeth,hall,72,"opening a bottle of something at dinner
+",3.0,14.0
+93555,3,sale,divorce,schedule,damage,73,"things that you usually deal with when you are middle aged
+",2.0,9.0
+87712,0,vacation,account,subject,winner,74,lottery,1.0,61.0
+93945,0,fool,pressure,charge,force,75,Engineering students,3.0,9.0
+87265,0,secret,ways,duty,decision,77,Things people can make,4.0,6.0
+95875,0,tour,season,monsieur,demon,78,french words --> can be used in english too,4.0,0.0
+95411,0,key,tree,church,tape,79,things old southern connotated,4.0,0.0
+87712,0,sky,chair,breath,drug,80,"camping
+
+",4.0,14.0
+93945,0,fairy,spy,trail,suite,81,Details in a story,1.0,35.0
+91363,0,tube,locker,actress,flag,82,things that are hollow on the inside,4.0,2.0
+87265,0,battle,weight,player,manager,83,What you might find at a wrestling match,3.0,56.0
+91363,0,airport,cheese,neighborhood,princess,84,things that are known locally,0.0,19.0
+95944,0,bus,sun,radio,boyfriend,85,Elements of the end of the school year,1.0,69.0
+95944,0,prince,pool,animal,driver,86,Things that a rich family has,1.0,91.0
+94869,0,dress,film,sergeant,bathroom,87,I do not know,3.0,3.0
+93945,0,exit,hug,chopper,warden,91,Things that bring you safety,2.0,15.0
+93945,0,trick,devil,program,speech,92,MK ultra,1.0,25.0
+93945,0,pizza,cab,monkey,roof,93,New York,1.0,67.0
+94869,0,county,contract,madame,leader,94,UK leaders,1.0,19.0
+95875,0,knife,weapon,shirt,jail,95,can all link to shank,2.0,29.0
+91363,0,temple,thumb,dime,singer,97,things with silver,4.0,8.0
+93520,0,garden,tank,painting,cigarette,98,marijuana,2.0,45.0
+91363,0,heat,director,contact,signal,99,"things involved in ""chemistry""",4.0,5.0
+87712,0,mister,code,size,conversation,100,computer science,3.0,9.0
