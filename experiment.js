@@ -141,7 +141,7 @@ function createTrials(trialsData) {
                         <div style="font-size: 22px; margin: 20px 0;">
                             "${item.category_response}"
                         </div>
-                        <p style="margin-top: 30px; color: #666;">Press any key to continue to the rating questions.</p>
+                        <p style="margin-top: 30px; color: #666;">Press any key to continue.</p>
                     </div>
                 `;
             },
@@ -211,7 +211,6 @@ function createTrials(trialsData) {
                             "${item.category_response}"
                         </div>
                         <p style="font-size: 20px; margin: 20px 0;"><strong>How specific is this description?</strong></p>
-                        <p style="font-size: 14px; color: #666;">(A very general description could apply to many different sets of words; a very specific description could only apply to these words)</p>
                     </div>
                 `;
             },
