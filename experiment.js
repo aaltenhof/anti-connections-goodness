@@ -334,8 +334,8 @@ var save_data = {
 
 async function loadTrials() {
     try {
-        const response = await fetch(`trial_lists/file${condition}.csv`);
-        console.log('Condition:', condition);
+        const response = await fetch(`trial_lists/file${datapipe_condition}.csv`);
+        console.log('Condition:', datapipe_condition);
         console.log('Trial List:', response);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
@@ -394,9 +394,9 @@ async function runExperiment() {
     try {
         console.log('Participant ID:', participant_id);
 
-        const condition = await jsPsychPipe.getCondition("J0scyQ9CDYZD");
-        console.log('Assigned condition:', condition);
-        const trialsData = await loadTrials(condition);
+        const datapipe_condition = await jsPsychPipe.getCondition("J0scyQ9CDYZD");
+        console.log('Assigned condition:', datapipe_condition);
+        const trialsData = await loadTrials(datapipe_condition);
         
         if (trialsData.length === 0) {
             throw new Error('No trials loaded');
