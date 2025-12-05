@@ -1,0 +1,91 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+93444,2.0,town,doctor,hand,phone,1,Things that almost everyone has,3.0,37.0
+95983,2.0,room,mother,woman,world,2,home,1.0,50.0
+gpt5_run3,2.0,birthday,state,pain,meeting,3,Information you might give or discuss during a doctors appointment or medical intake,3.0,25.0
+93445,2.0,office,dog,blood,bed,4,helper,1.0,41.0
+95983,2.0,hair,street,coffee,food,5,service,1.0,75.0
+94916,0.0,boy,baby,girl,house,6,things you acquire when you are in your late 20s and early 30s,1.0,50.0
+94916,0.0,doc,trip,summer,evidence,7,"Proof of a crime that took place away from home, is put into a sheet online and used once the police find it, to find the person who committed the crime.",1.0,8.0
+89616,2.0,murder,dude,afternoon,message,8,certain aspects of a suspect in a killing,3.0,28.0
+93556,2.0,week,word,number,part,9,Words found in the info about New York Times Games.,1.0,14.0
+93532,0.0,rest,deal,end,second,12,a portion of a whole,2.0,62.0
+95590,0.0,book,child,daughter,city,13,Events in a story,1.0,70.0
+gpt5_run2,2.0,mouth,floor,plane,officer,14,Things you directly interact with while going through airport security and boarding a flight,3.0,15.0
+95859,0.0,furniture,corn,clown,towel,15,The corn palace,3.0,4.0
+88939,2.0,case,death,couple,party,16,All things that tend to appear in murder mysteries involving rich families,1.0,64.0
+deepseek-chat_run1,2.0,funeral,arrest,unit,taste,17,"Things that can be preceded by the word ""after"" to form a common phrase",3.0,25.0
+95983,2.0,wine,camera,chicken,park,18,picnic,2.0,76.0
+94916,0.0,movie,picture,shot,drink,19,Going out to a party where they show a show/movie,3.0,57.0
+94821,2.0,nose,gold,professor,ground,20,A flower scientist's garden,1.0,21.0
+deepseek-chat_run1,0.0,security,system,information,order,21,Components of a cybersecurity framework,1.0,65.0
+94821,2.0,court,lunch,lieutenant,mama,22,Recess at a Court-Martial trial,3.0,8.0
+deepseek-chat_run2,2.0,husband,captain,dinner,line,23,"Roles or titles that can be preceded by the word ""head""",1.0,40.0
+gpt5_run3,0.0,building,army,train,card,24,"Types of themed sets you might buy as toys or collectibles (building set, army set, train set, card set)",3.0,40.0
+deepseek-chat_run1,0.0,defense,safety,command,permission,26,Computer security concepts,1.0,70.0
+89597,1.0,hero,east,mission,enemy,27,war,2.0,50.0
+gpt5_run2,1.0,hotel,ball,boat,earth,28,Common images used in advertisements for tropical beach vacations,3.0,25.0
+gpt5_run2,1.0,oxygen,temperature,movement,pattern,29,Health metrics commonly tracked by modern fitness and sleep wearables,2.0,40.0
+87744,1.0,colonel,club,agent,wedding,30,cult,4.0,22.0
+gpt5_run1,1.0,letter,college,lawyer,bank,31,"Sources and form of official written decisions that can significantly affect your life (letters from a college, lawyer, or bank)",3.0,30.0
+93926,1.0,road,paper,table,eye,32,things that are easy to draw,0.0,46.0
+89597,1.0,shower,candy,bedroom,planet,33,Things with more than 5 letters,4.0,5.0
+95028,1.0,box,window,bag,apartment,34,things to consider/involved in moving,2.0,20.0
+gpt5_run1,1.0,heavens,stress,punishment,option,35,Concepts often discussed in religious sermons about moral choices and their consequences,3.0,25.0
+gpt5_run3,1.0,anger,confession,request,solution,36,"Stages or elements in a conflict-resolution conversation (expressing anger, making a confession, stating a request, agreeing on a solution)",3.0,35.0
+gpt5_run1,1.0,partner,folks,middle,angel,37,Ways you might refer to family members or loved ones in everyday conversation,2.0,40.0
+deepseek-chat_run2,1.0,difference,pleasure,situation,service,38,Aspects of a customer experience review,1.0,40.0
+94257,1.0,class,king,piece,boss,39,Royalty,2.0,29.0
+94914,1.0,surprise,space,idiot,killer,40,The movie scream,2.0,50.0
+deepseek-chat_run1,1.0,neck,arm,hat,computer,41,Things you might rest your head on,1.0,40.0
+94914,1.0,stage,camp,shop,board,42,Things to find at an amusement park,0.0,74.0
+deepseek-chat_run3,1.0,truck,list,store,star,43,"Things that can be ""semi"" or associated with the word ""semi""",3.0,20.0
+87744,1.0,ride,report,area,top,44,airport,3.0,18.0
+94914,1.0,queen,glass,teacher,cell,45,School,0.0,57.0
+92984,1.0,brain,beer,fish,ice,46,wisconsin,1.0,50.0
+gpt5_run3,1.0,blade,rocket,patch,robot,47,"Signature accessories of common kids dress-up / Halloween costumes (knights blade, astronauts rocket, pirates patch, robot suit)",2.0,35.0
+95028,1.0,clothes,ship,tv,horse,48,things that can all be very valuable,3.0,0.0
+93122,3.0,bird,chest,cake,rain,49,crevis,4.0,0.0
+93990,3.0,spot,client,north,pal,50,Different locations,2.0,34.0
+93555,3.0,gift,cash,land,machine,51,a casino,0.0,90.0
+95581,2.0,flower,basketball,chick,horn,52,high school musical,3.0,69.0
+96162,3.0,bullet,soldier,football,crowd,53,Things you might see at a football game,1.0,87.0
+91608,2.0,bike,rose,dollar,button,54,Things you can find on the side of the street in a garage sale.,1.0,14.0
+93122,3.0,stairs,photo,belt,university,55,... escalator,4.0,19.0
+deepseek-chat_run3,3.0,ear,radar,senator,jacket,56,"Things that can be ""picked up"" by a device or person",3.0,40.0
+95936,3.0,arms,suit,beach,tea,57,when getting a tan by the sea,0.0,50.0
+96162,3.0,cop,station,girlfriend,record,58,Elements of a crime,1.0,95.0
+96162,3.0,pants,sea,hole,river,59,What sailors have or seen,4.0,0.0
+deepseek-chat_run3,3.0,pardon,condition,shame,health,60,Things that can be restored or improved,1.0,65.0
+96162,3.0,meat,coat,jury,milk,61,Things that can be spoiled/ruined,3.0,68.0
+93990,3.0,foot,sheriff,wall,prison,62,Someone is getting arrested,2.0,50.0
+93122,3.0,lake,pocket,buck,glasses,63,wisconsin,1.0,0.0
+95581,2.0,gate,shoe,mail,chocolate,64,mall entrance,1.0,58.0
+deepseek-chat_run3,2.0,base,project,weather,property,65,Things that can be forecasted or estimated,1.0,60.0
+gpt5_run2,3.0,language,freedom,rule,society,67,Fundamental abstract concepts in political and social theory,1.0,45.0
+88842,2.0,wire,desert,sword,telephone,68,game,4.0,73.0
+deepseek-chat_run2,2.0,gas,test,group,field,69,Types of scientific studies or research contexts,1.0,40.0
+95581,2.0,desk,ticket,cream,note,71,school,1.0,36.0
+deepseek-chat_run2,2.0,teeth,bottle,restaurant,hall,72,Things that can be capped or covered,1.0,40.0
+91608,2.0,sale,schedule,divorce,damage,73,Lawyers,1.0,63.0
+94869,0.0,winner,subject,vacation,account,74,Summer vacation and at the end the kids get money,3.0,12.0
+87265,0.0,force,pressure,fool,charge,75,Something a person can do to another person,3.0,31.0
+91304,1.0,duty,ways,decision,secret,77,Things that can be used to explain the cancelation of plans,1.0,70.0
+95944,0.0,monsieur,demon,tour,season,78,anime titles,4.0,0.0
+95103,1.0,church,tape,tree,key,79,things a Christian would have.,3.0,21.0
+94869,0.0,drug,chair,breath,sky,80,Drugs names,1.0,23.0
+94869,0.0,spy,fairy,suite,trail,81,A mission impossible movie gone wrong,3.0,19.0
+95411,0.0,tube,flag,locker,actress,82,things in a makeup room,3.0,5.0
+94962,0.0,player,battle,weight,manager,83,things in a wrestling match,1.0,50.0
+91363,0.0,airport,cheese,neighborhood,princess,84,things that are known locally,0.0,19.0
+95411,0.0,bus,boyfriend,sun,radio,85,things going on while waiting for someone to get off a bus,3.0,4.0
+deepseek-chat_run3,0.0,pool,animal,prince,driver,86,"Things that can be preceded by the word ""pool"" to form a common phrase or compound noun",1.0,60.0
+deepseek-chat_run3,1.0,dress,sergeant,film,bathroom,87,"Things that can be preceded by ""private""",1.0,40.0
+91363,0.0,exit,chopper,warden,hug,91,things in jails,4.0,6.0
+94670,1.0,devil,speech,program,trick,92,aspects of language,1.0,40.0
+91304,1.0,cab,pizza,monkey,roof,93,Things related to a scene including King Kong,1.0,72.0
+94962,0.0,leader,madame,contract,county,94,things that are important in governing a society,2.0,33.0
+95103,1.0,shirt,knife,weapon,jail,95,things you see in a prison,0.0,84.0
+93520,0.0,dime,singer,temple,thumb,97,nail,3.0,62.0
+94869,0.0,garden,cigarette,painting,tank,98,Thing that someone might find at a park,1.0,32.0
+deepseek-chat_run2,1.0,signal,heat,contact,director,99,"Things that can be ""lost"" in a movie or film context",3.0,40.0
+gpt5_run1,0.0,mister,conversation,size,code,100,"Elements involved when chatting with an online clothing stores customer support (form of address mister, the conversation itself, clothing size, and a promo/discount code)",3.0,20.0

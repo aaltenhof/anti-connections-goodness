@@ -1,0 +1,45 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+deepseek-chat_run1,2.0,doctor,phone,hand,town,1,Things you might use to respond to an emergency in a remote location,1.0,60.0
+95590,0.0,mother,room,woman,world,2,Things you would find in a history classroom.,3.0,3.0
+deepseek-chat_run2,2.0,birthday,state,pain,meeting,3,"Things that can be ""scheduled"" or ""planned for"" in a calendar",1.0,40.0
+87226,0.0,blood,dog,bed,office,4,things with unique smells,1.0,8.0
+deepseek-chat_run2,2.0,hair,food,coffee,street,5,"Things that can be described as ""dark""",1.0,60.0
+deepseek-chat_run1,2.0,house,boy,baby,girl,6,Members of a nuclear family,1.0,75.0
+94749,0.0,evidence,trip,doc,summer,7,things a person experiences,4.0,3.0
+deepseek-chat_run1,2.0,murder,dude,afternoon,message,8,"Things that can be described as ""perfect"" in a famous movie quote.",3.0,25.0
+89616,2.0,part,word,number,week,9,calender,4.0,9.0
+gpt5_run3,0.0,deal,second,rest,end,12,Common English words that function as both nouns and verbs,2.0,35.0
+gpt5_run1,0.0,child,daughter,book,city,13,"Things that are often described as lost in titles of stories, books, or films (lost child, lost daughter, lost book, lost city)",3.0,25.0
+95859,0.0,floor,mouth,officer,plane,14,The airforce,2.0,50.0
+87226,0.0,towel,clown,corn,furniture,15,things that can be multicolored,1.0,22.0
+deepseek-chat_run2,2.0,case,death,party,couple,16,"Things that can be preceded by the word ""murder""",1.0,40.0
+93532,0.0,unit,taste,arrest,funeral,17,"They can be linked to the word ""house""",4.0,25.0
+94916,0.0,park,wine,camera,chicken,18,Things required for a picnic date night,1.0,69.0
+93133,2.0,shot,movie,drink,picture,19,"you can take a shot, they shot a movie, you took a shot (drink), and you shot a picture so they can all be things using the word shot",1.0,86.0
+89616,2.0,gold,professor,nose,ground,20,things a professor of archeology might look for,4.0,14.0
+95983,2.0,information,order,security,system,21,IT,0.0,74.0
+gpt5_run3,0.0,court,lieutenant,lunch,mama,22,"Roles or situations children often act out in imaginative play (playing court, lieutenant, lunch/restaurant, and mama)",3.0,25.0
+gpt5_run3,0.0,husband,captain,dinner,line,23,Things associated with going on a cruise vacation,1.0,45.0
+95859,0.0,train,card,army,building,24,Soldiers leaving,1.0,50.0
+gpt5_run1,2.0,defense,safety,command,permission,26,"Core responsibilities of a military commander (defense, safety, issuing commands, granting permissions)",2.0,45.0
+93542,1.0,eye,table,paper,road,32,Things that are useful on a camping trip.,3.0,55.0
+93482,1.0,bag,apartment,box,window,34,Things that can be present during a college students take out order,0.0,32.0
+gpt5_run1,,anger,confession,request,solution,36,"Things someone might express during a serious or difficult conversation (e.g., an argument or reconciliation talk)",1.0,50.0
+89597,1.0,piece,king,boss,class,39,chess,3.0,2.0
+92984,1.0,list,truck,store,star,43,gas station,1.0,50.0
+deepseek-chat_run2,,area,top,report,ride,44,Things you might see on a ski resort's daily information board,1.0,40.0
+94257,1.0,clothes,ship,tv,horse,48,Bojack horseman,3.0,34.0
+91304,1.0,subject,winner,vacation,account,74,Things that center around a person's goals,4.0,40.0
+deepseek-chat_run2,0.0,ways,decision,secret,duty,77,"Things that can be ""weighed"" in a metaphorical sense",3.0,30.0
+87265,0.0,suite,trail,fairy,spy,81,types of stories,3.0,28.0
+gpt5_run1,,flag,locker,actress,tube,82,Things commonly found in or around a high school,2.0,25.0
+gpt5_run3,,weight,player,battle,manager,83,Common terms used in football (soccer) match commentary,3.0,25.0
+94670,1.0,boyfriend,bus,radio,sun,85,involve a wave,4.0,31.0
+95414,1.0,driver,prince,pool,animal,86,Things you may see in a Disney movie,3.0,66.0
+94869,0.0,chopper,warden,hug,exit,91,Running away from prison,1.0,9.0
+gpt5_run2,,trick,devil,speech,program,92,Tactics or tools used to influence voters in a political campaign,3.0,30.0
+95411,0.0,madame,leader,contract,county,94,female leader,3.0,6.0
+91304,1.0,weapon,jail,knife,shirt,95,Words that may be used in a courtroom to describe a case.,1.0,75.0
+87712,0.0,cigarette,garden,tank,painting,98,artwork,3.0,29.0
+94962,0.0,director,signal,contact,heat,99,something that identifies a certain situation,2.0,75.0
+93520,0.0,conversation,size,code,mister,100,secret,3.0,58.0

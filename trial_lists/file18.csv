@@ -1,0 +1,64 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+deepseek-chat_run3,2.0,doctor,phone,hand,town,1,Things you might need to coordinate an emergency response,1.0,65.0
+93133,2.0,room,world,woman,mother,2,"can all be used in a sentence with the word ""big"" before it",1.0,38.0
+96049,2.0,birthday,state,meeting,pain,3,certificate,3.0,42.0
+94749,0.0,bed,blood,office,dog,4,veterinary clinic,1.0,75.0
+92985,2.0,coffee,food,street,hair,5,fair,1.0,64.0
+gpt5_run1,2.0,house,boy,baby,girl,6,Simple family-and-home words commonly taught to very young children as early vocabulary,1.0,60.0
+93556,2.0,evidence,trip,doc,summer,7,When you're trying to finish an essay but your friends are trying to arrange spring break.,0.0,23.0
+95859,0.0,afternoon,murder,dude,message,8,guns,2.0,47.0
+93444,2.0,word,part,week,number,9,All of these things make up a whole thing,0.0,46.0
+96049,2.0,deal,rest,end,second,12,end of week,2.0,31.0
+deepseek-chat_run1,0.0,child,daughter,book,city,13,"Words that can be preceded by ""step"" to form a new word or phrase",3.0,25.0
+gpt5_run3,0.0,mouth,floor,plane,officer,14,Elements involved in a police arrest taking place on an airplane,3.0,20.0
+95983,2.0,clown,furniture,towel,corn,15,fair,3.0,13.0
+92985,2.0,party,case,death,couple,16,clue,1.0,49.0
+gpt5_run2,0.0,funeral,arrest,unit,taste,17,"Stages and settings in a severe COVID-19 case, from first symptom to death",3.0,15.0
+94821,2.0,park,camera,wine,chicken,18,A picnic photoshoot,1.0,17.0
+95983,2.0,movie,drink,shot,picture,19,entertainment,1.0,77.0
+96049,2.0,nose,gold,professor,ground,20,class,4.0,21.0
+93532,0.0,order,information,security,system,21,technology field,1.0,33.0
+95590,0.0,lieutenant,lunch,court,mama,22,Somewhere that you mind find a boss.,2.0,10.0
+93445,2.0,line,husband,dinner,captain,23,football,1.0,59.0
+gpt5_run2,0.0,building,army,train,card,24,"Things commonly collected by hobbyists as physical models or sets (model buildings, miniature armies, model trains, and trading/playing cards)",2.0,35.0
+94821,2.0,defense,command,safety,permission,26,Things parents might give to their kids.,1.0,30.0
+89597,1.0,agent,colonel,club,wedding,30,fancy things,3.0,11.0
+deepseek-chat_run3,,letter,college,lawyer,bank,31,Steps in a typical career path after high school,1.0,60.0
+94914,1.0,eye,road,table,paper,32,Words ending in cloth,2.0,53.0
+94914,1.0,box,window,bag,apartment,34,Moving,1.0,45.0
+93542,1.0,heavens,stress,punishment,option,35,Going to church on Sunday,3.0,63.0
+93926,1.0,solution,anger,request,confession,36,feelings that can be expressed through conversation,2.0,32.0
+87744,1.0,difference,service,pleasure,situation,38,relationships,3.0,26.0
+87744,1.0,boss,piece,class,king,39,cake,4.0,0.0
+93482,1.0,list,star,store,truck,43,Things that can appear during a grocery pickup,2.0,14.0
+gpt5_run1,,area,top,report,ride,44,"Words commonly used in local TV news, especially in weather and traffic segments",3.0,20.0
+deepseek-chat_run2,,cell,queen,glass,teacher,45,"Things that can be preceded by the word ""mother""",1.0,40.0
+95028,1.0,rocket,robot,patch,blade,47,things that could cause hurt or involve hurt themselves,1.0,25.0
+94914,1.0,horse,ship,clothes,tv,48,Words that could end in line,3.0,58.0
+95936,3.0,pal,north,spot,client,50,"things can be come after ""best""",4.0,0.0
+94320,3.0,chick,basketball,flower,horn,52,things can be found on a farm,1.0,60.0
+95936,3.0,bullet,crowd,football,soldier,53,preparation of participating in a football game in military,1.0,24.0
+93983,3.0,tea,beach,arms,suit,57,Items associated with the beach.,0.0,84.0
+95581,2.0,pants,hole,sea,river,59,boating expedition,3.0,27.0
+96084,3.0,field,test,gas,group,69,Things that can follow the word blood,2.0,76.0
+gpt5_run1,1.0,account,subject,winner,vacation,74,"Common words used in spam or promotional email subject lines (e.g., Account alert, Youre a winner, Free vacation)",3.0,25.0
+deepseek-chat_run2,,pressure,fool,charge,force,75,"Words that can follow ""under"" to form a common phrase",1.0,40.0
+87712,0.0,decision,secret,ways,duty,77,court,1.0,39.0
+deepseek-chat_run2,,monsieur,tour,demon,season,78,"Words that can be preceded by ""The"" to form a title of a film, TV show, or book",1.0,60.0
+gpt5_run3,,church,key,tree,tape,79,Things you might use when decorating a church for Christmas,3.0,15.0
+95944,0.0,chair,sky,drug,breath,80,tools people use to relax themselves,4.0,35.0
+95411,0.0,spy,trail,fairy,suite,81,looking for a rat in government,4.0,0.0
+94670,1.0,locker,actress,flag,tube,82,"all involve metal cylinder (locking system, microphone, pole, metal tube)",3.0,23.0
+95414,1.0,manager,weight,player,battle,83,Things you may find in a video game,3.0,37.0
+95103,1.0,cheese,airport,neighborhood,princess,84,things people dress up as for halloween,4.0,0.0
+95414,1.0,boyfriend,bus,sun,radio,85,Things that are better in the summer,3.0,26.0
+gpt5_run1,1.0,pool,animal,prince,driver,86,Things you might find on a luxury safari taken by a prince,3.0,20.0
+deepseek-chat_run1,,dress,sergeant,film,bathroom,87,Things you might find in a movie set or theater production,1.0,65.0
+93945,0.0,exit,hug,chopper,warden,91,Things that bring you safety,2.0,15.0
+95103,1.0,speech,trick,program,devil,92,During halloween,1.0,0.0
+95875,0.0,pizza,cab,roof,monkey,93,monkey joes,3.0,0.0
+94869,0.0,county,contract,madame,leader,94,UK leaders,1.0,19.0
+87712,0.0,shirt,weapon,knife,jail,95,crime,0.0,77.0
+deepseek-chat_run1,0.0,cigarette,tank,painting,garden,98,Items that can be part of a still life composition,3.0,40.0
+87712,0.0,heat,signal,director,contact,99,hospital,1.0,31.0
+91363,0.0,size,conversation,code,mister,100,things related to the bro code,3.0,6.0

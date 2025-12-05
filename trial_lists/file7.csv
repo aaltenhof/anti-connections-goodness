@@ -1,0 +1,92 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+93133,2.0,doctor,town,phone,hand,1,They all have something to do with a phone I think,4.0,13.0
+deepseek-chat_run3,2.0,room,mother,world,woman,2,"Things that can be described as ""nurturing"" or ""encompassing"" in a metaphorical sense",3.0,25.0
+deepseek-chat_run1,2.0,birthday,state,pain,meeting,3,Unpleasant or stressful events that can be anticipated or scheduled,3.0,40.0
+deepseek-chat_run2,0.0,dog,blood,bed,office,4,Things that can be associated with a veterinarian's workplace,1.0,65.0
+93532,0.0,street,hair,coffee,food,5,What a girl would do in her weekend,2.0,61.0
+93532,0.0,baby,girl,house,boy,6,nouns,3.0,88.0
+deepseek-chat_run2,2.0,trip,summer,doc,evidence,7,"Things that can be described as ""cold"" in a metaphorical sense",3.0,25.0
+gpt5_run1,0.0,murder,dude,afternoon,message,8,"Details you might record in a detectives case report about a crime (crime itself, suspect, time, and key evidence)",2.0,35.0
+96049,2.0,word,part,number,week,9,day of the week,3.0,38.0
+95983,2.0,end,rest,deal,second,12,cards,2.0,50.0
+gpt5_run3,0.0,child,daughter,book,city,13,"Things that are commonly described as lost (e.g., lost child, lost daughter, lost book, lost city)",2.0,45.0
+deepseek-chat_run1,0.0,mouth,floor,plane,officer,14,"Things that can be ""on the"" in common phrases (e.g., ""on the mouth,"" ""on the floor,"" ""on the plane,"" ""on the officer"")",3.0,20.0
+gpt5_run3,2.0,furniture,clown,towel,corn,15,Things you might find at a childrens outdoor birthday party (with games and food),2.0,30.0
+95983,2.0,death,case,party,couple,16,murder,2.0,22.0
+gpt5_run1,0.0,funeral,arrest,unit,taste,17,Aspects of life that are strongly shaped by cultural norms and differ widely between societies,3.0,15.0
+93444,2.0,camera,chicken,wine,park,18,Things that would make a good picnic,0.0,75.0
+95590,0.0,picture,shot,drink,movie,19,Things you would find in a film,3.0,31.0
+92985,2.0,nose,gold,ground,professor,20,archolgist,1.0,75.0
+93444,2.0,system,order,security,information,21,Things that computers have,0.0,64.0
+93444,2.0,mama,lieutenant,court,lunch,22,Things that may be at a school,1.0,27.0
+gpt5_run1,2.0,husband,captain,dinner,line,23,Things you might talk about when describing a cruise vacation with your spouse,3.0,25.0
+93445,2.0,card,train,building,army,24,army,1.0,46.0
+95859,0.0,command,safety,defense,permission,26,The Army,0.0,71.0
+93482,1.0,hero,east,mission,enemy,27,Things that can be used to describe a war veterans experience in the World Wars,1.0,30.0
+94914,1.0,ball,earth,boat,hotel,28,Types of joints/connections,1.0,60.0
+89597,1.0,pattern,temperature,movement,oxygen,29,hospital,2.0,50.0
+95028,1.0,colonel,club,wedding,agent,30,concepts where there is thought to be a leader,2.0,15.0
+89597,1.0,lawyer,bank,letter,college,31,accounting,1.0,71.0
+gpt5_run2,1.0,eye,road,table,paper,32,"Nouns commonly used in everyday English idioms with the preposition on (keep an eye on, on the road, on the table, on paper)",3.0,20.0
+94257,1.0,bedroom,candy,shower,planet,33,Bodywash,3.0,1.0
+93926,1.0,bag,apartment,box,window,34,things commonly found in a house,0.0,80.0
+88379,1.0,option,punishment,heavens,stress,35,feeling,3.0,37.0
+94894,1.0,confession,request,anger,solution,36,court trial,0.0,94.0
+93926,1.0,middle,partner,angel,folks,37,words that can describe people,1.0,38.0
+96097,1.0,difference,pleasure,situation,service,38,perspective based,3.0,38.0
+93926,1.0,piece,boss,king,class,39,words that represent sizes,1.0,59.0
+93926,1.0,surprise,space,idiot,killer,40,words that can precede plot,1.0,41.0
+92946,1.0,hat,neck,arm,computer,41,Parts of the body,1.0,88.0
+93482,1.0,shop,board,camp,stage,42,Things you might see in a Camp Rock movie,1.0,5.0
+gpt5_run2,1.0,truck,list,store,star,43,"Things you interact with when buying something from an online retailer like Amazon (delivery truck, wish list, online store, star rating)",3.0,25.0
+95028,1.0,report,top,ride,area,44,things involved in a police's work,3.0,13.0
+95028,1.0,teacher,glass,cell,queen,45,things that all represent some sort of power,2.0,25.0
+gpt5_run1,1.0,brain,beer,fish,ice,46,"Foods that are (or can be) served deep-fried, especially as novelty or regional dishes",3.0,25.0
+92946,1.0,patch,blade,rocket,robot,47,Things you would find in a video game,2.0,67.0
+deepseek-chat_run3,1.0,ship,horse,tv,clothes,48,Items that can be transported in a moving truck,1.0,45.0
+95936,3.0,rain,bird,cake,chest,49,"a moment that someone is waiting for the ordered cake in a bakery named ""Chest"" in a rainy day and watching a bird outside",4.0,1.0
+93983,3.0,client,pal,spot,north,50,All of these have to do with Christmas.,4.0,1.0
+gpt5_run2,3.0,machine,gift,cash,land,51,Types of prizes you might win on a game show or in a sweepstakes,1.0,35.0
+deepseek-chat_run2,3.0,horn,basketball,chick,flower,52,"Things that can be described as ""blowing"" or ""blown""",3.0,25.0
+93555,3.0,bullet,soldier,crowd,football,53,has do do with America,0.0,85.0
+93122,3.0,dollar,rose,bike,button,54,petals,3.0,0.0
+gpt5_run1,2.0,photo,stairs,university,belt,55,Things involved in a formal graduation photo taken on the steps of a university building,3.0,15.0
+deepseek-chat_run1,2.0,ear,radar,senator,jacket,56,"Things that can be ""on"" or ""in"" someone's head",3.0,30.0
+93990,3.0,beach,arms,tea,suit,57,Spending the day at the beach,4.0,32.0
+gpt5_run3,2.0,station,record,girlfriend,cop,58,Elements involved when a suspect is processed in a police investigation,3.0,35.0
+gpt5_run3,3.0,pants,hole,sea,river,59,Things commonly referred to with the word black in front of them,3.0,30.0
+93983,3.0,shame,condition,pardon,health,60,These are all ideas that would commonly be talked about in a hospital.,3.0,29.0
+95581,2.0,milk,coat,jury,meat,61,murder trial,2.0,37.0
+96162,3.0,foot,wall,prison,sheriff,62,All found in a law enforcement place,3.0,87.0
+93990,3.0,pocket,lake,buck,glasses,63,Going to play hockey with your friends,3.0,33.0
+deepseek-chat_run1,3.0,gate,mail,chocolate,shoe,64,Items that might be left on a front porch or doorstep,1.0,65.0
+96162,3.0,weather,project,property,base,65,Things that are observed or done during camping,2.0,59.0
+gpt5_run1,3.0,language,freedom,rule,society,67,Fundamental abstract concepts in political and social philosophy,1.0,45.0
+gpt5_run2,3.0,telephone,wire,sword,desert,68,Elements commonly seen in a desert battlefield scene in war stories,3.0,25.0
+93555,3.0,group,gas,test,field,69,science things,3.0,14.0
+91608,2.0,desk,ticket,note,cream,71,getting pulled over,2.0,11.0
+93983,3.0,restaurant,teeth,bottle,hall,72,All of these have to do with alcohol.,4.0,16.0
+gpt5_run3,2.0,damage,sale,schedule,divorce,73,Possible outcomes or rulings a judge might issue in a civil or family court case,3.0,45.0
+94962,0.0,vacation,subject,winner,account,74,things that someone will get if they win something,2.0,37.0
+95414,1.0,force,charge,fool,pressure,75,"Things that are mentioned in a science class 
+",0.0,99.0
+gpt5_run3,1.0,ways,decision,secret,duty,77,Elements of a moral dilemma a character might face in a story,3.0,35.0
+95103,1.0,tour,monsieur,season,demon,78,things you would see at a museum,1.0,22.0
+deepseek-chat_run3,0.0,church,key,tree,tape,79,Items that can be used as symbols in a family coat of arms or heraldry,3.0,25.0
+gpt5_run1,1.0,breath,chair,sky,drug,80,Common ways people try to relax or relieve stress,2.0,25.0
+91304,1.0,trail,fairy,spy,suite,81,Things that might appear in a child's fantasy book,2.0,84.0
+gpt5_run2,0.0,flag,locker,actress,tube,82,Things you might encounter in or around a busy London Underground (Tube) station near the West End theatre district,3.0,10.0
+gpt5_run1,0.0,weight,player,battle,manager,83,"Aspects of organizing a competitive combat sports match (e.g., boxing or MMA)",3.0,40.0
+95944,0.0,cheese,airport,neighborhood,princess,84,elements of a romantic comedy,3.0,50.0
+deepseek-chat_run1,0.0,radio,boyfriend,bus,sun,85,Things you might miss while on a long-distance trip,1.0,40.0
+95944,0.0,prince,pool,animal,driver,86,Things that a rich family has,1.0,91.0
+gpt5_run2,0.0,dress,sergeant,film,bathroom,87,"Things a recruit commonly deals with during military boot camp (uniform dress, drill sergeants, training films, communal bathrooms)",3.0,15.0
+93520,0.0,hug,chopper,exit,warden,91,prison,2.0,55.0
+93520,0.0,devil,trick,speech,program,92,donald trump,2.0,10.0
+93945,0.0,pizza,cab,monkey,roof,93,New York,1.0,67.0
+87712,0.0,madame,leader,contract,county,94,mayor,3.0,40.0
+deepseek-chat_run3,1.0,shirt,knife,weapon,jail,95,Items that could be used as evidence in a crime scene investigation,1.0,40.0
+95411,0.0,dime,singer,temple,thumb,97,things on a person near a microphone,3.0,5.0
+94962,0.0,painting,tank,cigarette,garden,98,things that people stereotype with artists,1.0,49.0
+93520,0.0,heat,signal,director,contact,99,things you would use if you got in a car accident,2.0,25.0
+94670,1.0,mister,conversation,code,size,100,words used in sales,1.0,58.0

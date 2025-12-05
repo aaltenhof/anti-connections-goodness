@@ -1,0 +1,93 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+95590,0.0,doctor,hand,phone,town,1,Places you might find a doctors office,1.0,24.0
+gpt5_run1,2.0,room,mother,world,woman,2,Common nouns that naturally form the phrase the other ___ in everyday English,3.0,35.0
+92985,2.0,meeting,pain,birthday,state,3,day,3.0,30.0
+96049,2.0,office,bed,dog,blood,4,vet,1.0,60.0
+87226,0.0,street,food,hair,coffee,5,things that can be brown,0.0,24.0
+89616,2.0,baby,boy,house,girl,6,bringing home a kid from the hospital,1.0,33.0
+gpt5_run1,2.0,trip,summer,doc,evidence,7,Information gathered for a personal injury lawsuit about an accident on a summer trip,3.0,15.0
+94916,0.0,murder,afternoon,dude,message,8,Surfing at 1 pm when someone is killed and made to look like a suicide to send a message,4.0,2.0
+gpt5_run1,0.0,word,number,week,part,9,"Types of units used to divide larger things (language, quantity, time, and wholes)",2.0,40.0
+deepseek-chat_run3,2.0,deal,second,rest,end,12,Words that can be used as both nouns and verbs in English,1.0,60.0
+89616,2.0,child,book,daughter,city,13,trip to a bookstore with your child,3.0,14.0
+93445,2.0,floor,plane,officer,mouth,14,police,1.0,30.0
+deepseek-chat_run2,2.0,furniture,clown,towel,corn,15,Items that might be found in a circus-themed hotel room,3.0,25.0
+deepseek-chat_run3,0.0,case,death,party,couple,16,Elements of a murder mystery plot,1.0,70.0
+88939,2.0,arrest,taste,funeral,unit,17,All things that can be correlated to the robbery of a fancy score,3.0,25.0
+93445,2.0,camera,park,chicken,wine,18,valentines day,3.0,38.0
+deepseek-chat_run1,2.0,drink,shot,movie,picture,19,"Things you can ""take""",1.0,40.0
+deepseek-chat_run1,2.0,ground,gold,nose,professor,20,"Things that can be ""runny""",3.0,30.0
+gpt5_run2,2.0,security,system,information,order,21,"Areas in a company that commonly have dedicated management systems (security management, system management, information management, order management)",3.0,25.0
+gpt5_run1,0.0,court,lieutenant,lunch,mama,22,"Things commonly involved in a criminal court trial day, especially around lunchtime",3.0,25.0
+93133,2.0,husband,captain,dinner,line,23,"Could all have to do with leadership. Husband is usually seen as ""head"" of household, captain is incharge of ship/plane, dinner is usually the biggest meal, line lead people.",1.0,76.0
+deepseek-chat_run2,2.0,building,army,train,card,24,"Things that can be described as ""regular"" or ""on a schedule""",3.0,25.0
+95590,0.0,safety,defense,permission,command,26,A traffic directors ques,1.0,35.0
+87744,1.0,east,mission,enemy,hero,27,maffia,2.0,23.0
+89597,1.0,boat,earth,ball,hotel,28,"Can be anywhere
+",4.0,0.0
+deepseek-chat_run1,1.0,oxygen,temperature,movement,pattern,29,Essential factors for sustaining life in an ecosystem,1.0,40.0
+88379,1.0,agent,club,colonel,wedding,30,war,1.0,45.0
+deepseek-chat_run1,1.0,letter,college,lawyer,bank,31,Things that can be associated with a formal application process,1.0,65.0
+deepseek-chat_run1,1.0,eye,road,table,paper,32,"Things that can be described as having a ""corner"" or ""cornered""",3.0,25.0
+94914,1.0,candy,planet,shower,bedroom,33,Children,1.0,25.0
+gpt5_run1,1.0,bag,apartment,window,box,34,Things involved when moving your belongings into a new apartment,2.0,40.0
+89597,1.0,stress,punishment,heavens,option,35,"difficult things
+",3.0,11.0
+deepseek-chat_run1,1.0,anger,confession,request,solution,36,Stages in a conflict resolution process,1.0,65.0
+95028,1.0,angel,middle,partner,folks,37,concepts that are relevant around the holidays,1.0,50.0
+94894,1.0,pleasure,situation,difference,service,38,Working a job you love,1.0,29.0
+92984,1.0,class,boss,piece,king,39,chess,2.0,24.0
+gpt5_run1,1.0,killer,surprise,space,idiot,40,Dramatic buzzwords often used in sensational horror/sci-fi/comedy movie titles,2.0,30.0
+93542,1.0,computer,neck,arm,hat,41,Super hacking,2.0,62.0
+94257,1.0,shop,board,camp,stage,42,Boardwalk Town,4.0,0.0
+94894,1.0,truck,star,store,list,43,shopping for Christmas gifts for kids,0.0,100.0
+94257,1.0,top,area,ride,report,44,Amusement park review,2.0,24.0
+94257,1.0,teacher,queen,glass,cell,45,School,4.0,1.0
+94894,1.0,beer,ice,brain,fish,46,Cooler you take home after fishing,1.0,63.0
+deepseek-chat_run1,1.0,blade,rocket,patch,robot,47,Items that can be part of a futuristic soldier's combat gear,3.0,40.0
+gpt5_run2,1.0,ship,horse,tv,clothes,48,Things people commonly rent temporarily instead of buying,3.0,35.0
+94320,3.0,bird,cake,chest,rain,49,Things a bird wants while hungry and thirsty and cold,3.0,16.0
+gpt5_run3,2.0,spot,client,pal,north,50,"Words that are one half of a familiar contrasting pair (north/south, client/server, friend/foe, spots/stripes)",3.0,20.0
+deepseek-chat_run3,3.0,machine,gift,cash,land,51,Assets that can be inherited or passed down in an estate,1.0,40.0
+88842,2.0,flower,basketball,chick,horn,52,Outside,3.0,65.0
+gpt5_run3,3.0,football,bullet,soldier,crowd,53,Things you might see at a football match when soldiers fire on the crowd,3.0,40.0
+96162,3.0,bike,button,dollar,rose,54,Stuff you can find on sale,1.0,93.0
+91608,2.0,photo,university,belt,stairs,55,Things you see at college everyday,3.0,12.0
+93990,3.0,jacket,senator,ear,radar,56,Things that have multiple parts to them,3.0,38.0
+gpt5_run2,2.0,suit,beach,tea,arms,57,Things typically associated with a traditional British seaside hotel stay,3.0,15.0
+93983,3.0,cop,station,record,girlfriend,58,Ideas that have to due with illegal activities and jail.,2.0,20.0
+deepseek-chat_run1,3.0,pants,hole,sea,river,59,"Things that can have a ""cuff""",3.0,25.0
+gpt5_run3,3.0,pardon,condition,shame,health,60,"Different kinds of personal states or statuses a person can be in (legal, physical, emotional)",2.0,35.0
+93983,3.0,meat,milk,coat,jury,61,Items that would be considered necessary to most people.,3.0,5.0
+88842,2.0,sheriff,wall,foot,prison,62,town,3.0,70.0
+93555,3.0,glasses,lake,buck,pocket,63,fishing,2.0,51.0
+91608,2.0,mail,shoe,gate,chocolate,64,Things in Charlie and the chocolate factory,1.0,57.0
+gpt5_run1,2.0,base,project,weather,property,65,Factors you must consider when planning a construction project on a piece of property,3.0,20.0
+94320,3.0,language,rule,freedom,society,67,Important concepts of politics and sociology,0.0,90.0
+95936,3.0,desert,telephone,wire,sword,68,the moment you are watching a old movie on your phone,0.0,24.0
+95936,3.0,group,test,gas,field,69,in a study setting,1.0,9.0
+deepseek-chat_run3,3.0,desk,note,cream,ticket,71,Items you might find on a receptionist's desk,1.0,65.0
+96084,3.0,teeth,bottle,restaurant,hall,72,Things you might find in a cafeteria,1.0,58.0
+94320,3.0,sale,schedule,divorce,damage,73,Things can be found in a divorce contract,1.0,75.0
+93945,0.0,winner,vacation,account,subject,74,Fraud,1.0,40.0
+95944,0.0,charge,pressure,force,fool,75,Things that sole purpose is to apply work to an object,3.0,64.0
+87265,0.0,secret,ways,duty,decision,77,Things people can make,4.0,6.0
+94670,1.0,monsieur,tour,season,demon,78,France,3.0,86.0
+95944,0.0,church,tree,key,tape,79,items that involve the joining of one thing to another,4.0,14.0
+94962,0.0,sky,breath,drug,chair,80,things that can cause hallucinations,1.0,36.0
+95875,0.0,trail,suite,spy,fairy,81,followed by dust,4.0,0.0
+deepseek-chat_run3,0.0,flag,locker,actress,tube,82,Items that can be found in a prop room or backstage at a theater,1.0,65.0
+93945,0.0,manager,weight,battle,player,83,Megaknight,1.0,7.0
+87712,0.0,airport,cheese,neighborhood,princess,84,Milwaukee,1.0,22.0
+94962,0.0,boyfriend,radio,sun,bus,85,a dream scenario someone may have,1.0,51.0
+93520,0.0,prince,driver,pool,animal,86,the pursuit of happyness,2.0,46.0
+95411,0.0,dress,bathroom,sergeant,film,87,things at an important movie showing,1.0,11.0
+deepseek-chat_run1,0.0,exit,hug,warden,chopper,91,Things that can be associated with a prison break,1.0,65.0
+94869,0.0,program,trick,devil,speech,92,The president of the United States,0.0,24.0
+94869,0.0,cab,monkey,roof,pizza,93,Chucky cheese,3.0,7.0
+95103,1.0,madame,contract,county,leader,94,things a president would have,2.0,60.0
+deepseek-chat_run2,0.0,shirt,knife,weapon,jail,95,Items that might be confiscated during a police arrest,1.0,40.0
+gpt5_run3,0.0,singer,thumb,temple,dime,97,Elements of a street singer performing outside a temple for tips,3.0,20.0
+95411,0.0,painting,tank,garden,cigarette,98,things that can be found in a junkyard,4.0,0.0
+gpt5_run1,1.0,signal,heat,contact,director,99,Key concerns and terms youd hear in a spacecraft mission control room,3.0,10.0
+91304,1.0,size,conversation,code,mister,100,Things that are the result of an engagement,4.0,11.0

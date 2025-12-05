@@ -1,0 +1,22 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+93556,2.0,phone,hand,town,doctor,1,Things that would be helpful in an apocolypse where the phone lines still work.,3.0,15.0
+94749,0.0,room,mother,world,woman,2,place that houses humans,2.0,36.0
+94916,0.0,state,meeting,pain,birthday,3,Apart from Family on an important day,3.0,14.0
+93444,2.0,blood,dog,bed,office,4,Many people have all of these things,1.0,62.0
+94821,2.0,food,street,coffee,hair,5,Shops on a city street,2.0,17.0
+93556,2.0,baby,house,boy,girl,6,"Words that come up in Melanie Martinez's ""Dollhouse"" song.",0.0,38.0
+95590,0.0,evidence,summer,trip,doc,7,The things you would need to do to sign up for a summer program.,1.0,55.0
+deepseek-chat_run3,,murder,dude,afternoon,message,8,Elements of a crime drama plot summary,1.0,65.0
+94821,2.0,part,word,number,week,9,What you might see on a weekly publication,4.0,5.0
+94821,2.0,deal,second,end,rest,12,parts of a deck of cards during a game,4.0,8.0
+96049,2.0,child,daughter,city,book,13,author,1.0,41.0
+93556,2.0,clown,furniture,corn,towel,15,Items that can match in color,1.0,58.0
+gpt5_run2,2.0,case,death,party,couple,16,Common story elements in a classic murder mystery,3.0,25.0
+94916,0.0,taste,funeral,unit,arrest,17,Steps of a poison homicide,3.0,0.0
+95590,0.0,chicken,park,camera,wine,18,Things related to a picnic,3.0,31.0
+88939,2.0,shot,drink,picture,movie,19,Things that can be related to an old western stop-motion movie,1.0,30.0
+deepseek-chat_run2,,ground,gold,nose,professor,20,"Things that can be ""runny""",3.0,25.0
+87226,0.0,order,security,information,system,21,jobs for AI,0.0,10.0
+93556,2.0,court,mama,lieutenant,lunch,22,Words that come up when a lawyer and their mother are talking after church.,2.0,23.0
+92985,2.0,army,building,train,card,24,pentagon,3.0,19.0
+95983,2.0,defense,command,permission,safety,26,authority,1.0,80.0
