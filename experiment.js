@@ -332,10 +332,10 @@ var save_data = {
     }
 };
 
-async function loadTrials() {
+async function loadTrials(datapipe_condition) {
     try {
-        const response = await fetch(`trial_lists/file${datapipe_condition}.csv`);
-        console.log('Condition:', datapipe_condition);
+        const map_to_file = datapipe_condition + 1;
+        const response = await fetch(`trial_lists/file${map_to_file}.csv`);
         console.log('Trial List:', response);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
