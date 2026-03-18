@@ -1,0 +1,14 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+87226,0.0,hand,doctor,phone,town,1,basic information about an individual,3.0,24.0
+93532,0.0,mother,woman,room,world,2,Can be found in the animation Inside Out 2,3.0,0.0
+94749,0.0,state,birthday,meeting,pain,3,possible situations at work,3.0,17.0
+93444,2.0,hair,street,coffee,food,5,If these things arent good Ill have a bad day,1.0,36.0
+gpt5_run2,,house,boy,baby,girl,6,"Things typically included in a childs dollhouse set (the house and family members: boy, girl, baby)",1.0,55.0
+gpt5_run3,,murder,dude,afternoon,message,8,Details you might find in a detectives report about a crime,2.0,40.0
+95590,0.0,number,part,week,word,9,Parts of a whole,1.0,29.0
+94916,0.0,second,end,deal,rest,12,Things that come after something else.,4.0,21.0
+96049,2.0,party,couple,death,case,16,murder,2.0,34.0
+95859,0.0,taste,unit,funeral,arrest,17,War,3.0,36.0
+deepseek-chat_run3,,security,system,information,order,21,Components of a cybersecurity framework,1.0,65.0
+93556,2.0,train,building,army,card,24,Military,0.0,83.0
+93532,0.0,safety,command,permission,defense,26,military,1.0,88.0

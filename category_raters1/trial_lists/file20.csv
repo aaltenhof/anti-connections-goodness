@@ -1,0 +1,29 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+94821,2.0,hand,town,doctor,phone,1,relating to a small doctor's office,1.0,24.0
+92985,2.0,mother,world,woman,room,2,caretaker,1.0,39.0
+93444,2.0,birthday,pain,state,meeting,3,Things that can greatly affect someones mood,1.0,14.0
+deepseek-chat_run1,2.0,dog,blood,bed,office,4,Things that can be found in a veterinary clinic,1.0,60.0
+deepseek-chat_run1,2.0,hair,food,coffee,street,5,"Things that can be described as ""greasy""",1.0,40.0
+93444,2.0,girl,boy,baby,house,6,Things that families may have,1.0,59.0
+93133,2.0,trip,evidence,summer,doc,7,Words associated with vacation,4.0,50.0
+94821,2.0,message,afternoon,murder,dude,8,A murder of the mailman,2.0,11.0
+93445,2.0,number,part,word,week,9,school,3.0,27.0
+95590,0.0,end,deal,rest,second,12,Ends of things,3.0,61.0
+95859,0.0,daughter,child,city,book,13,The city of ember,0.0,36.0
+95590,0.0,corn,clown,towel,furniture,15,Things you might see at a carnival,1.0,69.0
+gpt5_run3,2.0,case,death,party,couple,16,Terms commonly involved in legal proceedings about marriages and estates,3.0,25.0
+deepseek-chat_run3,0.0,funeral,arrest,unit,taste,17,"Things that can be preceded by the word ""after"" to describe an experience or event",3.0,40.0
+gpt5_run1,0.0,camera,chicken,wine,park,18,Things you might bring to a picnic in a park,1.0,60.0
+deepseek-chat_run2,2.0,drink,shot,movie,picture,19,"Things that can be described as ""short""",1.0,40.0
+gpt5_run2,,ground,gold,nose,professor,20,Things that are commonly described as being buried in everyday expressions,3.0,20.0
+88939,2.0,system,information,order,security,21,All parts of a cybersecurity systems,0.0,92.0
+94916,0.0,lunch,court,lieutenant,mama,22,Things you call for,1.0,50.0
+93532,0.0,husband,captain,line,dinner,23,associate with wedding,4.0,52.0
+94821,2.0,card,train,building,army,24,A soldier writing home.,3.0,13.0
+89616,2.0,command,safety,permission,defense,26,going to war,2.0,18.0
+93520,0.0,decision,duty,secret,ways,77,life,3.0,52.0
+94670,1.0,trail,spy,suite,fairy,81,words to describe music,3.0,17.0
+deepseek-chat_run2,,radio,boyfriend,bus,sun,85,"Things that can be ""caught"" in a metaphorical or literal sense.",3.0,25.0
+gpt5_run1,,shirt,knife,weapon,jail,95,Elements involved in a stabbing incident inside a jail,2.0,35.0
+95414,1.0,director,heat,contact,signal,99,"Things that are yelled during acting 
+",4.0,2.0

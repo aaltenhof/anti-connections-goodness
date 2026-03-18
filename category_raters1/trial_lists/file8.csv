@@ -1,0 +1,91 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+deepseek-chat_run2,2.0,doctor,phone,hand,town,1,Things you might use to respond to an emergency in a small community,1.0,40.0
+96049,2.0,room,woman,world,mother,2,birth,1.0,61.0
+deepseek-chat_run3,2.0,birthday,state,pain,meeting,3,"Things that can be ""scheduled"" or ""planned for"" in advance",1.0,40.0
+95590,0.0,blood,bed,dog,office,4,Things you would find in a vet.,0.0,92.0
+94749,0.0,food,hair,coffee,street,5,what a big city has to offer,2.0,40.0
+94821,2.0,boy,baby,girl,house,6,a home-birth,1.0,20.0
+95983,2.0,summer,doc,trip,evidence,7,mystery,3.0,19.0
+93532,0.0,murder,message,dude,afternoon,8,an episode in Detective Conan,3.0,11.0
+94916,0.0,part,week,word,number,9,Ways to organize and catagorize items,0.0,70.0
+88939,2.0,deal,end,second,rest,12,All words concerning Deal or No Deal,3.0,13.0
+deepseek-chat_run3,0.0,child,daughter,book,city,13,"Terms that can be preceded by ""step"" to form a new word or phrase",3.0,25.0
+93532,0.0,officer,plane,mouth,floor,14,What you may see from inside a tall office building,4.0,3.0
+93444,2.0,furniture,towel,clown,corn,15,Things that can look scary at night,1.0,13.0
+89616,2.0,case,party,death,couple,16,a murder at a party,3.0,12.0
+95590,0.0,taste,unit,arrest,funeral,17,things that happen to bad people,3.0,14.0
+93532,0.0,wine,park,camera,chicken,18,a celebration/party,2.0,82.0
+89616,2.0,movie,drink,shot,picture,19,aspects of going to a movie theater,1.0,21.0
+gpt5_run1,2.0,ground,gold,nose,professor,20,Things you can dig (in different senses of the verb dig),3.0,15.0
+94749,0.0,order,information,security,system,21,defense,2.0,39.0
+deepseek-chat_run2,2.0,court,lieutenant,lunch,mama,22,"Terms of address that can be preceded by ""your""",1.0,40.0
+88939,2.0,line,captain,husband,dinner,23,All things that are commonly associated with men,2.0,68.0
+95590,0.0,card,train,army,building,24,Things that slowly get stronger,1.0,28.0
+93445,2.0,safety,defense,command,permission,26,jail,3.0,40.0
+93542,1.0,mission,enemy,east,hero,27,The plot of minions,0.0,41.0
+87744,1.0,boat,earth,hotel,ball,28,basketball,2.0,21.0
+94894,1.0,temperature,oxygen,pattern,movement,29,gas particles in enclosed space,0.0,67.0
+92946,1.0,agent,club,wedding,colonel,30,Things you must have in your marriage.,4.0,34.0
+93926,1.0,letter,college,bank,lawyer,31,words used in the corporate world,1.0,74.0
+88379,1.0,table,eye,road,paper,32,flat things,3.0,23.0
+92946,1.0,planet,bedroom,shower,candy,33,What would you find in a museum.,4.0,3.0
+gpt5_run2,1.0,bag,apartment,window,box,34,"Things commonly involved when moving into a new apartment (your bags and boxes of belongings, the apartment itself, and its windows)",1.0,55.0
+deepseek-chat_run2,1.0,heavens,stress,punishment,option,35,"Things that can be described as ""heavenly"" or ""hellish"" in metaphorical language",3.0,30.0
+94257,1.0,request,confession,anger,solution,36,Scandal,2.0,55.0
+92946,1.0,partner,angel,folks,middle,37,Terms to describe/address a thing.,0.0,91.0
+95028,1.0,pleasure,service,situation,difference,38,aspects to consider when going into a relationship with someone,0.0,60.0
+95028,1.0,boss,piece,class,king,39,things involved in a desk job,3.0,1.0
+deepseek-chat_run1,1.0,killer,surprise,space,idiot,40,"Words that can follow ""dead"" to form a common phrase",3.0,30.0
+deepseek-chat_run2,1.0,neck,arm,hat,computer,41,Things that can be worn or used to support a wearable device,1.0,40.0
+deepseek-chat_run1,1.0,stage,board,shop,camp,42,Types of summer programs for children,1.0,60.0
+deepseek-chat_run1,1.0,truck,list,store,star,43,"Things that can be described as ""semi"" or ""semi-"" in common usage",3.0,30.0
+96097,1.0,top,report,area,ride,44,terms used to highlight importance,4.0,4.0
+gpt5_run2,1.0,cell,queen,glass,teacher,45,Elements of a classroom observation hive used to study honeybees,3.0,25.0
+93482,1.0,fish,beer,brain,ice,46,Things that can be consumed dueing an ice fishing trip,0.0,55.0
+94914,1.0,robot,rocket,patch,blade,47,Words the could end in man,2.0,61.0
+96097,1.0,ship,horse,clothes,tv,48,things people own,3.0,24.0
+93990,3.0,chest,cake,rain,bird,49,Things you find in nature,1.0,58.0
+gpt5_run2,3.0,spot,client,pal,north,50,Common elements in a classic private-detective case,3.0,10.0
+deepseek-chat_run2,3.0,machine,gift,cash,land,51,Things that can be inherited,1.0,70.0
+96162,3.0,horn,flower,basketball,chick,52,Things you can find in a farm themed event,3.0,44.0
+deepseek-chat_run2,3.0,football,bullet,soldier,crowd,53,"Things that can be described as ""flying"" in a metaphorical or literal sense",1.0,40.0
+deepseek-chat_run1,2.0,rose,bike,button,dollar,54,Items that can be given as a small gift or token of appreciation,1.0,40.0
+95581,2.0,photo,university,stairs,belt,55,formal,3.0,17.0
+88842,2.0,ear,jacket,radar,senator,56,Police,3.0,62.0
+93122,3.0,tea,beach,suit,arms,57,took her to 0,4.0,0.0
+95581,2.0,cop,station,record,girlfriend,58,connections,3.0,56.0
+gpt5_run1,3.0,pants,hole,sea,river,59,Places where you might accidentally lose your keys while out and about,2.0,35.0
+deepseek-chat_run1,3.0,pardon,condition,shame,health,60,"Things that can be ""poor""",1.0,60.0
+93117,3.0,jury,coat,milk,meat,61,Things seen by a person on a trip from court to the store,3.0,92.0
+95581,2.0,sheriff,wall,foot,prison,62,western movies,1.0,29.0
+deepseek-chat_run3,3.0,glasses,pocket,lake,buck,63,"Things that can be described with the word ""clear""",1.0,40.0
+93122,3.0,shoe,mail,chocolate,gate,64,lace,4.0,0.0
+93555,3.0,project,base,weather,property,65,things that are mentioned on the weather channel,2.0,19.0
+deepseek-chat_run3,3.0,language,freedom,rule,society,67,Fundamental concepts in political philosophy,1.0,60.0
+93555,3.0,telephone,wire,desert,sword,68,they go together,3.0,27.0
+96162,3.0,test,group,gas,field,69,Things involved in a research study,0.0,100.0
+93117,3.0,desk,cream,note,ticket,71,A free tour of a dairy plant,0.0,0.0
+93122,3.0,bottle,restaurant,hall,teeth,72,service,4.0,0.0
+deepseek-chat_run2,2.0,damage,sale,schedule,divorce,73,Life events that often require legal documentation or consultation,1.0,65.0
+95103,1.0,winner,vacation,subject,account,74,Things you do after winning the lottery,1.0,21.0
+deepseek-chat_run3,0.0,pressure,fool,charge,force,75,Things that can be exerted or applied on someone,1.0,40.0
+gpt5_run1,1.0,ways,decision,secret,duty,77,Moral and personal issues someone might wrestle with when choosing how to act,3.0,25.0
+94869,0.0,tour,demon,monsieur,season,78,Monster university,1.0,14.0
+95411,0.0,key,tree,church,tape,79,things old southern connotated,4.0,0.0
+94670,1.0,sky,breath,chair,drug,80,involve air,4.0,71.0
+deepseek-chat_run1,0.0,fairy,trail,suite,spy,81,"Words that can follow ""honeymoon"" to form a compound term or phrase",3.0,25.0
+93945,0.0,tube,locker,actress,flag,82,gay,2.0,25.0
+deepseek-chat_run2,0.0,weight,player,battle,manager,83,Roles or elements in a professional wrestling storyline,1.0,40.0
+94670,1.0,neighborhood,princess,cheese,airport,84,spindle,3.0,13.0
+deepseek-chat_run3,0.0,radio,boyfriend,bus,sun,85,"Things that can be ""caught"" in a metaphorical or literal sense",1.0,40.0
+95103,1.0,animal,pool,driver,prince,86,in balloon tower defence,2.0,0.0
+93520,0.0,bathroom,dress,film,sergeant,87,things found in forrest gump,1.0,4.0
+87712,0.0,chopper,exit,hug,warden,91,helicopter,3.0,20.0
+95944,0.0,program,devil,trick,speech,92,Things used deceive people,0.0,86.0
+deepseek-chat_run1,1.0,cab,roof,monkey,pizza,93,Things you might see in a cartoon about city life,1.0,60.0
+94670,1.0,leader,county,contract,madame,94,words that may be used while building,4.0,25.0
+deepseek-chat_run1,1.0,shirt,knife,weapon,jail,95,Items that can be used as evidence in a crime scene investigation,1.0,65.0
+gpt5_run1,0.0,singer,thumb,temple,dime,97,Things involved in tossing a small coin into a temple donation box during a hymn,3.0,15.0
+deepseek-chat_run3,0.0,cigarette,tank,painting,garden,98,"Things that can be described as ""smoky""",3.0,30.0
+95411,0.0,signal,contact,heat,director,99,words used when looking at a thermal image,3.0,17.0
+95414,1.0,mister,code,conversation,size,100,Types of conversations,4.0,5.0
