@@ -1,0 +1,96 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+gpt5_run3,0.0,doctor,phone,hand,town,1,Information youre typically asked to provide on a new-patient form at a doctors office,3.0,25.0
+94916,0.0,world,woman,room,mother,2,Things its hard to live without,4.0,4.0
+gpt5_run1,0.0,birthday,state,pain,meeting,3,Topics a therapist might discuss with a client during a counseling session,3.0,20.0
+88939,2.0,dog,blood,bed,office,4,All things that could be found in the vet office of an aggressive animal,1.0,42.0
+gpt5_run2,2.0,hair,food,coffee,street,5,Things you might notice while walking down a busy city street (especially near shops and cafs),3.0,35.0
+93445,2.0,girl,boy,house,baby,6,family,1.0,33.0
+93445,2.0,doc,trip,evidence,summer,7,DC,4.0,11.0
+95983,2.0,afternoon,message,dude,murder,8,cryptic,0.0,76.0
+87226,0.0,week,word,number,part,9,groups to organize,0.0,11.0
+gpt5_run2,0.0,deal,second,rest,end,12,Common English words that function as both nouns and verbs (with closely related meanings),1.0,35.0
+gpt5_run2,0.0,child,daughter,book,city,13,"Things that are often described as lost and searched for (e.g., lost child, lost daughter, lost book, lost city)",3.0,25.0
+87226,0.0,mouth,officer,plane,floor,14,things that can hurt,3.0,7.0
+93445,2.0,towel,clown,corn,furniture,15,halloween,1.0,49.0
+94916,0.0,party,case,death,couple,16,Going to a function with a partner and someone gets alcohol poisoning,3.0,7.0
+96049,2.0,funeral,taste,arrest,unit,17,jail,2.0,49.0
+92985,2.0,park,wine,camera,chicken,18,dinner,3.0,19.0
+deepseek-chat_run3,2.0,drink,shot,movie,picture,19,"Things that can be described as ""short"" or ""brief"" in duration or form.",1.0,40.0
+87226,0.0,ground,professor,gold,nose,20,something that can humble you,3.0,16.0
+92985,2.0,order,system,information,security,21,prison,0.0,93.0
+92985,2.0,mama,lieutenant,lunch,court,22,order,3.0,50.0
+deepseek-chat_run3,2.0,husband,captain,dinner,line,23,"Roles or titles that can be preceded by ""head of""",3.0,25.0
+deepseek-chat_run3,2.0,building,army,train,card,24,"Things that can be ""stationed""",3.0,35.0
+93133,2.0,defense,safety,command,permission,26,ways to control a situation,1.0,90.0
+deepseek-chat_run3,1.0,hero,enemy,east,mission,27,Elements in a classic spy movie plot,1.0,65.0
+deepseek-chat_run1,1.0,hotel,ball,boat,earth,28,Things that can be spherical or round in shape,1.0,40.0
+87744,1.0,temperature,pattern,oxygen,movement,29,science,2.0,24.0
+94894,1.0,agent,wedding,colonel,club,30,bachelorette party gone wrong,0.0,72.0
+deepseek-chat_run2,1.0,letter,college,lawyer,bank,31,Steps in a typical career and life path after high school,1.0,65.0
+95028,1.0,paper,road,eye,table,32,concepts that may be involved in a court case,3.0,0.0
+93542,1.0,shower,bedroom,candy,planet,33,Time before bed,1.0,63.0
+gpt5_run3,1.0,bag,apartment,window,box,34,Places you might peer into to see whats inside,2.0,40.0
+deepseek-chat_run3,1.0,heavens,stress,punishment,option,35,"Things that can be described as ""heavenly"" or ""hellish"" depending on perspective",3.0,25.0
+93482,1.0,request,solution,anger,confession,36,Things that can be mentioned in the interrogation room,1.0,34.0
+94914,1.0,partner,folks,angel,middle,37,Words that end with Man,1.0,40.0
+deepseek-chat_run1,1.0,difference,pleasure,situation,service,38,Aspects of a customer experience review,1.0,65.0
+94914,1.0,class,boss,piece,king,39,Chess,2.0,62.0
+93542,1.0,killer,idiot,space,surprise,40,Catching a killer,3.0,38.0
+87744,1.0,computer,neck,hat,arm,41,working,2.0,21.0
+88379,1.0,camp,board,shop,stage,42,frightening,1.0,59.0
+gpt5_run3,1.0,truck,list,store,star,43,Common English words that function as both nouns and verbs,3.0,40.0
+89597,1.0,area,top,report,ride,44,"things that can be written
+",4.0,4.0
+93926,1.0,glass,queen,cell,teacher,45,words that can be paired with class,4.0,12.0
+deepseek-chat_run3,1.0,brain,beer,fish,ice,46,"Things that can be ""on"" someone (as in a state or condition)",3.0,25.0
+deepseek-chat_run2,1.0,blade,rocket,patch,robot,47,Things that can be remotely controlled or operated,3.0,30.0
+93482,1.0,tv,clothes,ship,horse,48,Things that can be seen in a shoreside horse race,1.0,54.0
+96162,3.0,rain,chest,cake,bird,49,All can be present on an outdoor event like a celebration like birthday,3.0,25.0
+deepseek-chat_run2,2.0,spot,client,pal,north,50,"Words that can follow ""pen"" to form a compound word or phrase",3.0,30.0
+93990,3.0,machine,gift,land,cash,51,Items on a Christmas list,2.0,75.0
+96084,3.0,basketball,flower,horn,chick,52,Words that can follow baby,3.0,69.0
+93117,3.0,crowd,soldier,football,bullet,53,The story of Forrest Gump,1.0,63.0
+95581,2.0,button,bike,rose,dollar,54,badges,1.0,64.0
+94320,3.0,photo,belt,university,stairs,55,Things can be found in a university library,1.0,26.0
+deepseek-chat_run2,3.0,ear,radar,senator,jacket,56,"Things that can be ""on"" someone or something (in a figurative or literal sense)",3.0,25.0
+96162,3.0,tea,suit,beach,arms,57,Having a meeting at the beach and taking tea,2.0,37.0
+gpt5_run2,3.0,station,record,girlfriend,cop,58,"Things commonly involved in a police interrogation at a station (cop, criminal record, suspects girlfriend)",2.0,55.0
+93983,3.0,river,sea,hole,pants,59,All of these would be seen with the word black beforehand.,2.0,54.0
+95581,2.0,condition,shame,health,pardon,60,people trying to get people to act a certain way,4.0,36.0
+91608,2.0,coat,meat,jury,milk,61,Things you use or participate in at least once,3.0,12.0
+deepseek-chat_run3,3.0,sheriff,foot,prison,wall,62,Things that can be part of a prison escape scenario,1.0,65.0
+gpt5_run2,,glasses,pocket,lake,buck,63,Things you might encounter or use on a deer-hunting trip by a lake,3.0,25.0
+88842,2.0,chocolate,shoe,gate,mail,64,Store,3.0,39.0
+93990,3.0,base,project,property,weather,65,The weather channel on TV,2.0,52.0
+deepseek-chat_run1,3.0,language,freedom,rule,society,67,Fundamental concepts in political philosophy,1.0,70.0
+93990,3.0,wire,sword,telephone,desert,68,Things that can be found in the envirnent,4.0,31.0
+93990,3.0,gas,test,field,group,69,Things in science,1.0,62.0
+93983,3.0,desk,note,cream,ticket,71,Things that could be found in a bedroom.,2.0,16.0
+deepseek-chat_run3,3.0,teeth,bottle,restaurant,hall,72,Things that can be capped or covered,1.0,40.0
+gpt5_run2,3.0,damage,sale,schedule,divorce,73,Common reasons ordinary people might have a case in civil/family court,3.0,25.0
+94670,1.0,subject,account,vacation,winner,74,Commonly numerically counted terms,3.0,42.0
+gpt5_run1,0.0,pressure,fool,charge,force,75,Common English words that function as both nouns and verbs,3.0,35.0
+95103,1.0,ways,duty,secret,decision,77,things an agent has,1.0,61.0
+gpt5_run3,0.0,monsieur,tour,demon,season,78,English words borrowed from French (loanwords of French origin),3.0,40.0
+deepseek-chat_run1,1.0,church,key,tree,tape,79,Items that might be used in a wedding ceremony or celebration,1.0,40.0
+87712,0.0,sky,chair,breath,drug,80,"camping
+
+",4.0,14.0
+95944,0.0,suite,fairy,trail,spy,81,tropes in fantasy media,3.0,44.0
+deepseek-chat_run1,0.0,flag,locker,actress,tube,82,Items that might be found in a high school theater's prop room or backstage area,1.0,65.0
+87265,0.0,battle,weight,player,manager,83,What you might find at a wrestling match,3.0,56.0
+gpt5_run1,1.0,neighborhood,airport,cheese,princess,84,Themed play areas you might find in a children's museum or indoor play center,3.0,20.0
+87712,0.0,radio,boyfriend,bus,sun,85,summer,1.0,7.0
+91363,0.0,prince,animal,driver,pool,86,personal luxuries,3.0,8.0
+87712,0.0,dress,bathroom,film,sergeant,87,prom,3.0,56.0
+95411,0.0,warden,hug,exit,chopper,91,things related to getting out of prison,3.0,13.0
+95414,1.0,devil,trick,program,speech,92,"Things that make you nervous 
+",0.0,91.0
+94670,1.0,roof,cab,pizza,monkey,93,have patterns made of repeating aspects,4.0,24.0
+gpt5_run1,0.0,leader,contract,madame,county,94,"Terms you might encounter in a county government meeting chaired by a woman (a county leader approving a public contract, addressed as Madame Chair)",3.0,20.0
+93945,0.0,knife,shirt,jail,weapon,95,Things that you might find at a crime scene,1.0,70.0
+94670,1.0,dime,thumb,singer,temple,97,Aspects of worship,1.0,15.0
+93945,0.0,garden,tank,painting,cigarette,98,The American Dream,2.0,25.0
+deepseek-chat_run1,0.0,signal,heat,contact,director,99,Elements of a fire alarm system,1.0,40.0
+94962,0.0,mister,code,conversation,size,100,"things that may come up when identifying a situation 
+",3.0,38.0

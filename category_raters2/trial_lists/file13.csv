@@ -1,0 +1,91 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+89616,2.0,phone,town,doctor,hand,1,a small towns way of contacting their local doctor,3.0,14.0
+gpt5_run3,0.0,room,mother,world,woman,2,"Major elements in a coming-of-age story about a young woman (her room, her mother, her world, and her identity as a woman)",3.0,15.0
+gpt5_run2,2.0,birthday,state,pain,meeting,3,Topics you might discuss during a therapy or counseling session,3.0,25.0
+93556,2.0,bed,dog,blood,office,4,Things an EMT wants to know the location of before they enter a house.,0.0,39.0
+deepseek-chat_run3,2.0,hair,food,coffee,street,5,"Things that can be described as ""greasy""",1.0,40.0
+88939,2.0,house,girl,baby,boy,6,All things that little kids like to either play with or as during recess,1.0,74.0
+87226,0.0,doc,evidence,summer,trip,7,themes in a vacation mystery novel,1.0,9.0
+93556,2.0,afternoon,dude,murder,message,8,Important info found in an investigative police report.,1.0,30.0
+93133,2.0,part,week,word,number,9,"All ""parts"" of something. Part literally meaning park, week: part of a month/year, word: part of a sentence, number: could be a number part of a bigger number",3.0,71.0
+87226,0.0,deal,rest,second,end,12,"something you might ""take""",1.0,28.0
+92985,2.0,book,child,city,daughter,13,school,2.0,29.0
+93444,2.0,plane,mouth,officer,floor,14,Things that you would see at an airport,0.0,66.0
+94916,0.0,furniture,towel,clown,corn,15,Recognizable textures,4.0,13.0
+93444,2.0,party,death,couple,case,16,Things that can go sour quickly,4.0,17.0
+95983,2.0,funeral,taste,arrest,unit,17,murder,1.0,74.0
+96049,2.0,park,camera,chicken,wine,18,restaurant,1.0,55.0
+95859,0.0,shot,drink,picture,movie,19,A night out with friends,0.0,73.0
+gpt5_run3,2.0,ground,gold,nose,professor,20,Things you can dig (literally or figuratively),3.0,15.0
+deepseek-chat_run2,2.0,security,system,information,order,21,Components of a cybersecurity framework,1.0,65.0
+93532,0.0,lunch,mama,court,lieutenant,22,What you may find in a detective film,4.0,10.0
+deepseek-chat_run1,0.0,husband,captain,dinner,line,23,"Roles or titles that can be preceded by the word ""skipper""",3.0,15.0
+gpt5_run1,0.0,building,army,train,card,24,"Things that are central objects in popular collecting/model-building hobbies (model buildings, miniature armies, model trains, and collectible card games)",3.0,25.0
+deepseek-chat_run2,2.0,defense,safety,command,permission,26,Types of authorizations or clearances in a security context,3.0,40.0
+94894,1.0,east,enemy,hero,mission,27,police breaking up gang activity in New York,0.0,10.0
+94257,1.0,ball,boat,hotel,earth,28,Cruise ship,4.0,2.0
+93482,1.0,temperature,pattern,oxygen,movement,29,Things that can be used describe the flow of earths climate,1.0,59.0
+93482,1.0,wedding,colonel,agent,club,30,Things that can be seen in a mission impossible movie,1.0,33.0
+94914,1.0,lawyer,bank,letter,college,31,Bar,3.0,30.0
+94894,1.0,table,paper,eye,road,32,permit test,0.0,94.0
+88379,1.0,shower,planet,candy,bedroom,33,spaces,3.0,28.0
+96097,1.0,apartment,window,bag,box,34,things that can be locked,2.0,49.0
+94257,1.0,option,heavens,punishment,stress,35,College,4.0,0.0
+96097,1.0,request,anger,solution,confession,36,things people can express,2.0,62.0
+92984,1.0,middle,partner,angel,folks,37,wedding,4.0,7.0
+94257,1.0,difference,situation,service,pleasure,38,Customer service,3.0,26.0
+gpt5_run3,1.0,king,piece,boss,class,39,Common English nouns that are also used as verbs,3.0,20.0
+gpt5_run2,1.0,killer,surprise,space,idiot,40,"Sensational buzzwords often used in clickbait-style online titles (crime, shock, awe, and stupidity)",3.0,25.0
+gpt5_run1,1.0,neck,arm,hat,computer,41,"Places or items people commonly personalize with visible designs (tattoos, patches, stickers, or decals)",3.0,35.0
+94894,1.0,board,camp,stage,shop,42,stuff at a camping shop,2.0,7.0
+94257,1.0,star,store,truck,list,43,Walmart,2.0,62.0
+92946,1.0,area,ride,top,report,44,SixFlags,0.0,93.0
+87744,1.0,teacher,cell,queen,glass,45,container,3.0,24.0
+88379,1.0,ice,brain,beer,fish,46,water,3.0,23.0
+deepseek-chat_run3,1.0,blade,rocket,patch,robot,47,Items that can be part of a futuristic soldier's equipment,3.0,40.0
+gpt5_run1,1.0,ship,horse,tv,clothes,48,Things you might use or encounter on a cruise vacation,1.0,35.0
+95581,2.0,chest,rain,bird,cake,49,types of baked goods,4.0,0.0
+96162,3.0,spot,client,pal,north,50,Showing an apartment as a realtor,4.0,11.0
+gpt5_run1,3.0,machine,gift,cash,land,51,"Types of prizes you might win on a game show or in a contest (e.g., a machine/appliance, a gift item, a cash prize, or a plot of land)",1.0,40.0
+gpt5_run3,3.0,horn,basketball,chick,flower,52,Symbols and activities commonly associated with the spring season (March/April),3.0,35.0
+93983,3.0,football,soldier,crowd,bullet,53,Things that come in large amounts.,2.0,7.0
+93983,3.0,dollar,rose,bike,button,54,All of these can be used on a mountain.,4.0,2.0
+deepseek-chat_run1,2.0,photo,stairs,university,belt,55,"Items that can be ""graduated"" in a metaphorical sense",3.0,30.0
+gpt5_run1,2.0,ear,radar,senator,jacket,56,Elements involved in secretly monitoring or surveilling a politician,3.0,10.0
+gpt5_run3,3.0,suit,beach,tea,arms,57,"Things commonly associated with a traditional British seaside hotel visit (guests in suits, the beach outside, afternoon tea service, and people strolling arm-in-arm on the promenade)",3.0,10.0
+91608,2.0,station,record,cop,girlfriend,58,Listening to the radio on crime in the area while on a date,3.0,0.0
+93555,3.0,river,sea,hole,pants,59,spongebob,2.0,51.0
+deepseek-chat_run2,3.0,pardon,condition,shame,health,60,"Things that can be ""poor""",1.0,40.0
+93555,3.0,jury,coat,milk,meat,61,jail,3.0,10.0
+gpt5_run1,3.0,sheriff,foot,prison,wall,62,Things that can be patrolled by law enforcement or guards,3.0,20.0
+deepseek-chat_run1,3.0,glasses,pocket,lake,buck,63,"Things that can be described as ""deep""",3.0,25.0
+deepseek-chat_run2,2.0,gate,mail,chocolate,shoe,64,Items that might be left on a porch or doorstep,1.0,65.0
+94320,3.0,project,property,weather,base,65,Words you can hear in a weather report,1.0,67.0
+88842,2.0,society,language,freedom,rule,67,USA,3.0,74.0
+96084,3.0,desert,telephone,wire,sword,68,Things you might find in an action film,1.0,35.0
+gpt5_run2,3.0,gas,test,group,field,69,Common English words that function as both nouns and verbs in everyday usage,3.0,30.0
+96162,3.0,note,ticket,desk,cream,71,Stuff found in a cafe,3.0,63.0
+96162,3.0,restaurant,teeth,hall,bottle,72,Things that can be cleaned,2.0,57.0
+deepseek-chat_run1,2.0,damage,sale,schedule,divorce,73,Things that can be finalized or settled legally.,3.0,25.0
+95414,1.0,winner,vacation,account,subject,74,Things that you can't touch,4.0,0.0
+gpt5_run3,0.0,pressure,fool,charge,force,75,"Ways a person might try to manipulate or coerce someone else (pressure, fool, charge, force)",3.0,40.0
+94869,0.0,ways,decision,duty,secret,77,Running away,1.0,17.0
+95875,0.0,tour,season,monsieur,demon,78,french words that can be used in english too,4.0,0.0
+91363,0.0,church,tree,tape,key,79,items that are usually earth-tones colors,1.0,14.0
+91304,1.0,breath,chair,sky,drug,80,Things that may be observed in a person's hospital room,1.0,65.0
+95103,1.0,spy,fairy,suite,trail,81,things in the wicked movie,2.0,24.0
+94962,0.0,flag,actress,tube,locker,82,things that can be red,4.0,0.0
+95103,1.0,battle,manager,weight,player,83,things in basketball,1.0,70.0
+94869,0.0,princess,neighborhood,cheese,airport,84,Princess diary on the move,3.0,15.0
+91304,1.0,boyfriend,radio,bus,sun,85,Things that may be seen in a 90's movie intro,1.0,43.0
+94670,1.0,pool,driver,prince,animal,86,Associated with a lot of money or high in cost,1.0,42.0
+87265,0.0,bathroom,dress,sergeant,film,87,Things in a movie,4.0,24.0
+91304,1.0,chopper,warden,hug,exit,91,Things that can be seen in the ending scene of a dramatic movie,4.0,6.0
+91363,0.0,speech,devil,program,trick,92,necessary components of a good trick-or-treat,1.0,6.0
+93520,0.0,cab,pizza,roof,monkey,93,monk's restaurant,2.0,8.0
+95414,1.0,contract,leader,county,madame,94,What you call your boss,4.0,33.0
+87265,0.0,shirt,knife,weapon,jail,95,things you can find in a prison,2.0,42.0
+94962,0.0,thumb,dime,temple,singer,97,"things that include the word ""drive""",4.0,0.0
+95103,1.0,garden,painting,cigarette,tank,98,things in your backyard,1.0,67.0
+91363,0.0,heat,director,contact,signal,99,"things involved in ""chemistry""",4.0,5.0
+deepseek-chat_run2,0.0,mister,conversation,size,code,100,Elements of a spy's cover identity,3.0,25.0

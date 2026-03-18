@@ -1,0 +1,91 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+gpt5_run2,0.0,doctor,phone,hand,town,1,Resources people rely on during an emergency in a small town,3.0,15.0
+93445,2.0,world,room,mother,woman,2,birth,0.0,93.0
+93133,2.0,state,pain,birthday,meeting,3,all things people can be in,3.0,79.0
+94916,0.0,office,dog,bed,blood,4,rooms,4.0,69.0
+95859,0.0,coffee,hair,food,street,5,Things found walking down state street,0.0,57.0
+95983,2.0,boy,house,girl,baby,6,family,0.0,74.0
+88939,2.0,summer,evidence,doc,trip,7,All things that could be found on a lake trip gone wrong (like the ones in the murder documentaries),1.0,30.0
+87226,0.0,dude,afternoon,message,murder,8,words that have repeating letters,4.0,62.0
+gpt5_run2,2.0,word,number,week,part,9,"Things that are typically identified by their position or index in an ordered sequence (e.g., word number, week number, part number)",3.0,35.0
+93445,2.0,end,rest,deal,second,12,drug deal,3.0,26.0
+94916,0.0,child,city,book,daughter,13,Things that require care,4.0,75.0
+deepseek-chat_run2,2.0,mouth,floor,plane,officer,14,"Things that can be ""on the"" in a phrase describing a position or role",3.0,25.0
+gpt5_run2,0.0,furniture,clown,towel,corn,15,Things you might find at a childrens summer backyard birthday party,3.0,25.0
+deepseek-chat_run1,2.0,case,death,party,couple,16,"Things that can be preceded by the word ""murder""",1.0,60.0
+93445,2.0,funeral,arrest,taste,unit,17,death row,1.0,26.0
+gpt5_run3,2.0,camera,chicken,wine,park,18,Things commonly involved in a picnic date at a park,1.0,55.0
+93445,2.0,drink,movie,picture,shot,19,action film,0.0,77.0
+95859,0.0,nose,professor,ground,gold,20,My stats professor,1.0,40.0
+95590,0.0,order,system,security,information,21,Things you would need to do in an airport.,1.0,73.0
+93445,2.0,lunch,mama,court,lieutenant,22,parent,1.0,47.0
+93444,2.0,line,husband,dinner,captain,23,Things that demand order,2.0,7.0
+93444,2.0,army,train,card,building,24,Things that help someone to accomplish things,1.0,20.0
+94749,0.0,defense,safety,command,permission,26,army,0.0,76.0
+92984,1.0,mission,hero,east,enemy,27,conflict,3.0,26.0
+gpt5_run1,1.0,hotel,ball,boat,earth,28,Elements of an around-the-world luxury cruise vacation,3.0,35.0
+92946,1.0,pattern,temperature,oxygen,movement,29,What are some Biology terms for Physiology?,4.0,4.0
+92984,1.0,club,wedding,agent,colonel,30,important things,4.0,6.0
+88379,1.0,lawyer,college,bank,letter,31,jobs,2.0,24.0
+96097,1.0,eye,paper,road,table,32,Things that have corners,4.0,76.0
+deepseek-chat_run3,1.0,shower,planet,bedroom,candy,33,"Things that can be described as ""sweet"" in a metaphorical or literal sense",3.0,30.0
+87744,1.0,apartment,window,bag,box,34,square,2.0,72.0
+93482,1.0,punishment,heavens,option,stress,35,Things that might influence an adults mature decision making,2.0,9.0
+gpt5_run2,1.0,anger,confession,request,solution,36,"Stages or elements in a conflict-resolution conversation (expressing anger, making a confession, stating a request, agreeing on a solution)",3.0,35.0
+gpt5_run3,1.0,partner,folks,middle,angel,37,"Informal ways to refer to close family members (partner, parents, middle child, cherished child as angel)",3.0,40.0
+93482,1.0,situation,service,pleasure,difference,38,Things can deacribe a CNAs feelings towards helping the elderly,2.0,21.0
+gpt5_run1,1.0,king,piece,boss,class,39,Terms for roles or units in games (especially board and video games),3.0,20.0
+95028,1.0,killer,idiot,space,surprise,40,main plots of movies,2.0,30.0
+92984,1.0,neck,arm,hat,computer,41,useful instruments,3.0,10.0
+93542,1.0,shop,camp,board,stage,42,Preparing for sleep away camp,1.0,77.0
+87744,1.0,star,store,truck,list,43,world,2.0,23.0
+93482,1.0,area,report,top,ride,44,Things that describe the process of a roller coaster ride,3.0,19.0
+gpt5_run3,1.0,cell,queen,glass,teacher,45,Things involved in a classroom observation of a beehive behind glass,3.0,20.0
+gpt5_run3,1.0,brain,beer,fish,ice,46,Things that are primarily composed of water,3.0,30.0
+93926,1.0,blade,patch,robot,rocket,47,technological tools or gadgets,0.0,74.0
+92984,1.0,horse,clothes,tv,ship,48,netflix,3.0,13.0
+93117,3.0,chest,rain,cake,bird,49,What a person sees on a rainy wedding day,4.0,45.0
+93555,3.0,pal,spot,client,north,50,antarctica,3.0,22.0
+94320,3.0,land,gift,machine,cash,51,Things that can be found in a handicraft shop,1.0,70.0
+deepseek-chat_run1,2.0,horn,basketball,chick,flower,52,"Things that can be described as ""blowing"" or ""blown""",3.0,25.0
+gpt5_run2,2.0,football,bullet,soldier,crowd,53,Elements in a news report about soldiers firing bullets into a crowd at a football match,3.0,25.0
+95936,3.0,button,rose,dollar,bike,54,the moment the winner was declared on the final broadcast of the talent show,0.0,24.0
+93117,3.0,photo,belt,stairs,university,55,Words a college student thinks every day,4.0,11.0
+93117,3.0,jacket,radar,ear,senator,56,Things an FBI agent uses daily,2.0,7.0
+deepseek-chat_run2,3.0,suit,beach,tea,arms,57,Things you might take off or remove for comfort or relaxation,1.0,40.0
+94320,3.0,station,record,cop,girlfriend,58,Things around a bus stop,2.0,36.0
+94320,3.0,hole,sea,pants,river,59,Things that can be easily found at the junction of the river and the sea,1.0,24.0
+gpt5_run2,3.0,pardon,condition,shame,health,60,Factors that might be considered in a parole or clemency hearing for a prisoner,3.0,20.0
+93990,3.0,milk,coat,meat,jury,61,Items you might buy shopping,2.0,64.0
+96084,3.0,wall,prison,sheriff,foot,62,Words that can follow head,2.0,58.0
+deepseek-chat_run2,3.0,glasses,pocket,lake,buck,63,Things you might lose while on a fishing trip,1.0,60.0
+gpt5_run3,3.0,gate,mail,chocolate,shoe,64,Things that might be left on or near a home's front doorstep or entryway,1.0,45.0
+93117,3.0,property,project,weather,base,65,The thoughts of a construction worker on an average day,0.0,74.0
+93117,3.0,freedom,language,rule,society,67,Democratic liberal nations,0.0,29.0
+95581,2.0,wire,telephone,sword,desert,68,connects,3.0,9.0
+91608,2.0,field,test,group,gas,69,Associated with the Holocaust,1.0,59.0
+deepseek-chat_run2,3.0,desk,note,cream,ticket,71,Items you might find on a receptionist's counter,1.0,65.0
+gpt5_run2,3.0,teeth,bottle,restaurant,hall,72,Things commonly present at a wedding reception in a banquet hall,3.0,25.0
+93990,3.0,divorce,sale,damage,schedule,73,An agreement,1.0,64.0
+93520,0.0,account,winner,subject,vacation,74,things you to do with winning the lottery,2.0,25.0
+94670,1.0,fool,charge,pressure,force,75,Words used in sports commentary,1.0,24.0
+deepseek-chat_run3,0.0,ways,decision,secret,duty,77,Aspects of a moral dilemma,3.0,40.0
+91363,0.0,monsieur,tour,demon,season,78,words with French origins,4.0,5.0
+94869,0.0,key,tree,tape,church,79,Christmas,2.0,43.0
+gpt5_run3,0.0,breath,chair,sky,drug,80,"Common noun objects in everyday English phrases with the verb take (take a breath, take a chair, take to the sky, take drugs)",3.0,25.0
+91363,0.0,suite,spy,trail,fairy,81,things that can go high up above,1.0,6.0
+87712,0.0,flag,tube,actress,locker,82,highschool,1.0,43.0
+93520,0.0,battle,weight,manager,player,83,wrestling,1.0,61.0
+94962,0.0,airport,cheese,princess,neighborhood,84,things that can be enjoyable for people,2.0,63.0
+91363,0.0,radio,sun,boyfriend,bus,85,things you want on a field trip,1.0,5.0
+gpt5_run3,1.0,pool,animal,prince,driver,86,Things you might encounter while visiting a modern royal familys private estate,3.0,25.0
+94670,1.0,film,bathroom,sergeant,dress,87,Things recorded in evidence,3.0,7.0
+94670,1.0,chopper,hug,exit,warden,91,Aspects of the Divergent (movies/books),3.0,35.0
+gpt5_run3,0.0,trick,devil,speech,program,92,"Elements you might plan for a staged magic show (tricks, devilish character, patter speech, and overall program)",3.0,15.0
+95944,0.0,roof,pizza,monkey,cab,93,Things you might see in a visit to new york,3.0,21.0
+gpt5_run2,1.0,leader,contract,madame,county,94,Elements you might see mentioned in a news story about a county-level political corruption and sex scandal,3.0,25.0
+gpt5_run2,0.0,shirt,knife,weapon,jail,95,Elements of a stabbing crime that results in imprisonment,2.0,45.0
+deepseek-chat_run1,0.0,singer,thumb,temple,dime,97,"Things that can be ""pressed"" (as a verb or action)",3.0,30.0
+87265,0.0,painting,tank,cigarette,garden,98,all types of patches,4.0,8.0
+95103,1.0,signal,director,heat,contact,99,things in a movie scene,1.0,67.0
+95944,0.0,code,size,conversation,mister,100,Things that are important to a wedding,1.0,85.0

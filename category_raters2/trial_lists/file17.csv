@@ -1,0 +1,85 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+93532,0.0,doctor,phone,town,hand,1,things essential for human,3.0,25.0
+93556,2.0,world,woman,room,mother,2,The basis of an artist's work when exploring trauma.,1.0,16.0
+89616,2.0,meeting,pain,state,birthday,3,giving birth,3.0,4.0
+deepseek-chat_run3,0.0,dog,blood,bed,office,4,Things that can be found in a veterinary clinic,1.0,65.0
+96049,2.0,street,coffee,food,hair,5,coffee shop,1.0,44.0
+95859,0.0,boy,house,baby,girl,6,The white picket fence standard,2.0,43.0
+93444,2.0,evidence,trip,doc,summer,7,Things that can be ruined,3.0,34.0
+deepseek-chat_run2,0.0,murder,dude,afternoon,message,8,Elements of a noir film plot summary,3.0,25.0
+gpt5_run3,2.0,word,number,week,part,9,"Discrete units that divide larger sequences or structures (text, numbers, time, and works) into parts",3.0,25.0
+94749,0.0,end,rest,deal,second,12,possible compromises,3.0,5.0
+87226,0.0,book,city,child,daughter,13,things filled with imagination,1.0,30.0
+93556,2.0,officer,floor,plane,mouth,14,Things that could be the feature of a porno.,0.0,67.0
+93133,2.0,furniture,clown,corn,towel,15,they can all be yellow or orange.,4.0,2.0
+93133,2.0,death,case,party,couple,16,"If ""case"" means in terms of a legal case, then all of these words usually mean a group of more than one person",2.0,92.0
+87226,0.0,arrest,unit,funeral,taste,17,somewhere you might store something,4.0,4.0
+95859,0.0,chicken,camera,park,wine,18,Date night,0.0,74.0
+93444,2.0,drink,shot,picture,movie,19,Entertainment,0.0,75.0
+94749,0.0,gold,nose,professor,ground,20,geology class,2.0,44.0
+93445,2.0,information,system,security,order,21,bank,2.0,25.0
+95983,2.0,lunch,mama,lieutenant,court,22,oldies,2.0,25.0
+95859,0.0,line,captain,dinner,husband,23,Date night,2.0,50.0
+88939,2.0,building,card,army,train,24,All things that were either characters or pivotal plot points in Toy Story 1,4.0,3.0
+94916,0.0,defense,permission,safety,command,26,Being in control,1.0,44.0
+gpt5_run3,,hero,enemy,east,mission,27,Common elements in the plot of a war or espionage movie set in an Eastern country,1.0,40.0
+deepseek-chat_run3,,hotel,ball,boat,earth,28,"Things that can be preceded by the word ""room"" to form a common phrase",1.0,60.0
+94914,1.0,pattern,oxygen,temperature,movement,29,Words linked to the environment,1.0,70.0
+93542,1.0,club,wedding,colonel,agent,30,The parent trap,2.0,85.0
+87744,1.0,lawyer,college,bank,letter,31,banker,2.0,22.0
+93482,1.0,road,table,eye,paper,32,Things that can be included in the attraction of a free roadside furniture item,1.0,15.0
+deepseek-chat_run2,,shower,planet,bedroom,candy,33,"Things that can be described as ""sweet""",3.0,25.0
+deepseek-chat_run3,1.0,bag,apartment,window,box,34,Items that can be used for moving or storage,1.0,75.0
+95028,1.0,option,heavens,punishment,stress,35,topics that may be talked about in church,1.0,35.0
+88379,1.0,request,solution,anger,confession,36,asks,3.0,23.0
+94894,1.0,middle,partner,angel,folks,37,things at a wedding,1.0,15.0
+gpt5_run3,1.0,difference,pleasure,situation,service,38,Things you might thank someone for in a thank-you note or speech,3.0,35.0
+deepseek-chat_run2,1.0,king,piece,boss,class,39,"Terms that can be preceded by ""middle"" to form a common phrase",3.0,30.0
+deepseek-chat_run2,,stage,board,shop,camp,42,Types of places or spaces where a group might gather for a specific purpose,1.0,65.0
+96097,1.0,truck,list,store,star,43,Words that are both nouns and verbs,3.0,87.0
+gpt5_run3,,area,top,report,ride,44,"Aspects evaluated in a public transit system review (coverage area, peak/top performance, official report, ride experience)",3.0,15.0
+gpt5_run1,,cell,queen,glass,teacher,45,Things commonly associated with a modern high school classroom and its social scene,2.0,30.0
+gpt5_run2,,brain,beer,fish,ice,46,Things that are commonly kept or served on ice to keep them cold,3.0,45.0
+93482,1.0,blade,robot,patch,rocket,47,Things that might appear during a sci-fi movie,1.0,37.0
+89597,1.0,horse,clothes,tv,ship,48,Things a child might like,1.0,36.0
+93983,3.0,bird,cake,rain,chest,49,Things found in Minecraft video games.,1.0,18.0
+96084,3.0,spot,pal,north,client,50,Words associated with maps,1.0,18.0
+gpt5_run1,3.0,horn,basketball,chick,flower,52,Everyday objects that each have their own commonly used single emoji,3.0,25.0
+96084,3.0,crowd,soldier,football,bullet,53,Words that can follow line,2.0,55.0
+gpt5_run1,,rose,bike,button,dollar,54,Simple everyday objects that people commonly doodle or sketch (like in a notebook margin),3.0,20.0
+96162,3.0,belt,university,stairs,photo,55,Things you need in the university,3.0,82.0
+94320,3.0,radar,jacket,ear,senator,56,things can be found in a secret office,2.0,50.0
+deepseek-chat_run3,3.0,suit,beach,tea,arms,57,Things you might take a break with or for,1.0,40.0
+93117,3.0,girlfriend,cop,station,record,58,Circumstances of an interrogation,4.0,64.0
+deepseek-chat_run3,2.0,pants,hole,sea,river,59,"Things that can be described as having a ""cuff""",3.0,25.0
+96084,3.0,shame,condition,health,pardon,60,Words that can follow mental,2.0,69.0
+93122,3.0,milk,meat,jury,coat,61,jug,4.0,0.0
+95936,3.0,prison,foot,wall,sheriff,62,in a jail,1.0,49.0
+93117,3.0,shoe,gate,chocolate,mail,64,The story of Charlie and the Chocolate Factory,1.0,42.0
+96084,3.0,project,weather,base,property,65,Tnings that might be destroyed by storms,1.0,21.0
+91608,2.0,wire,telephone,sword,desert,68,Things from the movie Dune,3.0,5.0
+deepseek-chat_run3,3.0,gas,test,group,field,69,"Terms that can be preceded by ""field"" to form a compound word or phrase",1.0,40.0
+95936,3.0,desk,ticket,cream,note,71,notebook doodles,1.0,50.0
+95581,2.0,restaurant,hall,teeth,bottle,72,going to the dentist,3.0,56.0
+gpt5_run3,1.0,account,subject,winner,vacation,74,Elements of a promotional sweepstakes where an account holder can win a vacation,3.0,25.0
+94869,0.0,pressure,fool,force,charge,75,Trying to get into college,2.0,18.0
+95411,0.0,secret,ways,decision,duty,77,words assosciated with the FBI,3.0,5.0
+deepseek-chat_run1,,monsieur,tour,demon,season,78,"Words that can be preceded by ""The"" to form a title of a film, TV show, or book",3.0,25.0
+deepseek-chat_run2,,church,key,tree,tape,79,Items that can be used to mark a boundary or territory,3.0,25.0
+gpt5_run2,0.0,breath,chair,sky,drug,80,Things a nervous airline passenger might focus on during a turbulent flight,3.0,15.0
+94962,0.0,trail,suite,fairy,spy,81,things that could be in a fairytale,2.0,50.0
+95944,0.0,tube,actress,flag,locker,82,things a teenage boy might have in his room at school,1.0,75.0
+deepseek-chat_run1,1.0,weight,player,battle,manager,83,Roles or elements in a professional wrestling storyline,3.0,40.0
+deepseek-chat_run3,1.0,neighborhood,airport,cheese,princess,84,"Things that can be ""cottage"" prefixed or associated with a cottage",3.0,30.0
+gpt5_run2,1.0,radio,boyfriend,bus,sun,85,"Things commonly featured during a teenagers daytime bus ride in teen dramas (the bus itself, the sun outside, music from the radio, and a boyfriend)",3.0,25.0
+deepseek-chat_run2,1.0,pool,animal,prince,driver,86,"Words that can be preceded by ""pool"" to form a compound noun",3.0,30.0
+94962,0.0,dress,bathroom,film,sergeant,87,things that would be in a Taylor Swift music video,1.0,73.0
+95875,0.0,chopper,warden,hug,exit,91,before gate,4.0,11.0
+gpt5_run1,1.0,trick,devil,speech,program,92,"Elements of a Halloween-themed magic show (the magicians tricks, a devil costume/character, the spoken patter/speech, and the printed show program)",3.0,30.0
+95411,0.0,cab,pizza,roof,monkey,93,things assosciated with NYC,3.0,7.0
+93945,0.0,contract,leader,county,madame,94,The First Lady,2.0,45.0
+95875,0.0,knife,weapon,shirt,jail,95,can all link to shank,2.0,29.0
+gpt5_run2,,singer,thumb,temple,dime,97,Things you might notice while giving spare change to a street singer performing on the street,3.0,15.0
+deepseek-chat_run2,0.0,cigarette,tank,painting,garden,98,"Items that can be part of a ""smoking"" or ""smoky"" theme in art or representation",3.0,25.0
+95875,0.0,heat,contact,signal,director,99,movie titles,2.0,34.0
+gpt5_run2,0.0,mister,conversation,size,code,100,Details you might exchange when ordering clothing from a catalog over the phone,3.0,20.0

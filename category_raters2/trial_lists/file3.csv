@@ -1,0 +1,91 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+93445,2.0,town,phone,doctor,hand,1,help,2.0,23.0
+88939,2.0,room,world,woman,mother,2,All related to societal roles,4.0,34.0
+95983,2.0,birthday,pain,state,meeting,3,office birthday,3.0,28.0
+94821,2.0,blood,dog,office,bed,4,Police k-9 kennel,1.0,20.0
+93445,2.0,street,hair,food,coffee,5,NYC,2.0,67.0
+87226,0.0,boy,girl,house,baby,6,toys you might find in a childs room,0.0,10.0
+95859,0.0,evidence,doc,trip,summer,7,Summer classes,4.0,39.0
+88939,2.0,afternoon,dude,murder,message,8,"All words that can be combines to make a common phrase (Afternoon governor! Rad, dude. Murder mystery. Message in a bottle.)",4.0,0.0
+92985,2.0,number,part,week,word,9,math,1.0,50.0
+93556,2.0,deal,end,rest,second,12,Actions taken in a casino,1.0,17.0
+93532,0.0,daughter,city,child,book,13,the book Fahrenheit 451,2.0,25.0
+93133,2.0,plane,mouth,officer,floor,14,they relate to position level,3.0,65.0
+93532,0.0,furniture,corn,clown,towel,15,what can be found in a house in fall,3.0,0.0
+95590,0.0,case,couple,party,death,16,A place where people would gather for a big event.,1.0,61.0
+92985,2.0,taste,funeral,unit,arrest,17,murder,2.0,59.0
+89616,2.0,chicken,camera,park,wine,18,aspects a part of a picnic date,1.0,35.0
+94749,0.0,movie,drink,picture,shot,19,television award show,1.0,57.0
+deepseek-chat_run3,2.0,ground,gold,nose,professor,20,"Things that can be ""runny""",3.0,25.0
+94821,2.0,system,order,information,security,21,Cyber Security,0.0,38.0
+95859,0.0,lieutenant,mama,lunch,court,22,My grandmother,3.0,12.0
+92985,2.0,dinner,captain,husband,line,23,cruise,1.0,78.0
+deepseek-chat_run1,2.0,building,army,train,card,24,"Things that can be described as ""stationary"" in certain contexts",3.0,25.0
+gpt5_run2,0.0,defense,safety,command,permission,26,"Responsibilities of an authority figure in charge of security (e.g., a military or security chief)",3.0,45.0
+gpt5_run1,1.0,hero,enemy,east,mission,27,Common elements in a classic adventure/war story plot,2.0,45.0
+93926,1.0,earth,boat,hotel,ball,28,types of grounds,4.0,6.0
+93926,1.0,movement,pattern,temperature,oxygen,29,words used by meteorologists,0.0,95.0
+gpt5_run3,1.0,club,colonel,wedding,agent,30,"Common elements in a James Bond-style spy story (an exclusive club, a colonel, a wedding event, and a secret agent)",3.0,20.0
+gpt5_run3,1.0,letter,college,lawyer,bank,31,"Institutions that frequently send you important formal letters (acceptance, legal, or financial)",1.0,40.0
+92946,1.0,paper,table,eye,road,32,"In a construction workplace, what essential are important to be safe?",2.0,56.0
+gpt5_run3,1.0,shower,planet,bedroom,candy,33,Things associated with a childs bedtime routine and bedroom environment,2.0,25.0
+94257,1.0,box,apartment,bag,window,34,Moving apartments,2.0,40.0
+94914,1.0,heavens,punishment,option,stress,35,Religion,0.0,75.0
+deepseek-chat_run2,1.0,anger,confession,request,solution,36,Stages in a conflict resolution process,1.0,65.0
+93482,1.0,partner,angel,middle,folks,37,Things that can be used to describe a person's standing in age,0.0,34.0
+88379,1.0,service,difference,situation,pleasure,38,nice,1.0,50.0
+deepseek-chat_run1,1.0,king,piece,boss,class,39,"Terms that can be preceded by ""chess"" to form a compound word or phrase",3.0,35.0
+88379,1.0,surprise,idiot,killer,space,40,dumb,3.0,50.0
+93482,1.0,neck,hat,computer,arm,41,Things an interns hand might touch,3.0,2.0
+deepseek-chat_run3,1.0,stage,board,shop,camp,42,"Types of places or contexts where you might find a ""floor"" or ""ground"" surface",1.0,40.0
+deepseek-chat_run2,1.0,truck,list,store,star,43,"Things that can be ""semi"" prefixed",3.0,25.0
+88379,1.0,ride,report,top,area,44,region,3.0,23.0
+deepseek-chat_run3,1.0,cell,queen,glass,teacher,45,"Things that can be preceded by ""mother"" to form a compound term",1.0,40.0
+94257,1.0,fish,brain,ice,beer,46,Fishing in the summer,3.0,27.0
+89597,1.0,patch,robot,blade,rocket,47,robotics class,3.0,12.0
+deepseek-chat_run2,1.0,ship,horse,tv,clothes,48,"Things that can be ""stabled"" or housed in a designated structure.",3.0,15.0
+96084,3.0,cake,rain,chest,bird,49,Things you might associate with kids birthday parties,1.0,32.0
+deepseek-chat_run1,2.0,spot,client,pal,north,50,"Words that can follow ""pen"" to form a compound word or phrase",3.0,25.0
+88842,2.0,land,machine,cash,gift,51,Value,2.0,76.0
+93990,3.0,horn,flower,chick,basketball,52,Things that have a round shape,1.0,77.0
+88842,2.0,football,crowd,bullet,soldier,53,bootcamp,3.0,82.0
+gpt5_run2,3.0,rose,bike,button,dollar,54,"Pictogram icons you might see on a city map to represent nearby businesses (florist, bike shop, tailor, bank)",3.0,25.0
+deepseek-chat_run3,2.0,photo,stairs,university,belt,55,Items you might find in a student's dorm room,1.0,45.0
+95936,3.0,jacket,ear,radar,senator,56,in the photo's of the senators' guards,2.0,23.0
+94320,3.0,tea,suit,beach,arms,57,Things can be easily seen at the beach,1.0,67.0
+88842,2.0,record,girlfriend,station,cop,58,Law,3.0,41.0
+deepseek-chat_run2,3.0,pants,hole,sea,river,59,"Things that can be described as having a ""cuff""",3.0,25.0
+93555,3.0,pardon,health,condition,shame,60,doctor's office or a diagnosis,1.0,73.0
+deepseek-chat_run3,3.0,coat,milk,jury,meat,61,"Things that can be ""hung""",3.0,25.0
+gpt5_run3,2.0,sheriff,foot,prison,wall,62,"Elements involved in a classic jailbreak and manhunt (e.g., in a Western movie)",3.0,25.0
+91608,2.0,pocket,lake,glasses,buck,63,Things that can be found in up north wisconsin,2.0,26.0
+95936,3.0,mail,shoe,gate,chocolate,64,can be found at the doorway,0.0,50.0
+93983,3.0,base,property,weather,project,65,All of these could be seen in an environmental studies class.,2.0,18.0
+deepseek-chat_run2,3.0,language,freedom,rule,society,67,Core concepts in political philosophy,3.0,30.0
+93983,3.0,telephone,desert,wire,sword,68,Items seen in an action movie.,1.0,18.0
+93122,3.0,gas,field,test,group,69,random things,4.0,1.0
+deepseek-chat_run1,3.0,desk,note,cream,ticket,71,Items commonly found on an office worker's desk,1.0,65.0
+95936,3.0,restaurant,hall,bottle,teeth,72,associating with eating,1.0,25.0
+93117,3.0,damage,divorce,schedule,sale,73,A messy divorce,0.0,94.0
+deepseek-chat_run1,0.0,account,subject,winner,vacation,74,"Things that can be ""taken"" in a figurative or literal sense",1.0,40.0
+gpt5_run2,0.0,pressure,fool,charge,force,75,"Aggressive tactics a pushy salesperson might use on customers (pressure them, fool them, overcharge them, force them into a deal)",3.0,35.0
+91363,0.0,decision,secret,ways,duty,77,things needed for a military battle plan,1.0,9.0
+87712,0.0,demon,tour,monsieur,season,78,halloween,2.0,30.0
+94962,0.0,key,tape,church,tree,79,rings,3.0,86.0
+deepseek-chat_run1,0.0,breath,chair,sky,drug,80,Things that can be altered or experienced differently under the influence of a substance,3.0,25.0
+93520,0.0,spy,fairy,suite,trail,81,men in black,3.0,18.0
+deepseek-chat_run2,0.0,flag,locker,actress,tube,82,"Things that can be ""starred"" or feature a star symbol",3.0,25.0
+95944,0.0,weight,battle,player,manager,83,Things that are important/pertain to a boxing match,1.0,74.0
+95875,0.0,airport,princess,cheese,neighborhood,84,swiss,4.0,10.0
+gpt5_run1,0.0,radio,boyfriend,bus,sun,85,"Common elements in a teen coming-of-age story set during summer (boyfriend, bus rides, radio music, sunshine)",3.0,15.0
+94962,0.0,prince,animal,pool,driver,86,things that may be found on a movie set,2.0,3.0
+95875,0.0,sergeant,film,bathroom,dress,87,"go with word ""code""",2.0,50.0
+95944,0.0,exit,hug,warden,chopper,91,things related to prison,3.0,25.0
+deepseek-chat_run1,0.0,trick,devil,speech,program,92,"Things that can be described as ""free"" in a promotional or ironic sense",3.0,40.0
+deepseek-chat_run3,0.0,cab,roof,monkey,pizza,93,"Things that can be ""on top of"" something in a common phrase or idiom",3.0,20.0
+95944,0.0,county,contract,leader,madame,94,Things that rich men desire,3.0,5.0
+95414,1.0,knife,shirt,weapon,jail,95,Things that correlate to prison,0.0,90.0
+95414,1.0,thumb,singer,dime,temple,97,Things you may see in a tourist country or city,4.0,17.0
+gpt5_run3,0.0,cigarette,tank,painting,garden,98,Things you might find in the outdoor area (yard/backyard) of a house,3.0,30.0
+93945,0.0,signal,contact,director,heat,99,Welder,3.0,65.0
+94869,0.0,code,conversation,mister,size,100,WWII movie about the British army,3.0,6.0

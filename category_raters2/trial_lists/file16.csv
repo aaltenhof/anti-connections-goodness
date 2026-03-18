@@ -1,0 +1,91 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+94916,0.0,phone,town,hand,doctor,1,Call,4.0,68.0
+95859,0.0,mother,world,woman,room,2,Raising children,2.0,36.0
+93532,0.0,state,pain,meeting,birthday,3,things can be observed,3.0,36.0
+gpt5_run2,0.0,dog,blood,bed,office,4,Things commonly found in a veterinarians clinic,3.0,35.0
+93133,2.0,street,food,hair,coffee,5,"You could put the word ""shop"" after all of them",1.0,64.0
+deepseek-chat_run2,0.0,house,boy,baby,girl,6,Family members in a household,1.0,60.0
+96049,2.0,evidence,trip,doc,summer,7,mystery,3.0,29.0
+95590,0.0,message,dude,murder,afternoon,8,Parts of a day,1.0,30.0
+88939,2.0,number,word,part,week,9,All things that can be numerically classified,1.0,81.0
+gpt5_run1,0.0,deal,second,rest,end,12,Common English words that function as both a noun and a verb,1.0,40.0
+deepseek-chat_run2,0.0,child,daughter,book,city,13,"Words that can follow ""New York"" to form a proper noun or common phrase",3.0,30.0
+94821,2.0,mouth,floor,officer,plane,14,a cop arresting someone on a plane,1.0,22.0
+96049,2.0,furniture,clown,corn,towel,15,beach,4.0,22.0
+94749,0.0,couple,case,party,death,16,with other people,2.0,32.0
+94821,2.0,arrest,funeral,unit,taste,17,a poisoning and its aftermath,1.0,16.0
+gpt5_run2,0.0,camera,chicken,wine,park,18,Things commonly associated with having a picnic in a park,1.0,65.0
+93556,2.0,picture,shot,movie,drink,19,Things a man whos missing his wife might be surrounded by when pondering her death alone in the evening.,3.0,12.0
+95590,0.0,professor,nose,gold,ground,20,Things a teacher should go,3.0,36.0
+93556,2.0,security,order,information,system,21,Banking Info,0.0,68.0
+93133,2.0,lunch,court,mama,lieutenant,22,people or places with authority,2.0,10.0
+96049,2.0,line,captain,husband,dinner,23,worker,3.0,36.0
+89616,2.0,army,train,card,building,24,aspects of deployment transportation,3.0,17.0
+87226,0.0,defense,command,safety,permission,26,can be given by the person in charge,0.0,14.0
+93926,1.0,mission,enemy,east,hero,27,words used in wartime,1.0,48.0
+92984,1.0,ball,hotel,boat,earth,28,extravagant things,2.0,15.0
+93542,1.0,movement,pattern,oxygen,temperature,29,What the earth does,4.0,60.0
+94257,1.0,colonel,club,agent,wedding,30,Country club wedding,2.0,56.0
+93542,1.0,college,letter,bank,lawyer,31,The steps leading up to going to law school and after,1.0,76.0
+94257,1.0,road,eye,paper,table,32,Roadside stop,3.0,35.0
+92984,1.0,bedroom,planet,candy,shower,33,child,3.0,22.0
+89597,1.0,apartment,bag,window,box,34,Things that open,1.0,65.0
+gpt5_run3,1.0,heavens,stress,punishment,option,35,Things a person might worry about when deciding whether to confess to a serious sin or crime,3.0,15.0
+deepseek-chat_run3,1.0,anger,confession,request,solution,36,Stages in a conflict resolution process,1.0,60.0
+deepseek-chat_run3,1.0,partner,folks,middle,angel,37,"Words that can be preceded by ""guardian"" to form a common phrase",3.0,30.0
+92984,1.0,pleasure,difference,situation,service,38,problem solving skills,2.0,47.0
+94894,1.0,piece,class,king,boss,39,School hierarchy system,2.0,24.0
+92984,1.0,space,killer,idiot,surprise,40,true crime,3.0,69.0
+deepseek-chat_run3,,neck,arm,hat,computer,41,Parts of the body or items that can be measured for fit or sizing,3.0,25.0
+gpt5_run3,,stage,board,shop,camp,42,Facilities and organizations you might find at a large community church,3.0,20.0
+88379,1.0,truck,star,store,list,43,bullets,1.0,59.0
+93926,1.0,ride,top,area,report,44,words you might hear on the news,3.0,23.0
+88379,1.0,teacher,queen,cell,glass,45,school,2.0,58.0
+94914,1.0,ice,brain,beer,fish,46,Things you store in the cold,4.0,7.0
+94257,1.0,blade,robot,rocket,patch,47,Elon Musk SpaceX,3.0,20.0
+92946,1.0,horse,ship,tv,clothes,48,"things with a ""deck""",4.0,4.0
+91608,2.0,cake,chest,bird,rain,49,Things that can rise,1.0,24.0
+88842,2.0,north,pal,client,spot,50,Location,3.0,66.0
+deepseek-chat_run1,,machine,gift,cash,land,51,Assets that can be inherited or passed down in an estate,1.0,65.0
+93983,3.0,horn,chick,basketball,flower,52,All of these can be seen close to a basketball court in NYC.,3.0,4.0
+95581,2.0,bullet,soldier,crowd,football,53,offensive line coach giving motivation,1.0,21.0
+94320,3.0,dollar,bike,rose,button,54,Things a man may bring when proposing a woman 40 years ago,2.0,25.0
+96084,3.0,belt,stairs,university,photo,55,Things you might associate with a career fair,1.0,39.0
+gpt5_run3,3.0,ear,radar,senator,jacket,56,Things commonly associated with air travel on an airplane,3.0,25.0
+91608,2.0,tea,arms,suit,beach,57,Things you use on beach vacation,1.0,53.0
+deepseek-chat_run2,3.0,station,record,girlfriend,cop,58,"Things that can be ""on the beat"" in a double meaning",3.0,25.0
+93990,3.0,pants,sea,river,hole,59,Things you might find when spending the day on the lake,2.0,53.0
+91608,2.0,pardon,shame,condition,health,60,Hospital,1.0,38.0
+gpt5_run1,3.0,coat,milk,jury,meat,61,Things commonly described with the adjective white,3.0,25.0
+94320,3.0,wall,prison,sheriff,foot,62,Things can be found in a prison,0.0,83.0
+gpt5_run1,,glasses,pocket,lake,buck,63,Things involved in a day of fishing at a lake,3.0,10.0
+93990,3.0,gate,shoe,mail,chocolate,64,Mailman going around delivering mail,3.0,41.0
+95936,3.0,base,weather,property,project,65,in property management ads,1.0,38.0
+93555,3.0,language,society,freedom,rule,67,having rights,0.0,81.0
+gpt5_run3,2.0,telephone,wire,sword,desert,68,Elements involved in sabotaging an enemy telephone line in a desert war setting,3.0,25.0
+88842,2.0,group,field,gas,test,69,Project,1.0,74.0
+94320,3.0,desk,note,ticket,cream,71,things you may find in a person's bedroom,2.0,50.0
+93117,3.0,teeth,restaurant,bottle,hall,72,Atmosphere creators at a fancy restaurant,1.0,89.0
+95936,3.0,sale,divorce,schedule,damage,73,things not common,1.0,25.0
+95411,0.0,winner,account,vacation,subject,74,Game show rewards,3.0,8.0
+93945,0.0,fool,pressure,charge,force,75,Engineering students,3.0,9.0
+deepseek-chat_run1,0.0,ways,decision,secret,duty,77,Things that can be weighed or considered in a moral dilemma,3.0,30.0
+93945,0.0,monsieur,demon,tour,season,78,Villain,3.0,14.0
+94670,1.0,tape,key,church,tree,79,has a connection to life,1.0,42.0
+91363,0.0,breath,chair,sky,drug,80,things that are refreshing,0.0,24.0
+93945,0.0,fairy,spy,trail,suite,81,Details in a story,1.0,35.0
+95875,0.0,flag,actress,locker,tube,82,all paired with star,4.0,0.0
+94670,1.0,weight,manager,battle,player,83,EA College Football,0.0,79.0
+gpt5_run3,1.0,neighborhood,airport,cheese,princess,84,"Simple concrete nouns commonly used as example vocabulary for young children (place, food, person)",3.0,20.0
+87265,0.0,sun,radio,boyfriend,bus,85,things that have a date,4.0,14.0
+gpt5_run2,1.0,pool,animal,prince,driver,86,"Words that appear in the titles of well-known video game series (e.g., 8 Ball Pool, Animal Crossing, Prince of Persia, Driver)",3.0,25.0
+gpt5_run3,0.0,dress,sergeant,film,bathroom,87,"Things involved in a night out at the movies (your outfit, the movies subject, the medium, and a bathroom break at the theater)",3.0,25.0
+gpt5_run3,0.0,exit,hug,warden,chopper,91,Elements in a dramatic prison escape scene in an action movie,3.0,45.0
+93945,0.0,trick,devil,program,speech,92,MK ultra,1.0,25.0
+gpt5_run3,0.0,cab,roof,monkey,pizza,93,"Things you might encounter during a chaotic night out in a big city (taking a cab, ending up on a roof, seeing a monkey performer or mascot, grabbing late-night pizza)",3.0,15.0
+93520,0.0,county,madame,contract,leader,94,madame president,2.0,23.0
+93520,0.0,knife,jail,weapon,shirt,95,things you can use in jail,2.0,32.0
+95944,0.0,thumb,dime,singer,temple,97,things related to rings,1.0,77.0
+gpt5_run2,0.0,cigarette,tank,painting,garden,98,Artifacts and displays you might see in a World War II museum exhibit,3.0,30.0
+87265,0.0,signal,director,contact,heat,99,types of things that can be turned on and off,4.0,12.0
+gpt5_run3,0.0,mister,conversation,size,code,100,"Information fields associated with an online shopping account (title Mister, chat conversations with support, clothing size, promo/zip code)",3.0,15.0

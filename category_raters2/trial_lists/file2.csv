@@ -1,0 +1,92 @@
+old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
+95983,2.0,town,doctor,phone,hand,1,small town,3.0,24.0
+deepseek-chat_run1,2.0,room,mother,world,woman,2,"Words that can be preceded by ""step"" to form a new word or phrase",1.0,40.0
+87226,0.0,birthday,pain,state,meeting,3,reasons people might gather around you,4.0,24.0
+gpt5_run3,2.0,dog,blood,bed,office,4,Things you might deal with during a case at an emergency veterinary clinic,3.0,25.0
+95590,0.0,food,hair,coffee,street,5,Things you would see at a strip mall.,1.0,56.0
+96049,2.0,house,girl,boy,baby,6,family,1.0,53.0
+gpt5_run3,0.0,trip,summer,doc,evidence,7,Information and documents youd include when filing a travel insurance claim after a summer vacation incident,3.0,20.0
+93445,2.0,dude,afternoon,murder,message,8,boys,4.0,67.0
+deepseek-chat_run2,2.0,word,number,week,part,9,Components of a typical newspaper crossword puzzle clue,1.0,40.0
+deepseek-chat_run2,2.0,deal,second,rest,end,12,"Words that can follow ""the"" to form common phrases",1.0,65.0
+88939,2.0,book,daughter,city,child,13,All pieces that are integral to girl's coming of age themes,3.0,65.0
+deepseek-chat_run3,2.0,mouth,floor,plane,officer,14,"Things that can be ""on the"" in common phrases",1.0,40.0
+88939,2.0,furniture,corn,towel,clown,15,"All things that have a relation to something that starts with a c (furniture = couch, corn = cob, towel = cloth, clown = circus)",1.0,7.0
+94821,2.0,party,death,case,couple,16,Domestic violence trial,1.0,40.0
+gpt5_run3,2.0,funeral,arrest,unit,taste,17,"Key elements in a deadly food-poisoning crime case (strange taste of the food, victims funerals, the suspects arrest, and the investigating police/forensics unit)",3.0,15.0
+93133,2.0,chicken,park,wine,camera,18,all these things could be very expensive.,4.0,2.0
+93532,0.0,picture,shot,drink,movie,19,Cinema,1.0,80.0
+93444,2.0,nose,ground,gold,professor,20,Things that support you,3.0,18.0
+95859,0.0,information,order,system,security,21,Museum,0.0,89.0
+88939,2.0,mama,lunch,lieutenant,court,22,"All various hierarchal positions in their individual systems (e.g. breakfast, lunch, dinner)",4.0,35.0
+94821,2.0,dinner,line,captain,husband,23,Captain of a fishing boat,1.0,26.0
+96049,2.0,card,train,building,army,24,army training,3.0,35.0
+deepseek-chat_run3,0.0,defense,safety,command,permission,26,Types of authorization or control in computer security,3.0,40.0
+94257,1.0,hero,east,enemy,mission,27,War and military,3.0,1.0
+88379,1.0,hotel,ball,earth,boat,28,round,3.0,10.0
+deepseek-chat_run2,1.0,oxygen,temperature,movement,pattern,29,Essential factors for sustaining life in an ecosystem,1.0,40.0
+deepseek-chat_run1,1.0,club,colonel,wedding,agent,30,"Things that can be preceded by the word ""secret""",1.0,40.0
+95028,1.0,letter,lawyer,bank,college,31,things all involving important written documents,3.0,13.0
+87744,1.0,table,paper,road,eye,32,road trip,4.0,21.0
+deepseek-chat_run1,1.0,shower,planet,bedroom,candy,33,"Things that can be described as ""sweet"" metaphorically or literally",3.0,25.0
+deepseek-chat_run1,1.0,bag,apartment,window,box,34,Items that might be used when moving to a new home,1.0,70.0
+94894,1.0,heavens,stress,option,punishment,35,Religious decision making,0.0,75.0
+93542,1.0,anger,request,solution,confession,36,People working in HR and what they have to deal with when working to resolve a situation.,3.0,45.0
+94257,1.0,angel,middle,folks,partner,37,Purgatory,4.0,0.0
+gpt5_run1,1.0,difference,pleasure,situation,service,38,"Words that can follow social to form common phrases (social difference, social pleasure, social situation, social service)",3.0,20.0
+96097,1.0,king,piece,boss,class,39,hierarchal roles,2.0,75.0
+94894,1.0,space,idiot,killer,surprise,40,true crime youtube videos,0.0,77.0
+93926,1.0,hat,computer,neck,arm,41,words that can form a phrase with pin,3.0,40.0
+92984,1.0,shop,stage,camp,board,42,cruise,0.0,73.0
+92946,1.0,truck,list,store,star,43,Christmas,2.0,28.0
+94914,1.0,ride,report,top,area,44,Words related to location,2.0,24.0
+89597,1.0,cell,glass,teacher,queen,45,biology class,4.0,0.0
+deepseek-chat_run1,1.0,brain,beer,fish,ice,46,"Things that can be ""on"" something (as in a common phrase or idiom)",3.0,30.0
+88379,1.0,robot,rocket,patch,blade,47,launch,3.0,20.0
+deepseek-chat_run1,1.0,ship,horse,tv,clothes,48,Items that can be transported in a moving truck,1.0,60.0
+gpt5_run2,3.0,bird,rain,cake,chest,49,Elements and symbols associated with a traditional wedding day,3.0,15.0
+94320,3.0,pal,north,spot,client,50,"Things can be found in the movie ""Stand by Me""",3.0,7.0
+gpt5_run3,2.0,machine,gift,cash,land,51,Common types of assets people might leave to heirs in a will (estate assets),1.0,40.0
+93122,3.0,horn,chick,flower,basketball,52,loud,4.0,1.0
+deepseek-chat_run1,2.0,football,bullet,soldier,crowd,53,"Things that can be described as ""in the line of""",3.0,35.0
+88842,2.0,dollar,bike,rose,button,54,outside,3.0,58.0
+93990,3.0,photo,stairs,university,belt,55,Things you can lose,3.0,42.0
+93555,3.0,ear,jacket,radar,senator,56,cold weather,3.0,43.0
+95581,2.0,tea,beach,arms,suit,57,day at the beach,1.0,61.0
+deepseek-chat_run3,2.0,station,record,girlfriend,cop,58,Things that might be mentioned in a classic rock song lyric,3.0,25.0
+gpt5_run2,3.0,pants,hole,sea,river,59,Words used in idioms describing being in trouble or a difficult situation,3.0,35.0
+88842,2.0,health,shame,condition,pardon,60,Illness,3.0,44.0
+88842,2.0,jury,meat,coat,milk,61,Process,4.0,23.0
+91608,2.0,foot,sheriff,wall,prison,62,Jail,1.0,76.0
+96084,3.0,lake,pocket,glasses,buck,63,words that can all follow the word eye,2.0,74.0
+gpt5_run2,3.0,gate,mail,chocolate,shoe,64,Things a mischievous dog might destroy when left unsupervised at home,2.0,45.0
+88842,2.0,project,weather,property,base,65,Place,3.0,58.0
+91608,2.0,society,rule,freedom,language,67,New things that were found in the 13 colonies,2.0,11.0
+deepseek-chat_run1,3.0,telephone,wire,sword,desert,68,Items that could be used to send a distress signal in an emergency,3.0,35.0
+93117,3.0,gas,test,field,group,69,What car prototype engineers think about in day,2.0,36.0
+93555,3.0,note,desk,cream,ticket,71,things that can be white,2.0,30.0
+gpt5_run1,3.0,teeth,bottle,restaurant,hall,72,"Common elements at a wedding reception (smiling teeth in photos, bottles of drinks, held in a restaurant or hall)",3.0,20.0
+93983,3.0,divorce,damage,schedule,sale,73,All of these would follow an unhappy marriage.,2.0,27.0
+95944,0.0,vacation,winner,account,subject,74,Things related to winning the lottery,0.0,90.0
+94962,0.0,fool,charge,pressure,force,75,things that have to do with physics,1.0,35.0
+95414,1.0,secret,ways,duty,decision,77,Types of routes,1.0,35.0
+95414,1.0,tour,demon,season,monsieur,78,Things that seem hard to get/find,4.0,39.0
+95414,1.0,key,church,tree,tape,79,"Things you most definitely had/did when you were little 
+",0.0,73.0
+95103,1.0,drug,breath,chair,sky,80,smoking a cigar in the backyard and you have.,1.0,9.0
+gpt5_run1,0.0,fairy,trail,suite,spy,81,"Common themes or settings for childrens adventure TV shows or book series (fairy worlds, wilderness trails, luxury hotel suites, and spies)",3.0,15.0
+91363,0.0,tube,locker,actress,flag,82,things that are hollow on the inside,4.0,2.0
+95411,0.0,manager,battle,weight,player,83,Related to sports and athletes,3.0,19.0
+87265,0.0,neighborhood,princess,airport,cheese,84,All things that can have a gate,4.0,19.0
+94869,0.0,boyfriend,bus,sun,radio,85,Summer day drive,2.0,11.0
+95411,0.0,animal,pool,prince,driver,86,things in royaltys house,3.0,8.0
+95103,1.0,film,dress,sergeant,bathroom,87,things you see in a movie,1.0,65.0
+gpt5_run1,0.0,exit,hug,warden,chopper,91,Elements commonly seen in the climactic escape scene of an action-movie prison break,3.0,35.0
+91304,1.0,devil,program,speech,trick,92,Things seen at a school Halloween assembly,1.0,39.0
+gpt5_run1,0.0,cab,roof,monkey,pizza,93,"Things a tourist commonly encounters during a day out in New York City (cab ride, city rooftops, zoo monkeys, and a slice of pizza)",1.0,25.0
+87265,0.0,county,contract,madame,leader,94,things that have titles,4.0,7.0
+95411,0.0,jail,knife,shirt,weapon,95,reasons for a cop to be curious about someone,2.0,15.0
+95875,0.0,dime,thumb,singer,temple,97,"they all come before the word ""nail""",4.0,0.0
+91363,0.0,garden,tank,cigarette,painting,98,things that require a rod-shaped device,1.0,14.0
+95944,0.0,heat,signal,contact,director,99,Things that travel or cause something to travel from thing/person to another,1.0,75.0
+87712,0.0,mister,code,size,conversation,100,computer science,3.0,9.0
