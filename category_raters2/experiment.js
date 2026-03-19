@@ -94,9 +94,11 @@ const instructions = {
     stimulus: `
         <div style="max-width: 800px; margin: 0 auto; text-align: center; font-family: sans-serif;">
             <h2>Instructions</h2>
-            <p>In this experiment, you will see a <strong>category description</strong> in the center of the screen and <strong>four words</strong> in the corners.</p>
+            <p>In this experiment, you will see a <strong>category description</strong> in the center of the screen and <strong>four words</strong> in the corners. These four words are members of the category.</p>
 
-            <p>Your job is to drag each word toward the category label to show <strong>how well it fits</strong>.</p>
+            <p>On each trial, your job is to drag each word toward the category label to show <strong>how well it fits the category</strong>.Specifcally, you should think about how well this description applies to each word. A category description might be better for some words than others. For example, you might think that the category "animals" applies better to "dog" than to "fish."</p>
+
+            <p> Also think about how well the individual words relate to <strong>each other</strong>. For example, you might think that the category "animals" applies better to "dog" and to "cat" than "fish." You might also consider "dog" and "cat" as more similar to each other. So in addition to dragging them closer to the category label, you'll want to place them close together.</p>
 
             <div style="display:flex; gap:20px; margin: 20px 0; text-align:left;">
                 <div style="flex:1; border:1px solid #ddd; border-radius:8px; overflow:hidden;">
@@ -109,13 +111,73 @@ const instructions = {
                 </div>
             </div>
 
+            <div style="margin-top: 24px;">
+                <p style="font-size: 16px;"><strong>Your placements also tell us about the relationships between words.</strong></p>
+                <p style="font-size: 14px; color: #555; text-align: center;">
+                    Words you place <strong>near each other</strong> will be treated as more related.<br>
+                    Words you place <strong>far apart</strong> will be treated as less related.
+                </p>
+                <div style="display:flex; gap:20px; margin: 16px 0; text-align:left;">
+                    <div style="flex:1; border:1px solid #ddd; border-radius:8px; overflow:hidden;">
+                        <div style="background:#e74c3c; color:white; padding:8px; font-weight:bold;">Less related placement</div>
+                        <div style="padding:12px; font-size:13px;">
+                            Placing <em>dog</em> in one corner and <em>cat</em> in the opposite corner
+                            suggests they feel unrelated within this category.
+                        </div>
+                    </div>
+                    <div style="flex:1; border:1px solid #ddd; border-radius:8px; overflow:hidden;">
+                        <div style="background:#27ae60; color:white; padding:8px; font-weight:bold;">More related placement</div>
+                        <div style="padding:12px; font-size:13px;">
+                            Placing <em>dog</em> and <em>cat</em> close together
+                            suggests they feel related to each other within this category.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <p>You must move <strong>all four words</strong> at least once before you can continue.</p>
             <p>You can reposition words as many times as you like before clicking Continue.</p>
+
+            <p>You will do a practice trial first to get a better sense of how the task works.</p>
 
             <p><strong>Press any key when you're ready to begin.</strong></p>
         </div>
     `,
     data: { trial_type: 'instructions' }
+};
+
+const practiceTrial = {
+    type: jsPsychHtmlButtonResponse,
+    stimulus: () => buildArenaHTML(
+        { category_response: 'animal' },
+        [
+            { word: 'dog',  cornerIndex: 0, cornerName: 'top-left'     },
+            { word: 'cat',  cornerIndex: 1, cornerName: 'top-right'    },
+            { word: 'fish', cornerIndex: 2, cornerName: 'bottom-left'  },
+            { word: 'bird', cornerIndex: 3, cornerName: 'bottom-right' }
+        ]
+    ),
+    choices: ['Continue'],
+    button_html: '<button class="jspsych-btn" id="jspsych-continue-btn" disabled>%choice%</button>',
+    on_load: setupDragLogic,
+    data: {
+        custom_trial_type: 'drag_rating', 
+        trial_type:        'practice',       
+        trial_number:      0,
+        participant_id:    participant_id,
+        word1: 'dog', word2: 'cat', word3: 'fish', word4: 'bird',
+        category_response: 'animal'
+    },
+    on_finish: function(data) {
+        const scores     = getWordScores();
+        data.word1_score = scores['dog']  ?? null;
+        data.word2_score = scores['cat']  ?? null;
+        data.word3_score = scores['fish'] ?? null;
+        data.word4_score = scores['bird'] ?? null;
+        const dims = getArenaDims();
+        data.arena_w = dims.arenaW;
+        data.arena_h = dims.arenaH;
+    }
 };
 
 // ─── Drag-and-drop arena HTML builder ────────────────────────────────────────
@@ -444,7 +506,7 @@ function getFilteredData() {
 var save_data = {
     type: jsPsychPipe,
     action: 'save',
-    experiment_id: 'J0scyQ9CDYZD',
+    experiment_id: 'h7Akr3tdxQkz',
     filename: `${participant_id}.csv`,
     data_string: getFilteredData,
     on_finish: function(data) {
@@ -492,7 +554,7 @@ var final_screen = {
     data: { trial_type: 'final' },
     on_finish: function() {
         setTimeout(function() {
-            let qualtricsUrl = `https://uwmadison.co1.qualtrics.com/jfe/form/SV_bCWCCMEZoDiiA3s`;
+            let qualtricsUrl = `https://uwmadison.co1.qualtrics.com/jfe/form/SV_eepKyHQe2PLiZ8O`;
             if (sonaId) qualtricsUrl += `?sona_id=${sonaId}`;
             window.location.href = qualtricsUrl;
         }, 100);
@@ -516,6 +578,7 @@ async function runExperiment() {
         timeline = [
             consent,
             instructions,
+            exampleTrial,
             ...dragTrials,
             save_data,
             final_screen
