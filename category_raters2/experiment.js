@@ -26,20 +26,34 @@ const jsPsych = initJsPsych({
 let timeline = [];
 let globalTrialNumber = 0;
 
-// ─── Arena / box geometry ─────────────────────────────────────────────────────
-const ARENA_W = 720;
-const ARENA_H = 500;
-const BOX_W   = 130;
-const BOX_H   = 55;
-const MARGIN  = 28;
+// ─── Arena / box geometry — scales to the participant's viewport ───────────────
+// Called fresh each trial so it always reflects the current window size.
+function getArenaDims() {
+    // Use 88% of the available viewport, capped so it never gets absurdly large.
+    const vw = window.innerWidth  || document.documentElement.clientWidth  || 1024;
+    const vh = window.innerHeight || document.documentElement.clientHeight || 768;
 
-// Fixed corner positions (top-left, top-right, bottom-left, bottom-right)
-const CORNERS = [
-    { x: MARGIN,                    y: MARGIN,                    name: 'top-left'     },
-    { x: ARENA_W - BOX_W - MARGIN,  y: MARGIN,                    name: 'top-right'    },
-    { x: MARGIN,                    y: ARENA_H - BOX_H - MARGIN,  name: 'bottom-left'  },
-    { x: ARENA_W - BOX_W - MARGIN,  y: ARENA_H - BOX_H - MARGIN,  name: 'bottom-right' }
-];
+    // jsPsych adds some chrome (progress bar ~20px, button row ~60px, padding ~40px)
+    const CHROME_V = 140;
+
+    const arenaW = Math.min(Math.round(vw * 0.88), 1400);
+    const arenaH = Math.min(Math.round((vh - CHROME_V) * 0.88), 900);
+
+    // Box and margin scale proportionally with the arena width
+    const scale  = arenaW / 720;           // 720 is the original baseline
+    const boxW   = Math.round(130 * scale);
+    const boxH   = Math.round(55  * scale);
+    const margin = Math.round(28  * scale);
+
+    const corners = [
+        { x: margin,              y: margin,              name: 'top-left'     },
+        { x: arenaW - boxW - margin, y: margin,              name: 'top-right'    },
+        { x: margin,              y: arenaH - boxH - margin, name: 'bottom-left'  },
+        { x: arenaW - boxW - margin, y: arenaH - boxH - margin, name: 'bottom-right' }
+    ];
+
+    return { arenaW, arenaH, boxW, boxH, margin, corners };
+}
 
 // ─── Consent ──────────────────────────────────────────────────────────────────
 const consent = {
@@ -106,14 +120,16 @@ const instructions = {
 
 // ─── Drag-and-drop arena HTML builder ────────────────────────────────────────
 function buildArenaHTML(item, wordCornerAssignments) {
+    const { arenaW, arenaH, boxW, boxH, corners } = getArenaDims();
+
     const wordDivs = wordCornerAssignments.map((wc, i) => {
-        const c = CORNERS[wc.cornerIndex];
+        const c = corners[wc.cornerIndex];
         return `
             <div class="word-box"
                  data-word="${wc.word}"
                  data-index="${i}"
                  data-corner="${wc.cornerName}"
-                 style="left:${c.x}px; top:${c.y}px; width:${BOX_W}px; height:${BOX_H}px;">
+                 style="left:${c.x}px; top:${c.y}px; width:${boxW}px; height:${boxH}px;">
                 ${wc.word}
             </div>`;
     }).join('');
@@ -122,8 +138,8 @@ function buildArenaHTML(item, wordCornerAssignments) {
         <style>
             #drag-arena {
                 position: relative;
-                width: ${ARENA_W}px;
-                height: ${ARENA_H}px;
+                width: ${arenaW}px;
+                height: ${arenaH}px;
                 border: 2px solid #ccc;
                 border-radius: 12px;
                 margin: 0 auto;
@@ -194,7 +210,7 @@ function buildArenaHTML(item, wordCornerAssignments) {
             }
         </style>
 
-        <div style="text-align:center; font-family:sans-serif; max-width:${ARENA_W}px; margin:0 auto;">
+        <div style="text-align:center; font-family:sans-serif; max-width:${arenaW}px; margin:0 auto;">
             <p style="font-size:14px; color:#555; margin-bottom:10px;">
                 Drag each word toward the category — <strong>closer = better fit</strong>.
             </p>
@@ -313,14 +329,14 @@ function createTrials(trialsData) {
         const wordCornerAssignments = words.map((word, i) => ({
             word,
             cornerIndex: cornerOrder[i],
-            cornerName:  CORNERS[cornerOrder[i]].name
+            cornerName:  ['top-left','top-right','bottom-left','bottom-right'][cornerOrder[i]]
         }));
 
         const trialNum = globalTrialNumber; // capture for closure
 
         const dragTrial = {
             type: jsPsychHtmlButtonResponse,
-            stimulus: buildArenaHTML(item, wordCornerAssignments),
+            stimulus: () => buildArenaHTML(item, wordCornerAssignments),
             choices: ['Continue'],
             button_html: '<button class="jspsych-btn" id="jspsych-continue-btn" disabled>%choice%</button>',
             on_load: setupDragLogic,
@@ -339,7 +355,9 @@ function createTrials(trialsData) {
                 consensus:              item.consensus,
                 word_corner_assignments: JSON.stringify(
                     wordCornerAssignments.map(wc => ({ word: wc.word, corner: wc.cornerName }))
-                )
+                ),
+                viewport_w: window.innerWidth  || null,
+                viewport_h: window.innerHeight || null
             },
             on_finish: function(data) {
                 const scores     = getWordScores();
@@ -347,6 +365,10 @@ function createTrials(trialsData) {
                 data.word2_score = scores[item.word2] ?? null;
                 data.word3_score = scores[item.word3] ?? null;
                 data.word4_score = scores[item.word4] ?? null;
+                // Record arena size used for this trial
+                const dims = getArenaDims();
+                data.arena_w = dims.arenaW;
+                data.arena_h = dims.arenaH;
             }
         };
 
@@ -374,7 +396,7 @@ function getFilteredData() {
             'word1', 'word2', 'word3', 'word4', 'category_response',
             'difficulty', 'consensus',
             'word1_score', 'word2_score', 'word3_score', 'word4_score',
-            'rt', 'word_corner_assignments'
+            'rt', 'word_corner_assignments', 'viewport_w', 'viewport_h', 'arena_w', 'arena_h'
         ].join(',');
 
         const rows = dragTrials.map(trial => {
@@ -395,7 +417,11 @@ function getFilteredData() {
                 trial.word3_score         ?? '',
                 trial.word4_score         ?? '',
                 Math.round(trial.rt       || 0),
-                trial.word_corner_assignments || ''
+                trial.word_corner_assignments || '',
+                trial.viewport_w          ?? '',
+                trial.viewport_h          ?? '',
+                trial.arena_w             ?? '',
+                trial.arena_h             ?? ''
             ];
 
             return row.map(value => {
