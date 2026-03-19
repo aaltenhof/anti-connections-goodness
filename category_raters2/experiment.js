@@ -200,7 +200,8 @@ function buildArenaHTML(item, wordCornerAssignments) {
         <style>
             #drag-arena {
                 position: relative;
-                width: ${arenaW}px;
+                width: 100%;
+                max-width: ${arenaW}px;
                 height: ${arenaH}px;
                 border: 2px solid #ccc;
                 border-radius: 12px;
@@ -293,14 +294,34 @@ function buildArenaHTML(item, wordCornerAssignments) {
 
 // ─── Drag logic (called from on_load) ────────────────────────────────────────
 function setupDragLogic() {
-    const arena = document.getElementById('drag-arena');
+        const arena = document.getElementById('drag-arena');
     if (!arena) return;
 
-    const boxes     = arena.querySelectorAll('.word-box');
-    const movedSet  = new Set();
+    const boxes       = arena.querySelectorAll('.word-box');
+    const movedSet    = new Set();
     const continueBtn = document.getElementById('jspsych-continue-btn');
 
     if (continueBtn) continueBtn.disabled = true;
+
+    // ── Reposition boxes using actual rendered arena size ──────────────────
+    const actualW = arena.offsetWidth;
+    const actualH = arena.offsetHeight;
+    const { boxW, boxH, margin } = getArenaDims();
+
+    const actualCorners = [
+        { name: 'top-left',     x: margin,                  y: margin                  },
+        { name: 'top-right',    x: actualW - boxW - margin,  y: margin                  },
+        { name: 'bottom-left',  x: margin,                  y: actualH - boxH - margin  },
+        { name: 'bottom-right', x: actualW - boxW - margin,  y: actualH - boxH - margin  }
+    ];
+
+    boxes.forEach(box => {
+        const corner = actualCorners.find(c => c.name === box.dataset.corner);
+        if (corner) {
+            box.style.left = corner.x + 'px';
+            box.style.top  = corner.y + 'px';
+        }
+    });
 
     boxes.forEach(box => {
         let isDragging    = false;
