@@ -96,9 +96,11 @@ const instructions = {
             <h2>Instructions</h2>
             <p>In this experiment, you will see a <strong>category description</strong> in the center of the screen and <strong>four words</strong> in the corners. These four words are members of the category.</p>
 
-            <p>On each trial, your job is to drag each word toward the category label to show <strong>how well it fits the category</strong>.Specifcally, you should think about how well this description applies to each word. A category description might be better for some words than others. For example, you might think that the category "animals" applies better to "dog" than to "fish."</p>
 
-            <p> Also think about how well the individual words relate to <strong>each other</strong>. For example, you might think that the category "animals" applies better to "dog" and to "cat" than "fish." You might also consider "dog" and "cat" as more similar to each other. So in addition to dragging them closer to the category label, you'll want to place them close together.</p>
+            <p>On each trial, your job is to drag each word toward the category label to show <strong>how well it fits the category</strong>. Specifcally, you should think about how well this description applies to each word. A category description might be better for some words than others. For example, you might think that the category "animals" applies better to "dog" than to "fish."</p>
+
+
+            <p> Also think about how well the individual words relate to <strong>each other</strong>. For example, you might think that the category "animals" applies better to "dog" and "cat" than "fish." You might also consider "dog" and "cat" as more similar to each other. So in addition to dragging them closer to the category label, you'll want to place them close together.</p>
 
             <div style="display:flex; gap:20px; margin: 20px 0; text-align:left;">
                 <div style="flex:1; border:1px solid #ddd; border-radius:8px; overflow:hidden;">
@@ -119,17 +121,17 @@ const instructions = {
                 </p>
                 <div style="display:flex; gap:20px; margin: 16px 0; text-align:left;">
                     <div style="flex:1; border:1px solid #ddd; border-radius:8px; overflow:hidden;">
-                        <div style="background:#e74c3c; color:white; padding:8px; font-weight:bold;">Less related placement</div>
-                        <div style="padding:12px; font-size:13px;">
+                        <div style="background:#e74c3c; color:white; padding:8px; font-weight:bold;">Less related</div>
+                        <div style="padding:12px;">
                             Placing <em>dog</em> in one corner and <em>cat</em> in the opposite corner
-                            suggests they feel unrelated within this category.
+                            suggests they feel <strong>less related</strong> within this category.
                         </div>
                     </div>
                     <div style="flex:1; border:1px solid #ddd; border-radius:8px; overflow:hidden;">
-                        <div style="background:#27ae60; color:white; padding:8px; font-weight:bold;">More related placement</div>
-                        <div style="padding:12px; font-size:13px;">
+                        <div style="background:#27ae60; color:white; padding:8px; font-weight:bold;">More related</div>
+                        <div style="padding:12px">
                             Placing <em>dog</em> and <em>cat</em> close together
-                            suggests they feel related to each other within this category.
+                            suggests they feel <strong>more related</strong> to each other within this category.
                         </div>
                     </div>
                 </div>
@@ -306,7 +308,9 @@ function setupDragLogic() {
     // ── Reposition boxes using actual rendered arena size ──────────────────
     const actualW = arena.offsetWidth;
     const actualH = arena.offsetHeight;
-    const { boxW, boxH, margin } = getArenaDims();
+    const { margin } = getArenaDims();
+    const boxW = boxes[0].offsetWidth;
+    const boxH = boxes[0].offsetHeight;
 
     const actualCorners = [
         { name: 'top-left',     x: margin,                  y: margin                  },
