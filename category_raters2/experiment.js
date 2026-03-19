@@ -599,7 +599,7 @@ async function runExperiment() {
         timeline = [
             consent,
             instructions,
-            exampleTrial,
+            practiceTrial,
             ...dragTrials,
             save_data,
             final_screen
