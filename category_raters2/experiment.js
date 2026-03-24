@@ -115,7 +115,7 @@ const instructions = {
 
             <div style="margin-top: 24px;">
                 <p style="font-size: 16px;"><strong>Your placements also tell us about the relationships between words.</strong></p>
-                <p style="font-size: 14px; color: #555; text-align: center;">
+                <p style="text-align: center;">
                     Words you place <strong>near each other</strong> will be treated as more related.<br>
                     Words you place <strong>far apart</strong> will be treated as less related.
                 </p>
