@@ -29,15 +29,15 @@ let globalTrialNumber = 0;
 // ─── Arena / box geometry — scales to the participant's viewport ───────────────
 // Called fresh each trial so it always reflects the current window size.
 function getArenaDims() {
-    // Use 88% of the available viewport, capped so it never gets absurdly large.
+    // Use most of the available viewport to fill the screen
     const vw = window.innerWidth  || document.documentElement.clientWidth  || 1024;
     const vh = window.innerHeight || document.documentElement.clientHeight || 768;
 
-    // jsPsych adds some chrome (progress bar ~20px, button row ~60px, padding ~40px)
-    const CHROME_V = 140;
+    // jsPsych adds some chrome (progress bar, button row, instruction text, padding)
+    const CHROME_V = 180;
 
-    const arenaW = Math.min(Math.round(vw * 0.88), 1400);
-    const arenaH = Math.min(Math.round((vh - CHROME_V) * 0.88), 900);
+    const arenaW = Math.round(vw * 0.92);
+    const arenaH = Math.round((vh - CHROME_V) * 0.85);
 
     // Box and margin scale proportionally with the arena width
     const scale  = arenaW / 720;           // 720 is the original baseline
@@ -114,7 +114,7 @@ const instructions = {
             </div>
 
             <div style="margin-top: 24px;">
-                <p style="font-size: 16px;"><strong>Your placements also tell us about the relationships between words.</strong></p>
+                <p style="<strong>Your placements also tell us about the relationships between words.</strong></p>
                 <p style="text-align: center;">
                     Words you place <strong>near each other</strong> will be treated as more related.<br>
                     Words you place <strong>far apart</strong> will be treated as less related.
@@ -163,8 +163,8 @@ const practiceTrial = {
     button_html: '<button class="jspsych-btn" id="jspsych-continue-btn" disabled>%choice%</button>',
     on_load: setupDragLogic,
     data: {
-        custom_trial_type: 'drag_rating', 
-        trial_type:        'practice',       
+        custom_trial_type: 'drag_rating',
+        trial_type:        'practice',
         trial_number:      0,
         participant_id:    participant_id,
         word1: 'dog', word2: 'cat', word3: 'fish', word4: 'bird',
@@ -180,6 +180,28 @@ const practiceTrial = {
         data.arena_w = dims.arenaW;
         data.arena_h = dims.arenaH;
     }
+};
+
+// ─── Begin Main Study ─────────────────────────────────────────────────────────
+const beginMainStudy = {
+    type: jsPsychHtmlButtonResponse,
+    stimulus: `
+        <div style="max-width: 700px; margin: 0 auto; text-align: center; font-family: sans-serif;">
+            <h2>Ready to Begin</h2>
+            <p style="font-size: 16px; line-height: 1.6;">
+                Great job! You've completed the practice trial.
+            </p>
+            <p style="font-size: 16px; line-height: 1.6;">
+                You're now ready to begin the main study. The task will be exactly the same:
+                drag each word to show how well it fits the category, and place related words near each other.
+            </p>
+            <p style="font-size: 16px; line-height: 1.6; margin-top: 20px;">
+                <strong>Click Continue when you're ready to start.</strong>
+            </p>
+        </div>
+    `,
+    choices: ['Continue'],
+    data: { trial_type: 'begin_main_study' }
 };
 
 // ─── Drag-and-drop arena HTML builder ────────────────────────────────────────
@@ -604,6 +626,7 @@ async function runExperiment() {
             consent,
             instructions,
             practiceTrial,
+            beginMainStudy,
             ...dragTrials,
             save_data,
             final_screen
