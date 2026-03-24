@@ -171,11 +171,15 @@ const practiceTrial = {
         category_response: 'animal'
     },
     on_finish: function(data) {
-        const scores     = getWordScores();
-        data.word1_score = scores['dog']  ?? null;
-        data.word2_score = scores['cat']  ?? null;
-        data.word3_score = scores['fish'] ?? null;
-        data.word4_score = scores['bird'] ?? null;
+        const coords = getWordCoordinates();
+        data.word1_x = coords['dog']?.x  ?? null;
+        data.word1_y = coords['dog']?.y  ?? null;
+        data.word2_x = coords['cat']?.x  ?? null;
+        data.word2_y = coords['cat']?.y  ?? null;
+        data.word3_x = coords['fish']?.x ?? null;
+        data.word3_y = coords['fish']?.y ?? null;
+        data.word4_x = coords['bird']?.x ?? null;
+        data.word4_y = coords['bird']?.y ?? null;
         const dims = getArenaDims();
         data.arena_w = dims.arenaW;
         data.arena_h = dims.arenaH;
@@ -399,30 +403,25 @@ function setupDragLogic() {
     });
 }
 
-// ─── Score extraction (called from on_finish) ─────────────────────────────────
-// Returns an object keyed by word → score 0–100 (100 = on top of center)
-function getWordScores() {
+// ─── Coordinate extraction (called from on_finish) ───────────────────────────
+// Returns an object keyed by word → {x, y} coordinates (center of each word box)
+function getWordCoordinates() {
     const arena = document.getElementById('drag-arena');
     if (!arena) return {};
 
-    const arenaW  = arena.offsetWidth;
-    const arenaH  = arena.offsetHeight;
-    const centerX = arenaW / 2;
-    const centerY = arenaH / 2;
-
-    // Maximum possible distance: center → corner
-    const maxDist = Math.sqrt(centerX * centerX + centerY * centerY);
-
-    const scores = {};
+    const coordinates = {};
     arena.querySelectorAll('.word-box').forEach(box => {
+        // Get center coordinates of the word box
         const boxCX = parseInt(box.style.left, 10) + box.offsetWidth  / 2;
         const boxCY = parseInt(box.style.top,  10) + box.offsetHeight / 2;
-        const dist  = Math.sqrt(Math.pow(boxCX - centerX, 2) + Math.pow(boxCY - centerY, 2));
 
-        scores[box.dataset.word] = Math.round((1 - Math.min(dist, maxDist) / maxDist) * 100);
+        coordinates[box.dataset.word] = {
+            x: Math.round(boxCX),
+            y: Math.round(boxCY)
+        };
     });
 
-    return scores;
+    return coordinates;
 }
 
 // ─── Trial factory ────────────────────────────────────────────────────────────
@@ -469,11 +468,15 @@ function createTrials(trialsData) {
                 viewport_h: window.innerHeight || null
             },
             on_finish: function(data) {
-                const scores     = getWordScores();
-                data.word1_score = scores[item.word1] ?? null;
-                data.word2_score = scores[item.word2] ?? null;
-                data.word3_score = scores[item.word3] ?? null;
-                data.word4_score = scores[item.word4] ?? null;
+                const coords = getWordCoordinates();
+                data.word1_x = coords[item.word1]?.x ?? null;
+                data.word1_y = coords[item.word1]?.y ?? null;
+                data.word2_x = coords[item.word2]?.x ?? null;
+                data.word2_y = coords[item.word2]?.y ?? null;
+                data.word3_x = coords[item.word3]?.x ?? null;
+                data.word3_y = coords[item.word3]?.y ?? null;
+                data.word4_x = coords[item.word4]?.x ?? null;
+                data.word4_y = coords[item.word4]?.y ?? null;
                 // Record arena size used for this trial
                 const dims = getArenaDims();
                 data.arena_w = dims.arenaW;
@@ -496,7 +499,8 @@ function getFilteredData() {
     if (dragTrials.length === 0) {
         console.warn('No drag trials found for saving!');
         return 'subjCode,trial_num,group_id,condition,word1,word2,word3,word4,category_response,' +
-               'difficulty,consensus,word1_score,word2_score,word3_score,word4_score,rt,word_corner_assignments\n';
+               'difficulty,consensus,word1_x,word1_y,word2_x,word2_y,word3_x,word3_y,word4_x,word4_y,' +
+               'rt,word_corner_assignments,viewport_w,viewport_h,arena_w,arena_h\n';
     }
 
     try {
@@ -504,7 +508,7 @@ function getFilteredData() {
             'subjCode', 'trial_num', 'group_id', 'condition',
             'word1', 'word2', 'word3', 'word4', 'category_response',
             'difficulty', 'consensus',
-            'word1_score', 'word2_score', 'word3_score', 'word4_score',
+            'word1_x', 'word1_y', 'word2_x', 'word2_y', 'word3_x', 'word3_y', 'word4_x', 'word4_y',
             'rt', 'word_corner_assignments', 'viewport_w', 'viewport_h', 'arena_w', 'arena_h'
         ].join(',');
 
@@ -521,10 +525,14 @@ function getFilteredData() {
                 trial.category_response   || '',
                 trial.difficulty          ?? '',
                 trial.consensus           ?? '',
-                trial.word1_score         ?? '',
-                trial.word2_score         ?? '',
-                trial.word3_score         ?? '',
-                trial.word4_score         ?? '',
+                trial.word1_x             ?? '',
+                trial.word1_y             ?? '',
+                trial.word2_x             ?? '',
+                trial.word2_y             ?? '',
+                trial.word3_x             ?? '',
+                trial.word3_y             ?? '',
+                trial.word4_x             ?? '',
+                trial.word4_y             ?? '',
                 Math.round(trial.rt       || 0),
                 trial.word_corner_assignments || '',
                 trial.viewport_w          ?? '',
