@@ -36,8 +36,8 @@ function getArenaDims() {
     // jsPsych adds some chrome (progress bar, button row, instruction text, padding)
     const CHROME_V = 150;
 
-    const arenaW = Math.round(vw * 0.96);
-    const arenaH = Math.round((vh - CHROME_V) * 0.90);
+    const arenaW = Math.round(vw * 0.98);
+    const arenaH = Math.round((vh - CHROME_V) * 0.92);
 
     // Box and margin scale proportionally with the arena width
     const scale  = arenaW / 720;           // 720 is the original baseline
