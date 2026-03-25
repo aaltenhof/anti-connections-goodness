@@ -41,8 +41,8 @@ function getArenaDims() {
 
     // Box and margin scale proportionally with the arena width
     const scale  = arenaW / 720;           // 720 is the original baseline
-    const boxW   = Math.round(130 * scale);
-    const boxH   = Math.round(55  * scale);
+    const boxW   = Math.round(100 * scale);
+    const boxH   = Math.round(45  * scale);
     const margin = Math.round(28  * scale);
 
     const corners = [
@@ -239,10 +239,6 @@ function buildArenaHTML(item, wordCornerAssignments) {
             body, html {
                 margin: 0;
                 padding: 0;
-                overflow-x: hidden;
-            }
-            .jspsych-content-wrapper {
-                overflow-x: hidden;
             }
             #drag-arena {
                 position: relative;
