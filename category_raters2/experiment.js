@@ -228,8 +228,7 @@ function buildArenaHTML(item, wordCornerAssignments) {
         <style>
             #drag-arena {
                 position: relative;
-                width: 100%;
-                max-width: ${arenaW}px;
+                width: ${arenaW}px;
                 height: ${arenaH}px;
                 border: 2px solid #ccc;
                 border-radius: 12px;
@@ -301,7 +300,7 @@ function buildArenaHTML(item, wordCornerAssignments) {
             }
         </style>
 
-        <div style="text-align:center; font-family:sans-serif; max-width:${arenaW}px; margin:0 auto;">
+        <div style="text-align:center; font-family:sans-serif; margin:0 auto;">
             <p style="font-size:14px; color:#555; margin-bottom:10px;">
                 Drag each word toward the category — <strong>closer to the category = better fit</strong>.
             </p>
