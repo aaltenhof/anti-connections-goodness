@@ -314,7 +314,7 @@ function buildArenaHTML(item, wordCornerAssignments) {
             </p>
 
             <div id="drag-arena">
-                <div id="category-label">&ldquo;${item.category_response}&rdquo;</div>
+                <div id="category-label">${item.category_response}</div>
                 ${wordDivs}
             </div>
 
