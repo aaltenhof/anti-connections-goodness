@@ -41,8 +41,8 @@ function getArenaDims() {
 
     // Box and margin scale proportionally with the arena width
     const scale  = arenaW / 720;           // 720 is the original baseline
-    const boxW   = Math.round(85 * scale);
-    const boxH   = Math.round(40  * scale);
+    const boxW   = Math.round(70 * scale);
+    const boxH   = Math.round(35  * scale);
     const margin = Math.round(28  * scale);
 
     const corners = [
@@ -182,6 +182,8 @@ const practiceTrial = {
     },
     on_finish: function(data) {
         const coords = getWordCoordinates();
+        const initCoords = getInitialWordCoordinates();
+
         data.word1_x = coords['dog']?.x  ?? null;
         data.word1_y = coords['dog']?.y  ?? null;
         data.word2_x = coords['cat']?.x  ?? null;
@@ -190,6 +192,16 @@ const practiceTrial = {
         data.word3_y = coords['fish']?.y ?? null;
         data.word4_x = coords['bird']?.x ?? null;
         data.word4_y = coords['bird']?.y ?? null;
+
+        data.word1_init_x = initCoords['dog']?.x  ?? null;
+        data.word1_init_y = initCoords['dog']?.y  ?? null;
+        data.word2_init_x = initCoords['cat']?.x  ?? null;
+        data.word2_init_y = initCoords['cat']?.y  ?? null;
+        data.word3_init_x = initCoords['fish']?.x ?? null;
+        data.word3_init_y = initCoords['fish']?.y ?? null;
+        data.word4_init_x = initCoords['bird']?.x ?? null;
+        data.word4_init_y = initCoords['bird']?.y ?? null;
+
         const dims = getArenaDims();
         data.arena_w = dims.arenaW;
         data.arena_h = dims.arenaH;
@@ -245,20 +257,6 @@ function buildArenaHTML(item, wordCornerAssignments) {
                 margin: 0 auto;
                 background: #f9f9f9;
                 overflow: hidden;
-            }
-            .arena-line-v {
-                position: absolute;
-                left: 50%; top: 0; bottom: 0;
-                width: 1px;
-                background: rgba(0,0,0,0.07);
-                pointer-events: none;
-            }
-            .arena-line-h {
-                position: absolute;
-                top: 50%; left: 0; right: 0;
-                height: 1px;
-                background: rgba(0,0,0,0.07);
-                pointer-events: none;
             }
             #category-label {
                 position: absolute;
@@ -316,8 +314,6 @@ function buildArenaHTML(item, wordCornerAssignments) {
             </p>
 
             <div id="drag-arena">
-                <div class="arena-line-v"></div>
-                <div class="arena-line-h"></div>
                 <div id="category-label">&ldquo;${item.category_response}&rdquo;</div>
                 ${wordDivs}
             </div>
@@ -329,6 +325,10 @@ function buildArenaHTML(item, wordCornerAssignments) {
     `;
 }
 
+// Store word positions globally so they persist after DOM is cleared
+let finalWordPositions = {};
+let initialWordPositions = {};
+
 // ─── Drag logic (called from on_load) ────────────────────────────────────────
 function setupDragLogic() {
         const arena = document.getElementById('drag-arena');
@@ -337,6 +337,10 @@ function setupDragLogic() {
     const boxes       = arena.querySelectorAll('.word-box');
     const movedSet    = new Set();
     const continueBtn = document.getElementById('jspsych-continue-btn');
+
+    // Reset positions for this trial
+    finalWordPositions = {};
+    initialWordPositions = {};
 
     if (continueBtn) continueBtn.disabled = true;
 
@@ -359,6 +363,14 @@ function setupDragLogic() {
         if (corner) {
             box.style.left = corner.x + 'px';
             box.style.top  = corner.y + 'px';
+
+            // Store initial position (center of box)
+            const initCX = corner.x + boxW / 2;
+            const initCY = corner.y + boxH / 2;
+            initialWordPositions[box.dataset.word] = {
+                x: Math.round(initCX),
+                y: Math.round(initCY)
+            };
         }
     });
 
@@ -402,6 +414,14 @@ function setupDragLogic() {
             box.classList.remove('dragging');
             box.classList.add('moved');
 
+            // Store final position
+            const boxCX = parseInt(box.style.left, 10) + box.offsetWidth / 2;
+            const boxCY = parseInt(box.style.top, 10) + box.offsetHeight / 2;
+            finalWordPositions[box.dataset.word] = {
+                x: Math.round(boxCX),
+                y: Math.round(boxCY)
+            };
+
             movedSet.add(box.dataset.index);
             document.getElementById('moved-num').textContent = movedSet.size;
 
@@ -415,22 +435,12 @@ function setupDragLogic() {
 // ─── Coordinate extraction (called from on_finish) ───────────────────────────
 // Returns an object keyed by word → {x, y} coordinates (center of each word box)
 function getWordCoordinates() {
-    const arena = document.getElementById('drag-arena');
-    if (!arena) return {};
+    // Return the stored positions from the drag logic
+    return finalWordPositions;
+}
 
-    const coordinates = {};
-    arena.querySelectorAll('.word-box').forEach(box => {
-        // Get center coordinates of the word box
-        const boxCX = parseInt(box.style.left, 10) + box.offsetWidth  / 2;
-        const boxCY = parseInt(box.style.top,  10) + box.offsetHeight / 2;
-
-        coordinates[box.dataset.word] = {
-            x: Math.round(boxCX),
-            y: Math.round(boxCY)
-        };
-    });
-
-    return coordinates;
+function getInitialWordCoordinates() {
+    return initialWordPositions;
 }
 
 // ─── Trial factory ────────────────────────────────────────────────────────────
@@ -470,14 +480,13 @@ function createTrials(trialsData) {
                 condition:              item.condition,
                 difficulty:             item.difficulty,
                 consensus:              item.consensus,
-                word_corner_assignments: JSON.stringify(
-                    wordCornerAssignments.map(wc => ({ word: wc.word, corner: wc.cornerName }))
-                ),
                 viewport_w: window.innerWidth  || null,
                 viewport_h: window.innerHeight || null
             },
             on_finish: function(data) {
                 const coords = getWordCoordinates();
+                const initCoords = getInitialWordCoordinates();
+
                 data.word1_x = coords[item.word1]?.x ?? null;
                 data.word1_y = coords[item.word1]?.y ?? null;
                 data.word2_x = coords[item.word2]?.x ?? null;
@@ -486,6 +495,16 @@ function createTrials(trialsData) {
                 data.word3_y = coords[item.word3]?.y ?? null;
                 data.word4_x = coords[item.word4]?.x ?? null;
                 data.word4_y = coords[item.word4]?.y ?? null;
+
+                data.word1_init_x = initCoords[item.word1]?.x ?? null;
+                data.word1_init_y = initCoords[item.word1]?.y ?? null;
+                data.word2_init_x = initCoords[item.word2]?.x ?? null;
+                data.word2_init_y = initCoords[item.word2]?.y ?? null;
+                data.word3_init_x = initCoords[item.word3]?.x ?? null;
+                data.word3_init_y = initCoords[item.word3]?.y ?? null;
+                data.word4_init_x = initCoords[item.word4]?.x ?? null;
+                data.word4_init_y = initCoords[item.word4]?.y ?? null;
+
                 // Record arena size used for this trial
                 const dims = getArenaDims();
                 data.arena_w = dims.arenaW;
@@ -508,8 +527,10 @@ function getFilteredData() {
     if (dragTrials.length === 0) {
         console.warn('No drag trials found for saving!');
         return 'subjCode,trial_num,group_id,condition,word1,word2,word3,word4,category_response,' +
-               'difficulty,consensus,word1_x,word1_y,word2_x,word2_y,word3_x,word3_y,word4_x,word4_y,' +
-               'rt,word_corner_assignments,viewport_w,viewport_h,arena_w,arena_h\n';
+               'difficulty,consensus,' +
+               'word1_init_x,word1_init_y,word2_init_x,word2_init_y,word3_init_x,word3_init_y,word4_init_x,word4_init_y,' +
+               'word1_x,word1_y,word2_x,word2_y,word3_x,word3_y,word4_x,word4_y,' +
+               'rt,viewport_w,viewport_h,arena_w,arena_h\n';
     }
 
     try {
@@ -517,8 +538,10 @@ function getFilteredData() {
             'subjCode', 'trial_num', 'group_id', 'condition',
             'word1', 'word2', 'word3', 'word4', 'category_response',
             'difficulty', 'consensus',
+            'word1_init_x', 'word1_init_y', 'word2_init_x', 'word2_init_y',
+            'word3_init_x', 'word3_init_y', 'word4_init_x', 'word4_init_y',
             'word1_x', 'word1_y', 'word2_x', 'word2_y', 'word3_x', 'word3_y', 'word4_x', 'word4_y',
-            'rt', 'word_corner_assignments', 'viewport_w', 'viewport_h', 'arena_w', 'arena_h'
+            'rt', 'viewport_w', 'viewport_h', 'arena_w', 'arena_h'
         ].join(',');
 
         const rows = dragTrials.map(trial => {
@@ -534,6 +557,14 @@ function getFilteredData() {
                 trial.category_response   || '',
                 trial.difficulty          ?? '',
                 trial.consensus           ?? '',
+                trial.word1_init_x        ?? '',
+                trial.word1_init_y        ?? '',
+                trial.word2_init_x        ?? '',
+                trial.word2_init_y        ?? '',
+                trial.word3_init_x        ?? '',
+                trial.word3_init_y        ?? '',
+                trial.word4_init_x        ?? '',
+                trial.word4_init_y        ?? '',
                 trial.word1_x             ?? '',
                 trial.word1_y             ?? '',
                 trial.word2_x             ?? '',
@@ -543,7 +574,6 @@ function getFilteredData() {
                 trial.word4_x             ?? '',
                 trial.word4_y             ?? '',
                 Math.round(trial.rt       || 0),
-                trial.word_corner_assignments || '',
                 trial.viewport_w          ?? '',
                 trial.viewport_h          ?? '',
                 trial.arena_w             ?? '',
