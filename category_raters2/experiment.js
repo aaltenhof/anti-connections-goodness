@@ -161,7 +161,17 @@ const practiceTrial = {
     ),
     choices: ['Continue'],
     button_html: '<button class="jspsych-btn" id="jspsych-continue-btn" disabled>%choice%</button>',
-    on_load: setupDragLogic,
+    on_load: function() {
+        // Request fullscreen
+        const elem = document.documentElement;
+        if (elem.requestFullscreen) {
+            elem.requestFullscreen().catch(err => {
+                console.log('Fullscreen request failed:', err);
+            });
+        }
+        // Set up drag logic
+        setupDragLogic();
+    },
     data: {
         custom_trial_type: 'drag_rating',
         trial_type:        'practice',
@@ -226,6 +236,14 @@ function buildArenaHTML(item, wordCornerAssignments) {
 
     return `
         <style>
+            body, html {
+                margin: 0;
+                padding: 0;
+                overflow-x: hidden;
+            }
+            .jspsych-content-wrapper {
+                overflow-x: hidden;
+            }
             #drag-arena {
                 position: relative;
                 width: ${arenaW}px;
