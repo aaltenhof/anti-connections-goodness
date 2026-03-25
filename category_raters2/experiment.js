@@ -236,19 +236,6 @@ function buildArenaHTML(item, wordCornerAssignments) {
 
     return `
         <style>
-            * {
-                box-sizing: border-box;
-            }
-            body, html {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-            }
-            .jspsych-content-wrapper, .jspsych-content {
-                width: 100%;
-                padding: 0;
-                margin: 0;
-            }
             #drag-arena {
                 position: relative;
                 width: ${arenaW}px;
@@ -258,7 +245,6 @@ function buildArenaHTML(item, wordCornerAssignments) {
                 margin: 0 auto;
                 background: #f9f9f9;
                 overflow: hidden;
-                display: block;
             }
             .arena-line-v {
                 position: absolute;
