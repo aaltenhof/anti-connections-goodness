@@ -310,7 +310,7 @@ function buildArenaHTML(item, wordCornerAssignments) {
             }
         </style>
 
-        <div style="text-align:center; font-family:sans-serif; margin:0 auto;">
+        <div style="text-align:center; font-family:sans-serif; width:100%; padding:0; margin:0;">
             <p style="font-size:14px; color:#555; margin-bottom:10px;">
                 Drag each word toward the category — <strong>closer to the category = better fit</strong>.
             </p>
