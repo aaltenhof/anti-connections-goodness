@@ -264,12 +264,17 @@ function buildArenaHTML(item, wordCornerAssignments) {
                 transform: translate(-50%, -50%);
                 background: #3498db;
                 color: white;
-                padding: 14px 22px;
+                width: 250px;
+                height: 80px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
                 border-radius: 10px;
-                font-size: 17px;
+                font-size: 15px;
                 font-weight: bold;
                 text-align: center;
-                max-width: 270px;
+                padding: 8px;
+                overflow: hidden;
                 z-index: 1;
                 pointer-events: none;
                 box-shadow: 0 2px 10px rgba(52,152,219,0.45);
@@ -399,12 +404,44 @@ function setupDragLogic() {
             const boxW   = box.offsetWidth;
             const boxH   = box.offsetHeight;
 
-            const rawLeft = startLeft + (e.clientX - startPtrX);
-            const rawTop  = startTop  + (e.clientY - startPtrY);
+            // Center of arena (where category label is)
+            const centerX = arenaW / 2;
+            const centerY = arenaH / 2;
 
-            // Clamp to arena bounds
-            box.style.left = Math.max(0, Math.min(arenaW - boxW, rawLeft)) + 'px';
-            box.style.top  = Math.max(0, Math.min(arenaH - boxH, rawTop))  + 'px';
+            // Minimum distance from center (keeps words outside category label area)
+            const minDist = 150;
+
+            let rawLeft = startLeft + (e.clientX - startPtrX);
+            let rawTop  = startTop  + (e.clientY - startPtrY);
+
+            // Clamp to arena bounds first
+            rawLeft = Math.max(0, Math.min(arenaW - boxW, rawLeft));
+            rawTop  = Math.max(0, Math.min(arenaH - boxH, rawTop));
+
+            // Calculate center of word box at proposed position
+            const boxCX = rawLeft + boxW / 2;
+            const boxCY = rawTop + boxH / 2;
+
+            // Check distance from center
+            const dx = boxCX - centerX;
+            const dy = boxCY - centerY;
+            const dist = Math.sqrt(dx * dx + dy * dy);
+
+            // If too close to center, push out to minimum distance
+            if (dist < minDist && dist > 0) {
+                const scale = minDist / dist;
+                const newCX = centerX + dx * scale;
+                const newCY = centerY + dy * scale;
+                rawLeft = newCX - boxW / 2;
+                rawTop  = newCY - boxH / 2;
+
+                // Re-clamp to arena bounds after pushing out
+                rawLeft = Math.max(0, Math.min(arenaW - boxW, rawLeft));
+                rawTop  = Math.max(0, Math.min(arenaH - boxH, rawTop));
+            }
+
+            box.style.left = rawLeft + 'px';
+            box.style.top  = rawTop + 'px';
         });
 
         box.addEventListener('pointerup', () => {
