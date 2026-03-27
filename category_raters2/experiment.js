@@ -137,6 +137,11 @@ const instructions = {
                 </div>
             </div>
 
+            <div style="margin: 30px 0;">
+                <img src="example_trial_visual.png" alt="Example trial" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+                <p style="color: #666; font-size: 13px; margin-top: 8px;"><em>This is what a trial looks like.</em></p>
+            </div>
+
             <p>You must move <strong>all four words</strong> at least once before you can continue.</p>
             <p>You can reposition words as many times as you like before clicking Continue.</p>
 
