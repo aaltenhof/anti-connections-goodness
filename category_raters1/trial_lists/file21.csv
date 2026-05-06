@@ -1,22 +1,15 @@
 old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
-93556,2.0,phone,hand,town,doctor,1,Things that would be helpful in an apocolypse where the phone lines still work.,3.0,15.0
-94749,0.0,room,mother,world,woman,2,place that houses humans,2.0,36.0
-94916,0.0,state,meeting,pain,birthday,3,Apart from Family on an important day,3.0,14.0
-93444,2.0,blood,dog,bed,office,4,Many people have all of these things,1.0,62.0
-94821,2.0,food,street,coffee,hair,5,Shops on a city street,2.0,17.0
-93556,2.0,baby,house,boy,girl,6,"Words that come up in Melanie Martinez's ""Dollhouse"" song.",0.0,38.0
-95590,0.0,evidence,summer,trip,doc,7,The things you would need to do to sign up for a summer program.,1.0,55.0
-deepseek-chat_run3,,murder,dude,afternoon,message,8,Elements of a crime drama plot summary,1.0,65.0
-94821,2.0,part,word,number,week,9,What you might see on a weekly publication,4.0,5.0
-94821,2.0,deal,second,end,rest,12,parts of a deck of cards during a game,4.0,8.0
-96049,2.0,child,daughter,city,book,13,author,1.0,41.0
-93556,2.0,clown,furniture,corn,towel,15,Items that can match in color,1.0,58.0
-gpt5_run2,2.0,case,death,party,couple,16,Common story elements in a classic murder mystery,3.0,25.0
-94916,0.0,taste,funeral,unit,arrest,17,Steps of a poison homicide,3.0,0.0
-95590,0.0,chicken,park,camera,wine,18,Things related to a picnic,3.0,31.0
-88939,2.0,shot,drink,picture,movie,19,Things that can be related to an old western stop-motion movie,1.0,30.0
-deepseek-chat_run2,,ground,gold,nose,professor,20,"Things that can be ""runny""",3.0,25.0
-87226,0.0,order,security,information,system,21,jobs for AI,0.0,10.0
-93556,2.0,court,mama,lieutenant,lunch,22,Words that come up when a lawyer and their mother are talking after church.,2.0,23.0
-92985,2.0,army,building,train,card,24,pentagon,3.0,19.0
-95983,2.0,defense,command,permission,safety,26,authority,1.0,80.0
+gpt5_run1,_model,word,number,week,part,9,"Types of units used to divide larger things (language, quantity, time, and wholes)",2.0,40.0
+94749,0,dude,afternoon,murder,message,8,mystery tv show,4.0,21.0
+94821,2,arrest,funeral,unit,taste,17,a poisoning and its aftermath,1.0,16.0
+deepseek-chat_run3,_model,building,army,train,card,24,"Things that can be ""stationed""",3.0,35.0
+94821,2,hand,town,doctor,phone,1,relating to a small doctor's office,1.0,24.0
+95590,0,meeting,state,birthday,pain,3,Dates of things,1.0,28.0
+93133,2,second,rest,end,deal,12,They can all mean part of something. Like a part of something that's left,3.0,27.0
+93444,2,mama,lieutenant,court,lunch,22,Things that may be at a school,1.0,27.0
+93556,2,world,woman,room,mother,2,The basis of an artist's work when exploring trauma.,1.0,16.0
+93532,0,street,hair,coffee,food,5,What a girl would do in her weekend,2.0,61.0
+95859,0,daughter,child,city,book,13,The city of ember,0.0,36.0
+93532,0,wine,park,camera,chicken,18,a celebration/party,2.0,82.0
+95590,0,safety,defense,permission,command,26,A traffic directors ques,1.0,35.0
+88939,2,furniture,corn,towel,clown,15,"All things that have a relation to something that starts with a c (furniture = couch, corn = cob, towel = cloth, clown = circus)",1.0,7.0

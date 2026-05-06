@@ -1,91 +1,92 @@
 old_subjCode,condition,word1,word2,word3,word4,group_id,category_response,difficulty,consensus
-gpt5_run1,2.0,doctor,phone,hand,town,1,"Things involved in arranging treatment for a hand injury in a small town (the doctor you see, the phone you use to call, your injured hand, and the town where it happens)",1.0,35.0
-deepseek-chat_run2,2.0,room,mother,world,woman,2,"Things that can be described as ""nurturing""",1.0,40.0
-88939,2.0,meeting,pain,state,birthday,3,Words that could be used in an angsty teenage girl's diary on her birthday,3.0,6.0
-93133,2.0,office,dog,blood,bed,4,Things that humans usually need,3.0,50.0
-93556,2.0,hair,street,food,coffee,5,Features of a festival.,1.0,15.0
-92985,2.0,baby,girl,house,boy,6,newborn,0.0,90.0
-deepseek-chat_run3,2.0,trip,summer,doc,evidence,7,"Things that can be preceded by ""road"" to form a common phrase",1.0,40.0
-94749,0.0,dude,afternoon,murder,message,8,mystery tv show,4.0,21.0
-95859,0.0,part,week,number,word,9,Planner,0.0,58.0
-92985,2.0,end,rest,deal,second,12,retirement,2.0,56.0
-93444,2.0,book,city,child,daughter,13,Things that can have a lot going on at once,3.0,18.0
-94749,0.0,floor,plane,officer,mouth,14,going through TSA,3.0,23.0
-94749,0.0,furniture,towel,corn,clown,15,circus,3.0,24.0
-93445,2.0,case,couple,death,party,16,elderly,1.0,26.0
-93133,2.0,funeral,taste,unit,arrest,17,These all have meanings in law inforcement,3.0,50.0
-87226,0.0,chicken,wine,park,camera,18,important things for a good picnic,1.0,17.0
-92985,2.0,movie,shot,picture,drink,19,restaurant,2.0,37.0
-88939,2.0,ground,gold,professor,nose,20,"All things that have retain value in their own, individual ways",3.0,43.0
-93133,2.0,order,system,security,information,21,They all have to do with an administration or organization,3.0,21.0
-87226,0.0,lieutenant,lunch,court,mama,22,things that might be present at a military basketball game,4.0,9.0
-94916,0.0,line,dinner,husband,captain,23,Going out with a partner,3.0,36.0
-93532,0.0,train,army,building,card,24,The movie Train to Busan,3.0,7.0
-93556,2.0,safety,permission,defense,command,26,A women's MMA class,0.0,36.0
-94914,1.0,mission,enemy,east,hero,27,War,0.0,90.0
-93482,1.0,earth,ball,boat,hotel,28,Things that are can be used on a basketball teams bonding trip,4.0,3.0
-deepseek-chat_run3,1.0,oxygen,temperature,movement,pattern,29,Essential factors for monitoring a patient's vital signs in a hospital setting,1.0,65.0
-93926,1.0,agent,colonel,wedding,club,30,words used during wartime,3.0,31.0
-92984,1.0,lawyer,bank,college,letter,31,law school,2.0,30.0
-92984,1.0,paper,road,eye,table,32,roadtrip,1.0,72.0
-gpt5_run2,1.0,shower,planet,bedroom,candy,33,"Simple pleasures people often use for comfort or escape (a warm shower, daydreaming about another planet, relaxing in the bedroom, eating candy)",3.0,25.0
-93542,1.0,box,bag,window,apartment,34,the process of moving,1.0,91.0
-87744,1.0,punishment,stress,option,heavens,35,anxiety,2.0,26.0
-89597,1.0,solution,request,anger,confession,36,problem,2.0,13.0
-gpt5_run2,1.0,partner,folks,middle,angel,37,"Casual ways you might refer to people in your close family or relationship circle (partner, parents, a middle child, a cherished loved one)",2.0,40.0
-92946,1.0,pleasure,difference,situation,service,38,How do you think large cooperation satisfy the costumers?,3.0,62.0
-deepseek-chat_run3,1.0,king,piece,boss,class,39,"Terms that can be preceded by ""chess"" to form a compound word or phrase",3.0,40.0
-94257,1.0,surprise,space,killer,idiot,40,Party,4.0,2.0
-94257,1.0,hat,neck,arm,computer,41,Robot with hat,4.0,1.0
-93926,1.0,stage,board,shop,camp,42,words used by theater kids,1.0,90.0
-94914,1.0,store,list,truck,star,43,Shopping,1.0,60.0
-deepseek-chat_run1,1.0,area,top,report,ride,44,"Things that can be described as ""annual""",1.0,40.0
-92984,1.0,queen,glass,cell,teacher,45,royals,4.0,12.0
-95028,1.0,fish,beer,ice,brain,46,things that would be present at a cookout,2.0,0.0
-92984,1.0,blade,robot,patch,rocket,47,technology,0.0,62.0
-93542,1.0,tv,horse,ship,clothes,48,bojack horseman,3.0,74.0
-deepseek-chat_run1,3.0,bird,rain,cake,chest,49,"Things that can be associated with the word ""birthday""",1.0,60.0
-deepseek-chat_run3,3.0,spot,client,pal,north,50,"Words that can follow ""pen"" to form a compound word or phrase",3.0,25.0
-95581,2.0,cash,land,gift,machine,51,gifts,0.0,85.0
-93555,3.0,basketball,flower,chick,horn,52,reminds me of Spring,0.0,84.0
-deepseek-chat_run3,3.0,football,bullet,soldier,crowd,53,"Things that can be ""fired""",1.0,65.0
-93117,3.0,rose,dollar,bike,button,54,Homecoming week in an 80s romcom,1.0,12.0
-93983,3.0,belt,university,photo,stairs,55,All found on a college campus.,2.0,19.0
-96162,3.0,senator,radar,ear,jacket,56,Things that can signal or indicate,4.0,23.0
-deepseek-chat_run1,3.0,suit,beach,tea,arms,57,Things you might pack for a vacation,1.0,60.0
-96084,3.0,station,girlfriend,record,cop,58,Words that can follow police,2.0,41.0
-88842,2.0,pants,river,sea,hole,59,Forest,3.0,63.0
-93122,3.0,health,shame,pardon,condition,60,care,4.0,0.0
-gpt5_run2,2.0,coat,milk,jury,meat,61,Things that are commonly referred to with the phrase white ___,3.0,30.0
-gpt5_run2,3.0,sheriff,foot,prison,wall,62,"Elements of physical security around a jail (sheriff, prison building, perimeter wall, foot patrol)",3.0,25.0
-95581,2.0,glasses,lake,pocket,buck,63,glimmering,1.0,59.0
-93983,3.0,chocolate,gate,mail,shoe,64,Items that are likely found the average American home.,3.0,25.0
-91608,2.0,property,weather,project,base,65,Things that are associated with weather stations.,1.0,45.0
-93983,3.0,language,rule,society,freedom,67,Items associated with politics.,1.0,57.0
-deepseek-chat_run2,3.0,telephone,wire,sword,desert,68,Items that could be found in a scene from an old adventure film set in the Middle East,3.0,25.0
-gpt5_run3,3.0,gas,test,group,field,69,"Words that form common two-word expressions with pressure (gas pressure, pressure test, pressure group, pressure field)",3.0,15.0
-gpt5_run1,2.0,desk,note,cream,ticket,71,Items you might find on a reception desk in an office or clinic,3.0,25.0
-deepseek-chat_run1,3.0,teeth,bottle,restaurant,hall,72,"Things that can be ""capped"" or have a ""cap""",3.0,25.0
-96084,3.0,sale,damage,divorce,schedule,73,Things that could be planned in advance,2.0,45.0
-gpt5_run2,0.0,account,subject,winner,vacation,74,"Elements of an online sweepstakes where the prize is a vacation (account signup, email subject line, chosen winner, vacation prize)",3.0,25.0
-91304,1.0,fool,pressure,force,charge,75,Things that can stray people away due to intimidation,2.0,46.0
-93945,0.0,duty,secret,ways,decision,77,Dilemma,2.0,12.0
-91304,1.0,demon,tour,monsieur,season,78,Things presented in the beauty and the beast,1.0,63.0
-91304,1.0,tape,tree,key,church,79,Things that are common symbols of strength,3.0,21.0
-deepseek-chat_run2,1.0,breath,chair,sky,drug,80,"Things that can be described as ""high""",1.0,40.0
-gpt5_run2,1.0,fairy,trail,suite,spy,81,"Characters and locations commonly found in a children's fantasy spy story (a fairy, a forest trail, a hotel suite, and a spy)",3.0,15.0
-91304,1.0,flag,tube,locker,actress,82,Things found in a sports advertisement,3.0,35.0
-91363,0.0,battle,player,manager,weight,83,things needed for a wrestling match,0.0,25.0
-deepseek-chat_run2,0.0,neighborhood,airport,cheese,princess,84,"Things that can be described as ""cheddar"" in slang or wordplay",3.0,15.0
-gpt5_run3,0.0,radio,boyfriend,bus,sun,85,Common elements in a teen summer romance movie montage,3.0,25.0
-93945,0.0,pool,prince,animal,driver,86,India,1.0,75.0
-95414,1.0,dress,sergeant,bathroom,film,87,Things you may find on a movie set,0.0,69.0
-deepseek-chat_run2,0.0,exit,hug,warden,chopper,91,Things you might encounter at a prison break scene in a movie,1.0,65.0
-deepseek-chat_run3,0.0,trick,devil,speech,program,92,"Things that can be preceded by the word ""fire""",1.0,40.0
-95414,1.0,roof,monkey,cab,pizza,93,Things you can touch,4.0,76.0
-91304,1.0,madame,county,contract,leader,94,Things that are appointed through documentation,1.0,72.0
-95944,0.0,jail,shirt,weapon,knife,95,Things that relate to crime,1.0,34.0
-94869,0.0,singer,dime,temple,thumb,97,Singers stage name,1.0,4.0
-gpt5_run1,0.0,cigarette,tank,painting,garden,98,Things you might find at a war or military history museum,3.0,25.0
-94670,1.0,director,heat,signal,contact,99,Words found on lab manual,2.0,45.0
-deepseek-chat_run3,1.0,mister,conversation,size,code,100,"Elements that can be preceded by ""small talk"" to form common phrases",3.0,25.0
+gpt5_run3,_model,trip,summer,doc,evidence,7,Information and documents youd include when filing a travel insurance claim after a summer vacation incident,3.0,20.0
+gpt5_run2,_model,gas,test,group,field,69,Common English words that function as both nouns and verbs in everyday usage,3.0,30.0
+deepseek-chat_run1,_model,shirt,knife,weapon,jail,95,Items that can be used as evidence in a crime scene investigation,1.0,65.0
+94869,0,chopper,warden,hug,exit,91,Running away from prison,1.0,9.0
+91363,0,radio,sun,boyfriend,bus,85,things you want on a field trip,1.0,5.0
+93990,3,gate,shoe,mail,chocolate,64,Mailman going around delivering mail,3.0,41.0
+93990,3,milk,coat,meat,jury,61,Items you might buy shopping,2.0,64.0
+deepseek-chat_run1,_model,truck,list,store,star,43,"Things that can be described as ""semi"" or ""semi-"" in common usage",3.0,30.0
+92946,1,enemy,hero,mission,east,27,How are plots from movies or show are created?,3.0,32.0
+95028,1,rocket,robot,patch,blade,47,things that could cause hurt or involve hurt themselves,1.0,25.0
+94962,0,prince,animal,pool,driver,86,things that may be found on a movie set,2.0,3.0
+93945,0,pizza,cab,monkey,roof,93,New York,1.0,67.0
+92985,2,mama,lieutenant,lunch,court,22,order,3.0,50.0
+93444,2,word,part,week,number,9,All of these things make up a whole thing,0.0,46.0
+94320,3,wall,prison,sheriff,foot,62,Things can be found in a prison,0.0,83.0
+gpt5_run1,_model,flag,locker,actress,tube,82,Things commonly found in or around a high school,2.0,25.0
+gpt5_run1,_model,brain,beer,fish,ice,46,"Foods that are (or can be) served deep-fried, especially as novelty or regional dishes",3.0,25.0
+91363,0,airport,cheese,neighborhood,princess,84,things that are known locally,0.0,19.0
+93556,2,hair,street,food,coffee,5,Features of a festival.,1.0,15.0
+95944,0,program,devil,trick,speech,92,Things used deceive people,0.0,86.0
+93133,2,plane,mouth,officer,floor,14,they relate to position level,3.0,65.0
+95944,0,cigarette,painting,tank,garden,98,things related to artists,0.0,89.0
+gpt5_run1,_model,signal,heat,contact,director,99,Key concerns and terms youd hear in a spacecraft mission control room,3.0,10.0
+gpt5_run1,_model,camera,chicken,wine,park,18,Things you might bring to a picnic in a park,1.0,60.0
+96084,3,jacket,ear,senator,radar,56,Things that you might find in a movie set in cold weather,1.0,52.0
+gpt5_run3,_model,fairy,trail,suite,spy,81,"Themes you might choose for a childs special birthday party (fairy party, nature trail adventure, hotel suite sleepover, spy/secret agent mission)",3.0,15.0
+deepseek-chat_run1,_model,furniture,clown,towel,corn,15,Items that might be found in a circus-themed hotel room.,3.0,25.0
+gpt5_run2,_model,bag,apartment,window,box,34,"Things commonly involved when moving into a new apartment (your bags and boxes of belongings, the apartment itself, and its windows)",1.0,55.0
+95581,2,flower,basketball,chick,horn,52,high school musical,3.0,69.0
+95581,2,wire,telephone,sword,desert,68,connects,3.0,9.0
+88842,2,buck,glasses,lake,pocket,63,Trip,2.0,56.0
+93445,2,case,couple,death,party,16,elderly,1.0,26.0
+gpt5_run2,_model,spot,client,pal,north,50,Common elements in a classic private-detective case,3.0,10.0
+gpt5_run2,_model,mister,conversation,size,code,100,Details you might exchange when ordering clothing from a catalog over the phone,3.0,20.0
+94821,2,child,book,daughter,city,13,Elementary school,1.0,27.0
+gpt5_run1,_model,rose,bike,button,dollar,54,Simple everyday objects that people commonly doodle or sketch (like in a notebook margin),3.0,20.0
+92984,1,paper,road,eye,table,32,roadtrip,1.0,72.0
+94821,2,card,train,building,army,24,A soldier writing home.,3.0,13.0
+93555,3,note,desk,cream,ticket,71,things that can be white,2.0,30.0
+94962,0,thumb,dime,temple,singer,97,"things that include the word ""drive""",4.0,0.0
+88842,2,sale,divorce,schedule,damage,73,lawyer,3.0,60.0
+95859,0,end,second,deal,rest,12,Congress,1.0,51.0
+93122,3,bottle,restaurant,hall,teeth,72,service,4.0,0.0
+93520,0,decision,duty,secret,ways,77,life,3.0,52.0
+93532,0,husband,captain,line,dinner,23,associate with wedding,4.0,52.0
+87226,0,boy,girl,house,baby,6,toys you might find in a childs room,0.0,10.0
+94894,1,ride,report,area,top,44,police helicopter,0.0,79.0
+gpt5_run3,_model,machine,gift,cash,land,51,Common types of assets people might leave to heirs in a will (estate assets),1.0,40.0
+95103,1,madame,contract,county,leader,94,things a president would have,2.0,60.0
+deepseek-chat_run3,_model,murder,dude,afternoon,message,8,Elements of a crime drama plot summary,1.0,65.0
+93133,2,order,system,security,information,21,They all have to do with an administration or organization,3.0,21.0
+92946,1,surprise,idiot,killer,space,40,Describe traits in a Horror movie,4.0,3.0
+95859,0,state,birthday,pain,meeting,3,Cooperate life in 2025,3.0,31.0
+deepseek-chat_run2,_model,cell,queen,glass,teacher,45,"Things that can be preceded by the word ""mother""",1.0,40.0
+87712,0,tree,church,tape,key,79,"christmas 
+",3.0,29.0
+93117,3,tea,arms,suit,beach,57,The beaches of Southern France,0.0,17.0
+93133,2,shot,movie,drink,picture,19,"you can take a shot, they shot a movie, you took a shot (drink), and you shot a picture so they can all be things using the word shot",1.0,86.0
+deepseek-chat_run1,_model,funeral,arrest,unit,taste,17,"Things that can be preceded by the word ""after"" to form a common phrase",3.0,25.0
+deepseek-chat_run3,_model,monsieur,tour,demon,season,78,"Words that can be preceded by ""The"" to form a title of a book, film, or other work",1.0,40.0
+87265,0,force,pressure,fool,charge,75,Something a person can do to another person,3.0,31.0
+93945,0,sky,chair,breath,drug,80,Rollercoaster,2.0,50.0
+93556,2,safety,permission,defense,command,26,A women's MMA class,0.0,36.0
+95581,2,weather,project,property,base,65,construction site,0.0,74.0
+93542,1,shop,camp,board,stage,42,Preparing for sleep away camp,1.0,77.0
+88379,1,service,difference,situation,pleasure,38,nice,1.0,50.0
+deepseek-chat_run2,_model,pants,hole,sea,river,59,"Things that can be described as having a ""cuff""",3.0,25.0
+94894,1,clothes,ship,horse,tv,48,movie about the Columbian exchange,0.0,34.0
+94320,3,photo,belt,university,stairs,55,Things can be found in a university library,1.0,26.0
+gpt5_run3,_model,hotel,ball,boat,earth,28,"Everyday objects that each have a dedicated standard smartphone emoji (hotel building, sports ball, boat, globe/Earth)",2.0,40.0
+deepseek-chat_run3,_model,bird,rain,cake,chest,49,"Things that can be described as ""blue""",3.0,30.0
+95983,2,room,mother,woman,world,2,home,1.0,50.0
+93444,2,blood,dog,bed,office,4,Many people have all of these things,1.0,62.0
+88939,2,phone,town,hand,doctor,1,All things that can be found in a small town,3.0,71.0
+93926,1,agent,colonel,wedding,club,30,words used during wartime,3.0,31.0
+93555,3,bullet,soldier,crowd,football,53,has do do with America,0.0,85.0
+93482,1,temperature,pattern,oxygen,movement,29,Things that can be used describe the flow of earths climate,1.0,59.0
+93990,3,shame,pardon,health,condition,60,What someone may go through during later years in their life,3.0,24.0
+88379,1,partner,angel,middle,folks,37,person,3.0,40.0
+gpt5_run1,_model,neck,arm,hat,computer,41,"Places or items people commonly personalize with visible designs (tattoos, patches, stickers, or decals)",3.0,35.0
+93520,0,bathroom,dress,film,sergeant,87,things found in forrest gump,1.0,4.0
+deepseek-chat_run3,_model,letter,college,lawyer,bank,31,Steps in a typical career path after high school,1.0,60.0
+87744,1,request,confession,anger,solution,36,problem solving,2.0,50.0
+95411,0,winner,account,vacation,subject,74,Game show rewards,3.0,8.0
+95859,0,nose,professor,ground,gold,20,My stats professor,1.0,40.0
+deepseek-chat_run1,_model,language,freedom,rule,society,67,Fundamental concepts in political philosophy,1.0,70.0
+93542,1,heavens,stress,punishment,option,35,Going to church on Sunday,3.0,63.0
+93482,1,king,boss,piece,class,39,Things that can describe a societal hierarchy position,0.0,41.0
+95581,2,cop,station,record,girlfriend,58,connections,3.0,56.0
+gpt5_run1,_model,shower,planet,bedroom,candy,33,Things commonly associated with a childs bedtime routine and bedroom environment,3.0,15.0
+91304,1,weight,manager,player,battle,83,Important aspects of a person's boxing career,0.0,88.0
