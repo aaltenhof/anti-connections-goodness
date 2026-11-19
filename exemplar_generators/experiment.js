@@ -67,7 +67,7 @@ const instructions = {
             <h2>Instructions</h2>
             <p>In this experiment, you will see a series of category descriptions.</p>
             <p>For each one, think of <strong>four things that belong to the category</strong> and type them into the boxes.</p>
-            <p>Each answer should be a <strong>single word</strong> that names a thing (a noun), such as <em>dog</em> or <em>umbrella</em>, not a phrase like <em>big dog</em>. Please use four different words.</p>
+            <p>Each answer should be a <strong>single-word noun</strong>: a person, place, or thing, such as <em>teacher</em>, <em>park</em>, or <em>umbrella</em>. Please don't use phrases like <em>big dog</em>, and use four different words.</p>
             <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; max-width: 520px; margin: 25px auto; text-align: left;">
                 <div style="background-color: #27ae60; color: white; padding: 8px; font-weight: bold;">Example</div>
                 <div style="padding: 12px;">
@@ -88,7 +88,7 @@ const start_main = {
     stimulus: `
         <div style="max-width: 700px; margin: 0 auto; text-align: center;">
             <h2>Great!</h2>
-            <p>Now you'll begin the main task. Remember: four different single-word answers for each category.</p>
+            <p>Now you'll begin the main task. Remember: four different single-word nouns (people, places, or things) for each category.</p>
         </div>
     `,
     choices: ['Begin'],
