@@ -1,0 +1,74 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+823,71,human,desk,note,cream,ticket,school
+880,77,human,ways,decision,secret,duty,things an agent has
+93,7,human,trip,summer,doc,evidence,"Proof of a crime that took place away from home, is put into a sheet online and used once the police find it, to find the person who committed the crime."
+1272,40,model,killer,surprise,space,idiot,"Words that can follow ""dead"" to form a common phrase"
+45,3,human,birthday,state,pain,meeting,travelling to a birthday party
+80,6,human,house,boy,baby,girl,Things that families may have
+910,80,human,breath,chair,sky,drug,Wind can be used
+652,54,human,rose,bike,button,dollar,Stuff you can find on sale
+779,65,human,base,project,weather,property,Words you can hear in a weather report
+1289,43,model,truck,list,store,star,"Things that can be described as ""semi"" or ""semi-"" in common usage"
+607,50,human,spot,client,pal,north,Showing an apartment as a realtor
+1465,82,model,flag,locker,actress,tube,Things commonly found or used backstage in a theater (dressing rooms and stage prep areas)
+129,9,human,word,number,week,part,day of the week
+641,53,human,football,bullet,soldier,crowd,Things you might see at a football game
+733,61,human,coat,milk,jury,meat,Things that can be spoiled/ruined
+623,51,human,machine,gift,cash,land,a casino
+1476,85,model,radio,boyfriend,bus,sun,Common elements in a teen summer romance movie montage
+1004,87,human,dress,sergeant,film,bathroom,things at an important movie showing
+73,5,human,hair,food,coffee,street,having a clean girl aesthetic
+290,22,human,court,lieutenant,lunch,mama,Words that come up when a lawyer and their mother are talking after church.
+1073,97,human,singer,thumb,temple,dime,Aspects of worship
+31,2,human,room,mother,world,woman,women empowerment
+1208,24,model,building,army,train,card,"Things that can be described as ""regular"" or ""on a schedule"""
+1236,31,model,letter,college,lawyer,bank,Steps in a typical career path after high school
+504,41,human,neck,arm,hat,computer,Robot with hat
+807,69,human,gas,test,group,field,Things in science
+1371,60,model,pardon,condition,shame,health,Factors that might be considered in a parole or clemency hearing for a prisoner
+578,47,human,blade,rocket,patch,robot,technology
+1016,91,human,exit,hug,warden,chopper,helicopter
+1212,26,model,defense,safety,command,permission,Responsibilities of a military officer during an operation
+1051,94,human,leader,contract,madame,county,female leader
+14,1,human,doctor,phone,hand,town,relating to a small doctor's office
+598,49,human,bird,rain,cake,chest,Things you find in nature
+1175,15,model,furniture,clown,towel,corn,Items that might be found in a clown-themed hotel room
+1062,95,human,shirt,knife,weapon,jail,Weapons and a place to hide them
+359,28,human,hotel,ball,boat,earth,extravagant things
+1470,84,model,neighborhood,airport,cheese,princess,"Simple concrete nouns commonly used as example vocabulary for young children (place, food, person)"
+987,86,human,pool,animal,prince,driver,Things that are responsible for other's wellbeing
+53,4,human,dog,blood,bed,office,Things that humans usually need
+177,14,human,mouth,floor,plane,officer,verb
+1495,92,model,trick,devil,speech,program,Tactics or tools used to influence voters in a political campaign
+1350,56,model,ear,radar,senator,jacket,Elements involved in secretly monitoring or surveilling a politician
+1346,55,model,photo,stairs,university,belt,Items that can be found in a typical college student's dorm room
+140,12,human,deal,second,rest,end,Things that might happen in a casino
+542,44,human,area,top,report,ride,police helicopter
+433,34,human,bag,apartment,window,box,things to consider/involved in moving
+863,75,human,pressure,fool,charge,force,Things that can stray people away due to intimidation
+552,45,human,cell,queen,glass,teacher,middle school biology lab
+1524,98,model,cigarette,tank,painting,garden,"Things that can be described as ""smoky"""
+1121,100,human,mister,conversation,size,code,words used in sales
+827,72,human,teeth,bottle,restaurant,hall,All of these have to do with alcohol.
+1358,57,model,suit,beach,tea,arms,Things you might pack for a vacation
+1164,13,model,child,daughter,book,city,"Terms that can be preceded by ""step"" to form a new word or phrase"
+344,27,human,hero,enemy,east,mission,Things that can be used to describe a war veterans experience in the World Wars
+518,42,human,stage,board,shop,camp,frightening
+197,16,human,case,death,party,couple,Funeral
+223,18,human,camera,chicken,wine,park,A picnic photoshoot
+839,73,human,damage,sale,schedule,divorce,All of these would follow an unhappy marriage.
+920,81,human,fairy,trail,suite,spy,Things that might appear in a child's fantasy book
+706,59,human,pants,hole,sea,river,All of these would be seen with the word black beforehand.
+246,19,human,drink,shot,movie,picture,action film
+749,62,human,sheriff,foot,prison,wall,town
+795,68,human,telephone,wire,sword,desert,Things from the movie Dune
+950,83,human,weight,player,battle,manager,Things that are important/pertain to a boxing match
+886,78,human,monsieur,tour,demon,season,Monster university
+258,20,human,ground,gold,nose,professor,Things that can be dug into.
+1306,46,model,brain,beer,fish,ice,"Things that can be ""on"" someone (as in a state or condition)"
+1453,79,model,church,key,tree,tape,Things you might use when decorating a church for Christmas
+1229,29,model,oxygen,temperature,movement,pattern,"Metrics commonly tracked by modern health or fitness wearables (e.g., smartwatches)"
+384,30,human,club,colonel,wedding,agent,war
+1431,74,model,account,subject,winner,vacation,Elements of a promotional sweepstakes where an account holder can win a vacation
+106,8,human,murder,dude,afternoon,message,Important info found in an investigative police report.
+489,39,human,king,piece,boss,class,hierarchal roles

@@ -1,0 +1,74 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+210,17,human,funeral,arrest,unit,taste,Steps of a poison homicide
+259,20,human,ground,gold,nose,professor,Things that support you
+1128,2,model,room,mother,world,woman,"Things that can be described as ""nurturing"" or ""encompassing"" in a metaphorical sense"
+1284,42,model,stage,board,shop,camp,Types of places or spaces where a group might gather for a specific purpose
+1010,91,human,exit,hug,warden,chopper,Running away from prison
+722,60,human,pardon,condition,shame,health,These are all ideas that would commonly be talked about in a hospital.
+765,64,human,gate,mail,chocolate,shoe,Things a mailman will touch in the morning
+418,33,human,shower,planet,bedroom,candy,alien
+611,50,human,spot,client,pal,north,Words associated with maps
+1292,44,model,area,top,report,ride,"Things that can be described as ""annual"""
+1413,69,model,gas,test,group,field,"Terms that can be preceded by ""field"" to form a compound word or phrase"
+573,47,human,blade,rocket,patch,robot,ai
+12,1,human,doctor,phone,hand,town,help
+404,32,human,eye,road,table,paper,concepts that may be involved in a court case
+309,23,human,husband,captain,dinner,line,ship
+1235,31,model,letter,college,lawyer,bank,Steps in a typical career and life path after high school
+777,65,human,base,project,weather,property,Things that are observed or done during camping
+842,73,human,damage,sale,schedule,divorce,Lawyers
+48,4,human,dog,blood,bed,office,Many people have all of these things
+466,37,human,partner,folks,middle,angel,things at a wedding
+1497,92,model,trick,devil,speech,program,"Things that can be described as ""free"" in a promotional or ironic sense"
+1415,71,model,desk,note,cream,ticket,Items commonly found at an office reception desk (front desk area)
+371,29,human,oxygen,temperature,movement,pattern,science
+250,19,human,drink,shot,movie,picture,something that you might take over and over again
+874,77,human,ways,decision,secret,duty,Running away
+1095,98,human,cigarette,tank,painting,garden,things that people stereotype with artists
+1187,18,model,camera,chicken,wine,park,Items you might pack for a romantic picnic in a park.
+1258,36,model,anger,confession,request,solution,"Things someone might express during a serious or difficult conversation (e.g., an argument or reconciliation talk)"
+644,53,human,football,bullet,soldier,crowd,Words that can follow line
+361,28,human,hotel,ball,boat,earth,"things that all have bouncy properties, or bouncy properties within them"
+437,35,human,heavens,stress,punishment,option,Religion
+532,43,human,truck,list,store,star,shopping for Christmas gifts for kids
+736,61,human,coat,milk,jury,meat,Words may be found in animal husbandry-related bills
+1474,84,model,neighborhood,airport,cheese,princess,"Things that can be described as ""royal"" or ""luxury"" versions (e.g., Royal Neighborhood, Airport Lounge, Cheese Board, Princess)"
+977,85,human,radio,boyfriend,bus,sun,involve a wave
+666,55,human,photo,stairs,university,belt,Things you might associate with a career fair
+947,83,human,weight,player,battle,manager,Important aspects of a person's boxing career
+1299,45,model,cell,queen,glass,teacher,Things involved in a classroom observation of a beehive behind glass
+1100,99,human,signal,heat,contact,director,Welder
+1331,52,model,horn,basketball,chick,flower,Symbols and activities commonly associated with the spring season (March/April)
+567,46,human,brain,beer,fish,ice,words that can go with bucker
+337,26,human,defense,safety,command,permission,can be given by the person in charge
+1165,13,model,child,daughter,book,city,"Words that can be preceded by ""step"" to form a new word or phrase"
+829,72,human,teeth,bottle,restaurant,hall,Bar
+107,8,human,murder,dude,afternoon,message,Parts of a day
+137,12,human,deal,second,rest,end,Ends of things
+740,62,human,sheriff,foot,prison,wall,All found in a law enforcement place
+988,86,human,pool,animal,prince,driver,Things you may see in a Disney movie
+1486,87,model,dress,sergeant,film,bathroom,Things commonly found or needed on a movie set
+691,57,human,suit,beach,tea,arms,day at the beach
+924,81,human,fairy,trail,suite,spy,looking for a rat in government
+323,24,human,building,army,train,card,aspects of deployment transportation
+1533,100,model,mister,conversation,size,code,"Elements that can be preceded by ""small talk"" to form common phrases"
+175,14,human,mouth,floor,plane,officer,they relate to position level
+1268,39,model,king,piece,boss,class,Terms for roles or units in games (especially board and video games)
+602,49,human,bird,rain,cake,chest,crevis
+888,78,human,monsieur,tour,demon,season,Things that seem hard to get/find
+1047,94,human,leader,contract,madame,county,Things that are appointed through documentation
+619,51,human,machine,gift,cash,land,Things that can be found in a handicraft shop
+507,41,human,neck,arm,hat,computer,symbols
+206,16,human,case,death,party,couple,why someone might concern themselves about others
+1513,95,model,shirt,knife,weapon,jail,Items that could be used as evidence in a crime scene investigation
+1464,82,model,flag,locker,actress,tube,Things commonly found in or around a high school
+904,79,human,church,key,tree,tape,rings
+501,40,human,killer,surprise,space,idiot,words that can precede plot
+1077,97,human,singer,thumb,temple,dime,nail
+1383,63,model,glasses,pocket,lake,buck,"Things commonly associated with hiking or hunting near a lake (your glasses, the pockets of your clothing, the lake itself, and a buck you might spot)"
+287,22,human,court,lieutenant,lunch,mama,Things that may be at a school
+71,5,human,hair,food,coffee,street,fair
+657,54,human,rose,bike,button,dollar,badges
+480,38,human,difference,pleasure,situation,service,words you might hear at a restaurant
+119,9,human,word,number,week,part,"All ""parts"" of something. Part literally meaning park, week: part of a month/year, word: part of a sentence, number: could be a number part of a bigger number"
+41,3,human,birthday,state,pain,meeting,office birthday

@@ -1,0 +1,1534 @@
+subject_type,group_id,word1,word2,word3,word4,category_response,mean_applicable,mean_specific,mean_similarity,outlier_avg_sim,n_ratings
+human,1,doctor,phone,hand,town,All things that can be found in a small town,73.16666666666667,38,0.3864517766666667,0.37314714,6
+human,1,doctor,phone,hand,town,Call,37.2,42.25,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,Dr. Betti (My physician at home),65.28571428571429,70,0.3864517766666667,0.37314714,7
+human,1,doctor,phone,hand,town,Places you might find a doctors office,50.2,48.166666666666664,0.3864517766666667,0.37314714,6
+human,1,doctor,phone,hand,town,They all have something to do with a phone I think,55.2,60.75,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,Things that almost everyone has,65.2,43.8,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,Things that would be helpful in an apocolypse where the phone lines still work.,97.5,96.5,0.3864517766666667,0.37314714,2
+human,1,doctor,phone,hand,town,a small towns way of contacting their local doctor,51.6,77,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,ambulance,41,19.8,0.3864517766666667,0.37314714,6
+human,1,doctor,phone,hand,town,basic information about an individual,49.6,55.5,0.3864517766666667,0.37314714,6
+human,1,doctor,phone,hand,town,doctor office,58.6,30,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,help,85,58.5,0.3864517766666667,0.37314714,2
+human,1,doctor,phone,hand,town,on-call medical service,80.6,65,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,relating to a small doctor's office,60,53.25,0.3864517766666667,0.37314714,4
+human,1,doctor,phone,hand,town,small town,38.6,22.8,0.3864517766666667,0.37314714,5
+human,1,doctor,phone,hand,town,things essential for human,55.77777777777778,44.111111111111114,0.3864517766666667,0.37314714,9
+human,2,room,mother,world,woman,All related to societal roles,52.5,79,0.4282454583333333,0.3815940566666667,2
+human,2,room,mother,world,woman,Can be found in the animation Inside Out 2,72.8,84,0.4282454583333333,0.3815940566666667,5
+human,2,room,mother,world,woman,Raising children,61.75,52,0.4282454583333333,0.3815940566666667,4
+human,2,room,mother,world,woman,The basis of an artist's work when exploring trauma.,73.57142857142857,81.85714285714286,0.4282454583333333,0.3815940566666667,7
+human,2,room,mother,world,woman,Things its hard to live without,79,50,0.4282454583333333,0.3815940566666667,5
+human,2,room,mother,world,woman,Things related to a female president,54.666666666666664,56,0.4282454583333333,0.3815940566666667,6
+human,2,room,mother,world,woman,Things we take for granted,76.5,54.57142857142857,0.4282454583333333,0.3815940566666667,8
+human,2,room,mother,world,woman,Things you would find in a history classroom.,33.875,55.5,0.4282454583333333,0.3815940566666667,8
+human,2,room,mother,world,woman,birth,86.9,35.111111111111114,0.4282454583333333,0.3815940566666667,10
+human,2,room,mother,world,woman,"can all be used in a sentence with the word ""big"" before it",74,46.666666666666664,0.4282454583333333,0.3815940566666667,3
+human,2,room,mother,world,woman,caretaker,24,NA,0.4282454583333333,0.3815940566666667,1
+human,2,room,mother,world,woman,home,64.66666666666667,14,0.4282454583333333,0.3815940566666667,3
+human,2,room,mother,world,woman,metaphorical characteristics of a womb,73.33333333333333,66.16666666666667,0.4282454583333333,0.3815940566666667,6
+human,2,room,mother,world,woman,place that houses humans,59.5,41,0.4282454583333333,0.3815940566666667,4
+human,2,room,mother,world,woman,women empowerment,56.6,44,0.4282454583333333,0.3815940566666667,5
+human,3,birthday,state,pain,meeting,Anniversary of a new Capitol building being acknowledged at a conference full of old white dudes.,64.4,71.6,0.31536558833333334,0.28728941,5
+human,3,birthday,state,pain,meeting,Apart from Family on an important day,71.5,44.5,0.31536558833333334,0.28728941,2
+human,3,birthday,state,pain,meeting,Cooperate life in 2025,42,65.5,0.31536558833333334,0.28728941,4
+human,3,birthday,state,pain,meeting,Dates of things,44.25,21.75,0.31536558833333334,0.28728941,4
+human,3,birthday,state,pain,meeting,Words that could be used in an angsty teenage girl's diary on her birthday,65.33333333333333,87.33333333333333,0.31536558833333334,0.28728941,3
+human,3,birthday,state,pain,meeting,all things people can be in,62.2,55,0.31536558833333334,0.28728941,5
+human,3,birthday,state,pain,meeting,certificate,37.5,8,0.31536558833333334,0.28728941,2
+human,3,birthday,state,pain,meeting,day,24.8,24.333333333333332,0.31536558833333334,0.28728941,5
+human,3,birthday,state,pain,meeting,giving birth,70.42857142857143,50.166666666666664,0.31536558833333334,0.28728941,7
+human,3,birthday,state,pain,meeting,office birthday,45,58,0.31536558833333334,0.28728941,2
+human,3,birthday,state,pain,meeting,possible situations at work,42,52,0.31536558833333334,0.28728941,5
+human,3,birthday,state,pain,meeting,reasons people might gather around you,75.5,75,0.31536558833333334,0.28728941,2
+human,3,birthday,state,pain,meeting,things can be observed,66.5,54,0.31536558833333334,0.28728941,4
+human,3,birthday,state,pain,meeting,travelling to a birthday party,46.142857142857146,52.142857142857146,0.31536558833333334,0.28728941,7
+human,3,birthday,state,pain,meeting,wedding,24.5,12.666666666666668,0.31536558833333334,0.28728941,5
+human,4,dog,blood,bed,office,All things that could be found in the vet office of an aggressive animal,79.25,82.5,0.3622348266666667,0.3338060266666667,4
+human,4,dog,blood,bed,office,Many people have all of these things,60.5,5,0.3622348266666667,0.3338060266666667,2
+human,4,dog,blood,bed,office,Police dog,77.25,44.75,0.3622348266666667,0.3338060266666667,4
+human,4,dog,blood,bed,office,Police k-9 kennel,69.33333333333333,80,0.3622348266666667,0.3338060266666667,3
+human,4,dog,blood,bed,office,"They can all link to the word ""hot""",29.75,60.75,0.3622348266666667,0.3338060266666667,4
+human,4,dog,blood,bed,office,Things an EMT wants to know the location of before they enter a house.,82.66666666666667,90,0.3622348266666667,0.3338060266666667,3
+human,4,dog,blood,bed,office,Things that humans usually need,43.5,68,0.3622348266666667,0.3338060266666667,4
+human,4,dog,blood,bed,office,Things you would find in a vet.,84.6,37,0.3622348266666667,0.3338060266666667,5
+human,4,dog,blood,bed,office,helper,40.666666666666664,7.5,0.3622348266666667,0.3338060266666667,3
+human,4,dog,blood,bed,office,movie,53,4.5,0.3622348266666667,0.3338060266666667,4
+human,4,dog,blood,bed,office,rooms,60.2,36.5,0.3622348266666667,0.3338060266666667,5
+human,4,dog,blood,bed,office,things with unique smells,61.375,38.333333333333336,0.3622348266666667,0.3338060266666667,9
+human,4,dog,blood,bed,office,vet,82.42857142857143,42.92307692307692,0.3622348266666667,0.3338060266666667,14
+human,4,dog,blood,bed,office,veterinary clinic,77,38.4,0.3622348266666667,0.3338060266666667,5
+human,5,hair,food,coffee,street,All things that aethestically motivated girls post to their Instagrams,73,71,0.40794734833333335,0.35968319666666665,2
+human,5,hair,food,coffee,street,Features of a festival.,30,48.666666666666664,0.40794734833333335,0.35968319666666665,3
+human,5,hair,food,coffee,street,If these things arent good Ill have a bad day,80.33333333333333,70.14285714285714,0.40794734833333335,0.35968319666666665,7
+human,5,hair,food,coffee,street,NYC,62.666666666666664,15.5,0.40794734833333335,0.35968319666666665,3
+human,5,hair,food,coffee,street,Shops on a city street,81.5,38.5,0.40794734833333335,0.35968319666666665,2
+human,5,hair,food,coffee,street,Things found walking down state street,68.75,69.5,0.40794734833333335,0.35968319666666665,4
+human,5,hair,food,coffee,street,Things you would see at a strip mall.,77,43,0.40794734833333335,0.35968319666666665,5
+human,5,hair,food,coffee,street,What a girl would do in her weekend,83.5,60,0.40794734833333335,0.35968319666666665,6
+human,5,hair,food,coffee,street,"You could put the word ""shop"" after all of them",48.666666666666664,73.66666666666667,0.40794734833333335,0.35968319666666665,3
+human,5,hair,food,coffee,street,coffee shop,47.875,39.833333333333336,0.40794734833333335,0.35968319666666665,8
+human,5,hair,food,coffee,street,fair,32.666666666666664,13.666666666666666,0.40794734833333335,0.35968319666666665,3
+human,5,hair,food,coffee,street,farmers market,60.166666666666664,24.8,0.40794734833333335,0.35968319666666665,6
+human,5,hair,food,coffee,street,having a clean girl aesthetic,66.8,66.2,0.40794734833333335,0.35968319666666665,5
+human,5,hair,food,coffee,street,service,94,15.5,0.40794734833333335,0.35968319666666665,2
+human,5,hair,food,coffee,street,things that can be brown,79,23.166666666666668,0.40794734833333335,0.35968319666666665,6
+human,5,hair,food,coffee,street,what a big city has to offer,70.8,22.4,0.40794734833333335,0.35968319666666665,5
+human,6,house,boy,baby,girl,All things that little kids like to either play with or as during recess,87,86,0.5825654233333333,0.45451051,3
+human,6,house,boy,baby,girl,Events that come during a baby shower.,68.5,65.5,0.5825654233333333,0.45451051,3
+human,6,house,boy,baby,girl,The white picket fence standard,73.4,70,0.5825654233333333,0.45451051,5
+human,6,house,boy,baby,girl,Things that families may have,81,49.5,0.5825654233333333,0.45451051,4
+human,6,house,boy,baby,girl,"Words that come up in Melanie Martinez's ""Dollhouse"" song.",87.66666666666667,90.33333333333333,0.5825654233333333,0.45451051,3
+human,6,house,boy,baby,girl,a home-birth,82.8,51.8,0.5825654233333333,0.45451051,5
+human,6,house,boy,baby,girl,bringing home a kid from the hospital,93.71428571428571,84.28571428571429,0.5825654233333333,0.45451051,7
+human,6,house,boy,baby,girl,"can put the word ""play"" in front of all of them",51.625,54.125,0.5825654233333333,0.45451051,8
+human,6,house,boy,baby,girl,family,88.78571428571429,32,0.5825654233333333,0.45451051,14
+human,6,house,boy,baby,girl,newborn,73.4,34.6,0.5825654233333333,0.45451051,5
+human,6,house,boy,baby,girl,nouns,80,50.5,0.5825654233333333,0.45451051,4
+human,6,house,boy,baby,girl,things you acquire when you are in your late 20s and early 30s,84.5,80.5,0.5825654233333333,0.45451051,4
+human,6,house,boy,baby,girl,toys you might find in a childs room,85,66.33333333333333,0.5825654233333333,0.45451051,3
+human,7,trip,summer,doc,evidence,A diagnosis of a foreign disease,49.5,62.5,0.28578362500000004,0.24647126,4
+human,7,trip,summer,doc,evidence,All things that could be found on a lake trip gone wrong (like the ones in the murder documentaries),73,87.75,0.28578362500000004,0.24647126,4
+human,7,trip,summer,doc,evidence,DC,44.25,11.666666666666666,0.28578362500000004,0.24647126,4
+human,7,trip,summer,doc,evidence,"Proof of a crime that took place away from home, is put into a sheet online and used once the police find it, to find the person who committed the crime.",63,99.66666666666667,0.28578362500000004,0.24647126,3
+human,7,trip,summer,doc,evidence,Summer classes,36.333333333333336,46.666666666666664,0.28578362500000004,0.24647126,3
+human,7,trip,summer,doc,evidence,The things you would need to do to sign up for a summer program.,34.2,68.4,0.28578362500000004,0.24647126,5
+human,7,trip,summer,doc,evidence,Things related to high school students,52.57142857142857,51.857142857142854,0.28578362500000004,0.24647126,7
+human,7,trip,summer,doc,evidence,Things that can be ruined,57.8,18.6,0.28578362500000004,0.24647126,5
+human,7,trip,summer,doc,evidence,When you're trying to finish an essay but your friends are trying to arrange spring break.,54.5,77.4,0.28578362500000004,0.24647126,5
+human,7,trip,summer,doc,evidence,Words associated with vacation,60.5,75.5,0.28578362500000004,0.24647126,2
+human,7,trip,summer,doc,evidence,drown,28.4,22.2,0.28578362500000004,0.24647126,5
+human,7,trip,summer,doc,evidence,mystery,42,35.5,0.28578362500000004,0.24647126,9
+human,7,trip,summer,doc,evidence,themes in a vacation mystery novel,73.4,74.8,0.28578362500000004,0.24647126,5
+human,7,trip,summer,doc,evidence,things a person experiences,35,51.666666666666664,0.28578362500000004,0.24647126,4
+human,8,murder,dude,afternoon,message,A murder of the mailman,82,75,0.23626774833333333,0.22176269,2
+human,8,murder,dude,afternoon,message,"All words that can be combines to make a common phrase (Afternoon governor! Rad, dude. Murder mystery. Message in a bottle.)",90.5,68,0.23626774833333333,0.22176269,3
+human,8,murder,dude,afternoon,message,Important info found in an investigative police report.,58.4,78.6,0.23626774833333333,0.22176269,5
+human,8,murder,dude,afternoon,message,Parts of a day,19,54.25,0.23626774833333333,0.22176269,4
+human,8,murder,dude,afternoon,message,Surfing at 1 pm when someone is killed and made to look like a suicide to send a message,79,99.8,0.23626774833333333,0.22176269,5
+human,8,murder,dude,afternoon,message,Things that can be complicated,57,49.75,0.23626774833333333,0.22176269,4
+human,8,murder,dude,afternoon,message,a murder,19.6,29,0.23626774833333333,0.22176269,5
+human,8,murder,dude,afternoon,message,an episode in Detective Conan,57.6,67,0.23626774833333333,0.22176269,5
+human,8,murder,dude,afternoon,message,arrest,47.6,56.5,0.23626774833333333,0.22176269,5
+human,8,murder,dude,afternoon,message,boys,28.5,6,0.23626774833333333,0.22176269,4
+human,8,murder,dude,afternoon,message,certain aspects of a suspect in a killing,64.25,76,0.23626774833333333,0.22176269,4
+human,8,murder,dude,afternoon,message,could put the word dead infront of all them,27.8,67.25,0.23626774833333333,0.22176269,5
+human,8,murder,dude,afternoon,message,guns,56,10,0.23626774833333333,0.22176269,2
+human,8,murder,dude,afternoon,message,mystery tv show,72,13,0.23626774833333333,0.22176269,2
+human,8,murder,dude,afternoon,message,words that have repeating letters,62.5,63,0.23626774833333333,0.22176269,4
+human,9,word,number,week,part,"All ""parts"" of something. Part literally meaning park, week: part of a month/year, word: part of a sentence, number: could be a number part of a bigger number",93,98,0.373233085,0.344718,4
+human,9,word,number,week,part,All of these things make up a whole thing,78.5,46.6,0.373233085,0.344718,6
+human,9,word,number,week,part,All things that can be numerically classified,4,95,0.373233085,0.344718,1
+human,9,word,number,week,part,Parts of a whole,71.66666666666667,61.5,0.373233085,0.344718,3
+human,9,word,number,week,part,Planner,68.33333333333333,24,0.373233085,0.344718,6
+human,9,word,number,week,part,Units for measurement,61.4,51,0.373233085,0.344718,5
+human,9,word,number,week,part,Ways to organize and catagorize items,76,67.33333333333333,0.373233085,0.344718,6
+human,9,word,number,week,part,What you might see on a weekly publication,79.4,70.4,0.373233085,0.344718,5
+human,9,word,number,week,part,Words found in the info about New York Times Games.,88.66666666666667,78.33333333333333,0.373233085,0.344718,3
+human,9,word,number,week,part,calender,67.14285714285714,30.333333333333332,0.373233085,0.344718,7
+human,9,word,number,week,part,day of the week,47.4,54.8,0.373233085,0.344718,6
+human,9,word,number,week,part,groups to organize,69.5,24,0.373233085,0.344718,2
+human,9,word,number,week,part,math,47,6,0.373233085,0.344718,2
+human,9,word,number,week,part,school,71.25,15.5,0.373233085,0.344718,4
+human,9,word,number,week,part,things learned in elementary school,79.28571428571429,52.285714285714285,0.373233085,0.344718,7
+human,12,deal,second,rest,end,Actions taken in a casino,79,73,0.4415296733333334,0.37580735,2
+human,12,deal,second,rest,end,All words concerning Deal or No Deal,38.25,65.5,0.4415296733333334,0.37580735,4
+human,12,deal,second,rest,end,Congress,61.75,23.25,0.4415296733333334,0.37580735,5
+human,12,deal,second,rest,end,Ends of things,58.25,37,0.4415296733333334,0.37580735,4
+human,12,deal,second,rest,end,They can all mean part of something. Like a part of something that's left,66.4,57.2,0.4415296733333334,0.37580735,5
+human,12,deal,second,rest,end,Things that come after something else.,65.16666666666667,48.833333333333336,0.4415296733333334,0.37580735,6
+human,12,deal,second,rest,end,Things that might happen in a casino,73,32.666666666666664,0.4415296733333334,0.37580735,3
+human,12,deal,second,rest,end,a portion of a whole,44,56.666666666666664,0.4415296733333334,0.37580735,3
+human,12,deal,second,rest,end,cards,52.285714285714285,29.857142857142858,0.4415296733333334,0.37580735,7
+human,12,deal,second,rest,end,drug deal,38.5,39.25,0.4415296733333334,0.37580735,4
+human,12,deal,second,rest,end,end of week,69.5,40.75,0.4415296733333334,0.37580735,4
+human,12,deal,second,rest,end,parts of a deck of cards during a game,59.333333333333336,63.666666666666664,0.4415296733333334,0.37580735,3
+human,12,deal,second,rest,end,possible compromises,77,57.25,0.4415296733333334,0.37580735,5
+human,12,deal,second,rest,end,retirement,55,50.166666666666664,0.4415296733333334,0.37580735,6
+human,12,deal,second,rest,end,something being over,43.666666666666664,59,0.4415296733333334,0.37580735,3
+human,12,deal,second,rest,end,"something you might ""take""",72.25,57.25,0.4415296733333334,0.37580735,4
+human,13,child,daughter,book,city,All pieces that are integral to girl's coming of age themes,88,49.5,0.431223825,0.3677279233333333,2
+human,13,child,daughter,book,city,Elementary school,70.66666666666667,28,0.431223825,0.3677279233333333,6
+human,13,child,daughter,book,city,Events in a story,71,25,0.431223825,0.3677279233333333,2
+human,13,child,daughter,book,city,The city of ember,85.75,67.25,0.431223825,0.3677279233333333,4
+human,13,child,daughter,book,city,Things that can have a lot going on at once,57.666666666666664,65.66666666666667,0.431223825,0.3677279233333333,3
+human,13,child,daughter,book,city,Things that require care,76.33333333333333,48.666666666666664,0.431223825,0.3677279233333333,3
+human,13,child,daughter,book,city,Words you might find in an English learning textbook.,82.4,47.75,0.431223825,0.3677279233333333,5
+human,13,child,daughter,book,city,author,43.5,46.666666666666664,0.431223825,0.3677279233333333,4
+human,13,child,daughter,book,city,family,57.25,23,0.431223825,0.3677279233333333,4
+human,13,child,daughter,book,city,school,47.5,8,0.431223825,0.3677279233333333,2
+human,13,child,daughter,book,city,something with many layers,72.28571428571429,42.142857142857146,0.431223825,0.3677279233333333,8
+human,13,child,daughter,book,city,the book Fahrenheit 451,82,88.33333333333333,0.431223825,0.3677279233333333,3
+human,13,child,daughter,book,city,the giving tree,61.714285714285715,50.57142857142857,0.431223825,0.3677279233333333,7
+human,13,child,daughter,book,city,things filled with imagination,79,49.125,0.431223825,0.3677279233333333,8
+human,13,child,daughter,book,city,trip to a bookstore with your child,90.16666666666667,58.666666666666664,0.431223825,0.3677279233333333,6
+human,14,mouth,floor,plane,officer,Escaping from a prison,67.75,83,0.3037353333333333,0.26385918,4
+human,14,mouth,floor,plane,officer,The airforce,45,21.285714285714285,0.3037353333333333,0.26385918,7
+human,14,mouth,floor,plane,officer,Things that could be the feature of a porno.,68.5,73.5,0.3037353333333333,0.26385918,8
+human,14,mouth,floor,plane,officer,Things that have a similar function,8.666666666666666,31.75,0.3037353333333333,0.26385918,5
+human,14,mouth,floor,plane,officer,Things that you would see at an airport,66.5,62.5,0.3037353333333333,0.26385918,6
+human,14,mouth,floor,plane,officer,What you may see from inside a tall office building,62.25,64.25,0.3037353333333333,0.26385918,4
+human,14,mouth,floor,plane,officer,a cop arresting someone on a plane,64,82.4,0.3037353333333333,0.26385918,5
+human,14,mouth,floor,plane,officer,accident,36,4,0.3037353333333333,0.26385918,2
+human,14,mouth,floor,plane,officer,going through TSA,49,44.6,0.3037353333333333,0.26385918,5
+human,14,mouth,floor,plane,officer,police,26,16.333333333333332,0.3037353333333333,0.26385918,3
+human,14,mouth,floor,plane,officer,they relate to position level,79,81,0.3037353333333333,0.26385918,3
+human,14,mouth,floor,plane,officer,things that can hurt,19.666666666666668,13.5,0.3037353333333333,0.26385918,3
+human,14,mouth,floor,plane,officer,verb,46,62,0.3037353333333333,0.26385918,5
+human,15,furniture,clown,towel,corn,"All things that have a relation to something that starts with a c (furniture = couch, corn = cob, towel = cloth, clown = circus)",74.75,78.75,0.3280194366666667,0.31886964333333334,4
+human,15,furniture,clown,towel,corn,Items that can match in color,60,75,0.3280194366666667,0.31886964333333334,2
+human,15,furniture,clown,towel,corn,Recognizable textures,44,45,0.3280194366666667,0.31886964333333334,3
+human,15,furniture,clown,towel,corn,The corn palace,63.333333333333336,34.333333333333336,0.3280194366666667,0.31886964333333334,3
+human,15,furniture,clown,towel,corn,Things that can look scary at night,57,82,0.3280194366666667,0.31886964333333334,3
+human,15,furniture,clown,towel,corn,Things you might see at a carnival,67.2,48,0.3280194366666667,0.31886964333333334,5
+human,15,furniture,clown,towel,corn,beach,24.666666666666668,10.5,0.3280194366666667,0.31886964333333334,3
+human,15,furniture,clown,towel,corn,circus,54.75,16.4,0.3280194366666667,0.31886964333333334,5
+human,15,furniture,clown,towel,corn,fair,64,6,0.3280194366666667,0.31886964333333334,1
+human,15,furniture,clown,towel,corn,halloween,36.333333333333336,28.666666666666668,0.3280194366666667,0.31886964333333334,3
+human,15,furniture,clown,towel,corn,ring,40,31,0.3280194366666667,0.31886964333333334,6
+human,15,furniture,clown,towel,corn,they can all be yellow or orange.,69,67.75,0.3280194366666667,0.31886964333333334,5
+human,15,furniture,clown,towel,corn,things in a clowns house,50.5,68,0.3280194366666667,0.31886964333333334,4
+human,15,furniture,clown,towel,corn,things that can be multicolored,76.2,39.9,0.3280194366666667,0.31886964333333334,11
+human,15,furniture,clown,towel,corn,what can be found in a house in fall,42,54.666666666666664,0.3280194366666667,0.31886964333333334,3
+human,16,case,death,party,couple,A murder mystery,71,56,0.3430908183333334,0.3101254033333333,4
+human,16,case,death,party,couple,A place where people would gather for a big event.,31.5,58.666666666666664,0.3430908183333334,0.3101254033333333,3
+human,16,case,death,party,couple,All things that tend to appear in murder mysteries involving rich families,97.5,89.5,0.3430908183333334,0.3101254033333333,2
+human,16,case,death,party,couple,Domestic violence trial,50.666666666666664,53,0.3430908183333334,0.3101254033333333,3
+human,16,case,death,party,couple,Funeral,62.2,13.4,0.3430908183333334,0.3101254033333333,5
+human,16,case,death,party,couple,Going to a function with a partner and someone gets alcohol poisoning,75,59,0.3430908183333334,0.3101254033333333,4
+human,16,case,death,party,couple,"If ""case"" means in terms of a legal case, then all of these words usually mean a group of more than one person",43.77777777777778,74.22222222222223,0.3430908183333334,0.3101254033333333,9
+human,16,case,death,party,couple,Things that can go sour quickly,63,57.6,0.3430908183333334,0.3101254033333333,5
+human,16,case,death,party,couple,a crime movie,57.8,54.2,0.3430908183333334,0.3101254033333333,5
+human,16,case,death,party,couple,a murder at a party,87.6,69.4,0.3430908183333334,0.3101254033333333,5
+human,16,case,death,party,couple,clue,57,9.5,0.3430908183333334,0.3101254033333333,3
+human,16,case,death,party,couple,elderly,61.666666666666664,18,0.3430908183333334,0.3101254033333333,3
+human,16,case,death,party,couple,murder,52.125,38.666666666666664,0.3430908183333334,0.3101254033333333,8
+human,16,case,death,party,couple,why someone might concern themselves about others,84.66666666666667,58.5,0.3430908183333334,0.3101254033333333,6
+human,16,case,death,party,couple,with other people,55.833333333333336,36.6,0.3430908183333334,0.3101254033333333,6
+human,17,funeral,arrest,unit,taste,"A romcom about a cop and a criminal falling in love but the cop dies in action, leaving the criminal alone and mourning.",84.75,90.5,0.255220155,0.22525442,4
+human,17,funeral,arrest,unit,taste,All things that can be correlated to the robbery of a fancy score,35.142857142857146,66.85714285714286,0.255220155,0.22525442,7
+human,17,funeral,arrest,unit,taste,Steps of a poison homicide,75.5,82.5,0.255220155,0.22525442,2
+human,17,funeral,arrest,unit,taste,These all have meanings in law inforcement,52.6,59.8,0.255220155,0.22525442,5
+human,17,funeral,arrest,unit,taste,"They can be linked to the word ""house""",39.666666666666664,55.5,0.255220155,0.22525442,8
+human,17,funeral,arrest,unit,taste,Things that can be measured in percentages,38.4,52,0.255220155,0.22525442,5
+human,17,funeral,arrest,unit,taste,War,39.6,23.5,0.255220155,0.22525442,5
+human,17,funeral,arrest,unit,taste,a poisoning and its aftermath,46.4,63.2,0.255220155,0.22525442,5
+human,17,funeral,arrest,unit,taste,crime scene,46.857142857142854,31.25,0.255220155,0.22525442,8
+human,17,funeral,arrest,unit,taste,death row,70,45.6,0.255220155,0.22525442,5
+human,17,funeral,arrest,unit,taste,incidents that happen during life,70,65,0.255220155,0.22525442,4
+human,17,funeral,arrest,unit,taste,jail,46.333333333333336,40,0.255220155,0.22525442,3
+human,17,funeral,arrest,unit,taste,murder,41.6,26.5,0.255220155,0.22525442,5
+human,17,funeral,arrest,unit,taste,somewhere you might store something,25,44,0.255220155,0.22525442,6
+human,17,funeral,arrest,unit,taste,things that happen to bad people,35.857142857142854,47.285714285714285,0.255220155,0.22525442,7
+human,18,camera,chicken,wine,park,A picnic photoshoot,78.75,57.75,0.3671824533333334,0.3437829433333333,4
+human,18,camera,chicken,wine,park,All things that could be found on an evening picnic date,84.66666666666667,69,0.3671824533333334,0.3437829433333333,3
+human,18,camera,chicken,wine,park,Date night,81.44444444444444,40.625,0.3671824533333334,0.3437829433333333,9
+human,18,camera,chicken,wine,park,Picnic in the summer,79.66666666666667,50.5,0.3671824533333334,0.3437829433333333,6
+human,18,camera,chicken,wine,park,Things related to a picnic,84.5,63.5,0.3671824533333334,0.3437829433333333,2
+human,18,camera,chicken,wine,park,Things required for a picnic date night,57.333333333333336,68.22222222222223,0.3671824533333334,0.3437829433333333,9
+human,18,camera,chicken,wine,park,Things that would make a good picnic,90.5,73.8,0.3671824533333334,0.3437829433333333,5
+human,18,camera,chicken,wine,park,a celebration/party,35.75,46,0.3671824533333334,0.3437829433333333,4
+human,18,camera,chicken,wine,park,all these things could be very expensive.,78,55.333333333333336,0.3671824533333334,0.3437829433333333,3
+human,18,camera,chicken,wine,park,aspects a part of a picnic date,95,75,0.3671824533333334,0.3437829433333333,2
+human,18,camera,chicken,wine,park,dinner,77.33333333333333,33.666666666666664,0.3671824533333334,0.3437829433333333,3
+human,18,camera,chicken,wine,park,important things for a good picnic,72.66666666666667,54.75,0.3671824533333334,0.3437829433333333,4
+human,18,camera,chicken,wine,park,picnic,91,41,0.3671824533333334,0.3437829433333333,2
+human,18,camera,chicken,wine,park,restaurant,49.75,17.75,0.3671824533333334,0.3437829433333333,4
+human,18,camera,chicken,wine,park,valentines day,65.11111111111111,51.44444444444444,0.3671824533333334,0.3437829433333333,9
+human,19,drink,shot,movie,picture,A night out with friends,82.66666666666667,53,0.43771192500000006,0.3601386166666667,3
+human,19,drink,shot,movie,picture,Bar scene in a film,81,60,0.43771192500000006,0.3601386166666667,4
+human,19,drink,shot,movie,picture,Cinema,79.8,39.4,0.43771192500000006,0.3601386166666667,5
+human,19,drink,shot,movie,picture,Entertainment,91.6,24.5,0.43771192500000006,0.3601386166666667,10
+human,19,drink,shot,movie,picture,Going out to a party where they show a show/movie,34,97,0.43771192500000006,0.3601386166666667,1
+human,19,drink,shot,movie,picture,Things a man whos missing his wife might be surrounded by when pondering her death alone in the evening.,81.5,76,0.43771192500000006,0.3601386166666667,2
+human,19,drink,shot,movie,picture,Things that can be related to an old western stop-motion movie,76.5,86.5,0.43771192500000006,0.3601386166666667,2
+human,19,drink,shot,movie,picture,Things you would find in a film,75.5,73.5,0.43771192500000006,0.3601386166666667,4
+human,19,drink,shot,movie,picture,action film,69,30.5,0.43771192500000006,0.3601386166666667,2
+human,19,drink,shot,movie,picture,aspects of going to a movie theater,88.8,81.4,0.43771192500000006,0.3601386166666667,5
+human,19,drink,shot,movie,picture,entertainment,72.5,7.666666666666667,0.43771192500000006,0.3601386166666667,4
+human,19,drink,shot,movie,picture,restaurant,68.5,34,0.43771192500000006,0.3601386166666667,4
+human,19,drink,shot,movie,picture,something that you might take over and over again,74.5,63,0.43771192500000006,0.3601386166666667,4
+human,19,drink,shot,movie,picture,television award show,66,74.5,0.43771192500000006,0.3601386166666667,2
+human,19,drink,shot,movie,picture,"you can take a shot, they shot a movie, you took a shot (drink), and you shot a picture so they can all be things using the word shot",79.5,66.66666666666667,0.43771192500000006,0.3601386166666667,6
+human,20,ground,gold,nose,professor,A flower scientist's garden,28,50.333333333333336,0.29355040000000004,0.20875139333333337,3
+human,20,ground,gold,nose,professor,"All things that have retain value in their own, individual ways",67.25,60.5,0.29355040000000004,0.20875139333333337,4
+human,20,ground,gold,nose,professor,Educated people stay ahead of others in multiple ways like money and have resources to understand things better,47.333333333333336,94,0.29355040000000004,0.20875139333333337,3
+human,20,ground,gold,nose,professor,My stats professor,28.333333333333336,39.666666666666664,0.29355040000000004,0.20875139333333337,6
+human,20,ground,gold,nose,professor,Things a teacher should go,8.666666666666666,28.666666666666668,0.29355040000000004,0.20875139333333337,3
+human,20,ground,gold,nose,professor,Things that can be dug into.,52.888888888888886,51.333333333333336,0.29355040000000004,0.20875139333333337,9
+human,20,ground,gold,nose,professor,Things that support you,19.5,39.75,0.29355040000000004,0.20875139333333337,4
+human,20,ground,gold,nose,professor,albert einstein,61.8,50.6,0.29355040000000004,0.20875139333333337,5
+human,20,ground,gold,nose,professor,archolgist,72.66666666666667,53.333333333333336,0.29355040000000004,0.20875139333333337,3
+human,20,ground,gold,nose,professor,class,48.666666666666664,NA,0.29355040000000004,0.20875139333333337,3
+human,20,ground,gold,nose,professor,climate class,39,43.5,0.29355040000000004,0.20875139333333337,5
+human,20,ground,gold,nose,professor,geology class,59.142857142857146,66.8,0.29355040000000004,0.20875139333333337,7
+human,20,ground,gold,nose,professor,something that can humble you,47,63,0.29355040000000004,0.20875139333333337,3
+human,20,ground,gold,nose,professor,things a professor of archeology might look for,54.125,74.875,0.29355040000000004,0.20875139333333337,8
+human,20,ground,gold,nose,professor,treasure hunt,29,31.333333333333332,0.29355040000000004,0.20875139333333337,3
+human,21,security,system,information,order,All parts of a cybersecurity systems,75.25,71.75,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,Cyber Security,99,56,0.43878700666666665,0.41596298,1
+human,21,security,system,information,order,IT,83.25,44.5,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,Important to get in prisons,83,58.42857142857143,0.43878700666666665,0.41596298,7
+human,21,security,system,information,order,Museum,65,31.5,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,They all have to do with an administration or organization,75.5,82.25,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,Things that computers have,67.875,50.625,0.43878700666666665,0.41596298,8
+human,21,security,system,information,order,Things you would need to do in an airport.,78.75,60,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,bank,90.57142857142857,39,0.43878700666666665,0.41596298,7
+human,21,security,system,information,order,defense,83.5,28.5,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,jobs for AI,97,59,0.43878700666666665,0.41596298,3
+human,21,security,system,information,order,keeping something safe,80,28.5,0.43878700666666665,0.41596298,2
+human,21,security,system,information,order,person's security information,78.14285714285714,51.857142857142854,0.43878700666666665,0.41596298,7
+human,21,security,system,information,order,prison,94.5,60.75,0.43878700666666665,0.41596298,4
+human,21,security,system,information,order,technology field,78,13,0.43878700666666665,0.41596298,3
+human,22,court,lieutenant,lunch,mama,"All various hierarchal positions in their individual systems (e.g. breakfast, lunch, dinner)",78,93,0.3206144516666667,0.30940302000000003,2
+human,22,court,lieutenant,lunch,mama,My grandmother,17,32,0.3206144516666667,0.30940302000000003,2
+human,22,court,lieutenant,lunch,mama,Recess at a Court-Martial trial,45.5,76,0.3206144516666667,0.30940302000000003,2
+human,22,court,lieutenant,lunch,mama,Somewhere that you mind find a boss.,29.25,39.5,0.3206144516666667,0.30940302000000003,4
+human,22,court,lieutenant,lunch,mama,Things that may be at a school,28.5,64.33333333333333,0.3206144516666667,0.30940302000000003,4
+human,22,court,lieutenant,lunch,mama,Things you call for,53.25,61.666666666666664,0.3206144516666667,0.30940302000000003,4
+human,22,court,lieutenant,lunch,mama,What you may find in a detective film,46.6,65.4,0.3206144516666667,0.30940302000000003,5
+human,22,court,lieutenant,lunch,mama,Words that come up when a lawyer and their mother are talking after church.,50,87.66666666666667,0.3206144516666667,0.30940302000000003,3
+human,22,court,lieutenant,lunch,mama,army,38.8,29,0.3206144516666667,0.30940302000000003,5
+human,22,court,lieutenant,lunch,mama,oldies,32.75,36.6,0.3206144516666667,0.30940302000000003,7
+human,22,court,lieutenant,lunch,mama,order,21,10,0.3206144516666667,0.30940302000000003,1
+human,22,court,lieutenant,lunch,mama,parent,39,10.333333333333334,0.3206144516666667,0.30940302000000003,3
+human,22,court,lieutenant,lunch,mama,people or places with authority,56.8,48,0.3206144516666667,0.30940302000000003,5
+human,22,court,lieutenant,lunch,mama,places you could get in trouble with,53.5,42.75,0.3206144516666667,0.30940302000000003,8
+human,22,court,lieutenant,lunch,mama,things that might be present at a military basketball game,65.83333333333333,77.83333333333333,0.3206144516666667,0.30940302000000003,6
+human,23,husband,captain,dinner,line,All things that are commonly associated with men,44.8,51.4,0.3640640316666666,0.2929774233333333,5
+human,23,husband,captain,dinner,line,Captain of a fishing boat,44.6,69.4,0.3640640316666666,0.2929774233333333,5
+human,23,husband,captain,dinner,line,"Could all have to do with leadership. Husband is usually seen as ""head"" of household, captain is incharge of ship/plane, dinner is usually the biggest meal, line lead people.",87.33333333333333,79.66666666666667,0.3640640316666666,0.2929774233333333,3
+human,23,husband,captain,dinner,line,Date night,60,29.6,0.3640640316666666,0.2929774233333333,6
+human,23,husband,captain,dinner,line,Features for an actor in a show.,43.6,59,0.3640640316666666,0.2929774233333333,6
+human,23,husband,captain,dinner,line,Going out with a partner,50.833333333333336,54.833333333333336,0.3640640316666666,0.2929774233333333,6
+human,23,husband,captain,dinner,line,Leaders,41.4,20.6,0.3640640316666666,0.2929774233333333,5
+human,23,husband,captain,dinner,line,Things that demand order,76.33333333333333,61.333333333333336,0.3640640316666666,0.2929774233333333,3
+human,23,husband,captain,dinner,line,associate with wedding,63,47.25,0.3640640316666666,0.2929774233333333,4
+human,23,husband,captain,dinner,line,cruise,87,58,0.3640640316666666,0.2929774233333333,2
+human,23,husband,captain,dinner,line,football,80.33333333333333,40,0.3640640316666666,0.2929774233333333,3
+human,23,husband,captain,dinner,line,ship,53,24,0.3640640316666666,0.2929774233333333,5
+human,23,husband,captain,dinner,line,things that take a long time,57.666666666666664,29.166666666666668,0.3640640316666666,0.2929774233333333,6
+human,23,husband,captain,dinner,line,worker,42.5,17.666666666666668,0.3640640316666666,0.2929774233333333,4
+human,24,building,army,train,card,A soldier writing home.,65.83333333333333,52,0.3734485033333334,0.32126366,6
+human,24,building,army,train,card,All things that were either characters or pivotal plot points in Toy Story 1,57.166666666666664,75,0.3734485033333334,0.32126366,6
+human,24,building,army,train,card,Hard to access,37,32,0.3734485033333334,0.32126366,7
+human,24,building,army,train,card,Military,68.8,48.2,0.3734485033333334,0.32126366,5
+human,24,building,army,train,card,Soldiers leaving,45.285714285714285,29.333333333333332,0.3734485033333334,0.32126366,7
+human,24,building,army,train,card,The movie Train to Busan,72,62,0.3734485033333334,0.32126366,1
+human,24,building,army,train,card,These are all nouns,79.25,31.5,0.3734485033333334,0.32126366,4
+human,24,building,army,train,card,Things that help someone to accomplish things,38,45,0.3734485033333334,0.32126366,6
+human,24,building,army,train,card,Things that slowly get stronger,71.8,28.2,0.3734485033333334,0.32126366,5
+human,24,building,army,train,card,army,65.25,52.25,0.3734485033333334,0.32126366,4
+human,24,building,army,train,card,army training,60.333333333333336,44.666666666666664,0.3734485033333334,0.32126366,6
+human,24,building,army,train,card,aspects of deployment transportation,61.5,64.5,0.3734485033333334,0.32126366,2
+human,24,building,army,train,card,children toys,81.4,43.2,0.3734485033333334,0.32126366,5
+human,24,building,army,train,card,industrial,76,50,0.3734485033333334,0.32126366,2
+human,24,building,army,train,card,pentagon,49.25,42.25,0.3734485033333334,0.32126366,4
+human,24,building,army,train,card,toys you might find in a little boys room,79.8,53.6,0.3734485033333334,0.32126366,5
+human,26,defense,safety,command,permission,A traffic directors ques,71.75,75,0.3253788933333333,0.27049960666666667,4
+human,26,defense,safety,command,permission,A women's MMA class,77.125,62.25,0.3253788933333333,0.27049960666666667,8
+human,26,defense,safety,command,permission,All things that can be found in relation to password encrypted code,61.25,75,0.3253788933333333,0.27049960666666667,4
+human,26,defense,safety,command,permission,Being in control,75,58.8,0.3253788933333333,0.27049960666666667,6
+human,26,defense,safety,command,permission,The Army,84.83333333333333,42.666666666666664,0.3253788933333333,0.27049960666666667,6
+human,26,defense,safety,command,permission,Things parents might give to their kids.,80.33333333333333,40,0.3253788933333333,0.27049960666666667,6
+human,26,defense,safety,command,permission,Things that police are responsible for,89.33333333333333,59,0.3253788933333333,0.27049960666666667,6
+human,26,defense,safety,command,permission,army,80.33333333333333,46.2,0.3253788933333333,0.27049960666666667,6
+human,26,defense,safety,command,permission,authority,92.5,29.25,0.3253788933333333,0.27049960666666667,4
+human,26,defense,safety,command,permission,can be given by the person in charge,56,43,0.3253788933333333,0.27049960666666667,3
+human,26,defense,safety,command,permission,going to war,83.33333333333333,45.333333333333336,0.3253788933333333,0.27049960666666667,3
+human,26,defense,safety,command,permission,jail,79.83333333333333,42.6,0.3253788933333333,0.27049960666666667,6
+human,26,defense,safety,command,permission,military,88.5,41,0.3253788933333333,0.27049960666666667,4
+human,26,defense,safety,command,permission,police,83.5,31,0.3253788933333333,0.27049960666666667,4
+human,27,hero,enemy,east,mission,How are plots from movies or show are created?,59.166666666666664,63.166666666666664,0.3742027016666667,0.27852052,6
+human,27,hero,enemy,east,mission,The plot of minions,75,63.75,0.3742027016666667,0.27852052,4
+human,27,hero,enemy,east,mission,Things that can be used to describe a war veterans experience in the World Wars,77.16666666666667,75,0.3742027016666667,0.27852052,6
+human,27,hero,enemy,east,mission,War,70.8,18.333333333333332,0.3742027016666667,0.27852052,5
+human,27,hero,enemy,east,mission,War and military,67.66666666666667,57.666666666666664,0.3742027016666667,0.27852052,3
+human,27,hero,enemy,east,mission,conflict,77,12.4,0.3742027016666667,0.27852052,5
+human,27,hero,enemy,east,mission,maffia,67.33333333333333,68,0.3742027016666667,0.27852052,3
+human,27,hero,enemy,east,mission,police breaking up gang activity in New York,45,80.2,0.3742027016666667,0.27852052,5
+human,27,hero,enemy,east,mission,war,87.5,25,0.3742027016666667,0.27852052,2
+human,27,hero,enemy,east,mission,words associated with battles,73.75,45.5,0.3742027016666667,0.27852052,4
+human,27,hero,enemy,east,mission,words used in wartime,79,54,0.3742027016666667,0.27852052,2
+human,28,hotel,ball,boat,earth,Cruise ship,69.4,39.2,0.3359933666666666,0.29616817666666667,5
+human,28,hotel,ball,boat,earth,Things that are can be used on a basketball teams bonding trip,48,86.66666666666667,0.3359933666666666,0.29616817666666667,3
+human,28,hotel,ball,boat,earth,Things that can be round/balls,35.57142857142857,51.285714285714285,0.3359933666666666,0.29616817666666667,7
+human,28,hotel,ball,boat,earth,Types of joints/connections,43.833333333333336,38.166666666666664,0.3359933666666666,0.29616817666666667,6
+human,28,hotel,ball,boat,earth,World Cup training,39,38.75,0.3359933666666666,0.29616817666666667,4
+human,28,hotel,ball,boat,earth,basketball,22,41.5,0.3359933666666666,0.29616817666666667,5
+human,28,hotel,ball,boat,earth,extravagant things,56,34.75,0.3359933666666666,0.29616817666666667,4
+human,28,hotel,ball,boat,earth,round,50,26.5,0.3359933666666666,0.29616817666666667,4
+human,28,hotel,ball,boat,earth,"things that all have bouncy properties, or bouncy properties within them",33.8,80.4,0.3359933666666666,0.29616817666666667,5
+human,28,hotel,ball,boat,earth,types of grounds,32.5,56.5,0.3359933666666666,0.29616817666666667,2
+human,29,oxygen,temperature,movement,pattern,Exercise performance statistics,82.33333333333333,69.33333333333333,0.36250904,0.3422338566666667,3
+human,29,oxygen,temperature,movement,pattern,Things that can be used describe the flow of earths climate,83.75,91.75,0.36250904,0.3422338566666667,4
+human,29,oxygen,temperature,movement,pattern,What are some Biology terms for Physiology?,75.5,77,0.36250904,0.3422338566666667,2
+human,29,oxygen,temperature,movement,pattern,What the earth does,53,43.5,0.36250904,0.3422338566666667,2
+human,29,oxygen,temperature,movement,pattern,Words linked to the environment,85.16666666666667,52.166666666666664,0.36250904,0.3422338566666667,6
+human,29,oxygen,temperature,movement,pattern,environment,91,NA,0.36250904,0.3422338566666667,1
+human,29,oxygen,temperature,movement,pattern,gas particles in enclosed space,75.6,71.8,0.36250904,0.3422338566666667,5
+human,29,oxygen,temperature,movement,pattern,hospital,76,50,0.36250904,0.3422338566666667,2
+human,29,oxygen,temperature,movement,pattern,science,88.25,30.333333333333336,0.36250904,0.3422338566666667,4
+human,29,oxygen,temperature,movement,pattern,things that can be measured,87,48.2,0.36250904,0.3422338566666667,6
+human,29,oxygen,temperature,movement,pattern,words used by meteorologists,87.5,71,0.36250904,0.3422338566666667,2
+human,30,club,colonel,wedding,agent,Country club wedding,27,61.5,0.3378591583333333,0.30628853,2
+human,30,club,colonel,wedding,agent,The parent trap,68.66666666666667,57.833333333333336,0.3378591583333333,0.30628853,6
+human,30,club,colonel,wedding,agent,Things that can be seen in a mission impossible movie,80.6,59,0.3378591583333333,0.30628853,5
+human,30,club,colonel,wedding,agent,Things you must have in your marriage.,36.142857142857146,64.28571428571429,0.3378591583333333,0.30628853,7
+human,30,club,colonel,wedding,agent,Words you could at secret infront of,56.857142857142854,59.57142857142857,0.3378591583333333,0.30628853,7
+human,30,club,colonel,wedding,agent,bachelorette party gone wrong,35,75,0.3378591583333333,0.30628853,3
+human,30,club,colonel,wedding,agent,concepts where there is thought to be a leader,57.166666666666664,65.83333333333333,0.3378591583333333,0.30628853,6
+human,30,club,colonel,wedding,agent,cult,30.333333333333336,13.666666666666666,0.3378591583333333,0.30628853,3
+human,30,club,colonel,wedding,agent,fancy things,59.5,11,0.3378591583333333,0.30628853,2
+human,30,club,colonel,wedding,agent,important things,55.333333333333336,19.666666666666668,0.3378591583333333,0.30628853,3
+human,30,club,colonel,wedding,agent,war,29,22,0.3378591583333333,0.30628853,4
+human,30,club,colonel,wedding,agent,words used during wartime,45.6,55,0.3378591583333333,0.30628853,5
+human,31,letter,college,lawyer,bank,"After High school, what career plans do you have afterwards?",77.33333333333333,46.333333333333336,0.362698775,0.32946935666666666,3
+human,31,letter,college,lawyer,bank,Bar,68.75,12.25,0.362698775,0.32946935666666666,4
+human,31,letter,college,lawyer,bank,Law school acceptance and student loans,91.83333333333333,58.166666666666664,0.362698775,0.32946935666666666,6
+human,31,letter,college,lawyer,bank,Signing loans for college,87.6,78.2,0.362698775,0.32946935666666666,5
+human,31,letter,college,lawyer,bank,The steps leading up to going to law school and after,61.333333333333336,72.33333333333333,0.362698775,0.32946935666666666,3
+human,31,letter,college,lawyer,bank,Things a law firm worker might experience throughout his career,66.66666666666667,72.33333333333333,0.362698775,0.32946935666666666,3
+human,31,letter,college,lawyer,bank,accounting,75.5,35.25,0.362698775,0.32946935666666666,4
+human,31,letter,college,lawyer,bank,banker,38,50,0.362698775,0.32946935666666666,4
+human,31,letter,college,lawyer,bank,jobs,63,14.75,0.362698775,0.32946935666666666,4
+human,31,letter,college,lawyer,bank,law school,79.5,62.666666666666664,0.362698775,0.32946935666666666,4
+human,31,letter,college,lawyer,bank,things all involving important written documents,83.2,73.6,0.362698775,0.32946935666666666,5
+human,31,letter,college,lawyer,bank,words used in the corporate world,82.16666666666667,67.16666666666667,0.362698775,0.32946935666666666,6
+human,32,eye,road,table,paper,"In a construction workplace, what essential are important to be safe?",35,74.5,0.33892823666666666,0.3181849433333333,2
+human,32,eye,road,table,paper,Roadside stop,49,42.666666666666664,0.33892823666666666,0.3181849433333333,3
+human,32,eye,road,table,paper,Things that are useful on a camping trip.,48.625,53.125,0.33892823666666666,0.3181849433333333,8
+human,32,eye,road,table,paper,Things that can be included in the attraction of a free roadside furniture item,54.4,83.8,0.33892823666666666,0.3181849433333333,5
+human,32,eye,road,table,paper,Things that have corners,84,56.833333333333336,0.33892823666666666,0.3181849433333333,6
+human,32,eye,road,table,paper,Words ending in cloth,48.5,62.6,0.33892823666666666,0.3181849433333333,5
+human,32,eye,road,table,paper,concepts that may be involved in a court case,69.66666666666667,52,0.33892823666666666,0.3181849433333333,3
+human,32,eye,road,table,paper,flat things,66.5,36,0.33892823666666666,0.3181849433333333,6
+human,32,eye,road,table,paper,going to dinner,42.25,32.75,0.33892823666666666,0.3181849433333333,4
+human,32,eye,road,table,paper,permit test,83.6,44.8,0.33892823666666666,0.3181849433333333,5
+human,32,eye,road,table,paper,road trip,43,22.333333333333332,0.33892823666666666,0.3181849433333333,3
+human,32,eye,road,table,paper,roadtrip,27,14,0.33892823666666666,0.3181849433333333,4
+human,32,eye,road,table,paper,things that are easy to draw,92,50.666666666666664,0.33892823666666666,0.3181849433333333,3
+human,33,shower,planet,bedroom,candy,Bodywash,27.2,35,0.3111923733333333,0.26013206,5
+human,33,shower,planet,bedroom,candy,Children,57.142857142857146,25.166666666666668,0.3111923733333333,0.26013206,7
+human,33,shower,planet,bedroom,candy,Stuff at an airport for first class passangers,28.6,61.6,0.3111923733333333,0.26013206,5
+human,33,shower,planet,bedroom,candy,Things with more than 5 letters,93.25,56.5,0.3111923733333333,0.26013206,4
+human,33,shower,planet,bedroom,candy,Things you might see during a romantic stay-at-home sci-fi movie night,76.8,81.8,0.3111923733333333,0.26013206,5
+human,33,shower,planet,bedroom,candy,Time before bed,40,23.666666666666668,0.3111923733333333,0.26013206,3
+human,33,shower,planet,bedroom,candy,What would you find in a museum.,29,54.6,0.3111923733333333,0.26013206,5
+human,33,shower,planet,bedroom,candy,alien,18,32.75,0.3111923733333333,0.26013206,5
+human,33,shower,planet,bedroom,candy,child,62.5,7.5,0.3111923733333333,0.26013206,2
+human,33,shower,planet,bedroom,candy,spaces,35,19.75,0.3111923733333333,0.26013206,4
+human,33,shower,planet,bedroom,candy,words that can be paired with bar,31.75,63.75,0.3111923733333333,0.26013206,8
+human,34,bag,apartment,window,box,Moving,84.75,23,0.4582151233333333,0.39830175333333334,4
+human,34,bag,apartment,window,box,Moving apartments,71,72.66666666666667,0.4582151233333333,0.39830175333333334,3
+human,34,bag,apartment,window,box,NYC,70.33333333333333,29.333333333333332,0.4582151233333333,0.39830175333333334,3
+human,34,bag,apartment,window,box,Things that are shape 2-D/3-D square?,59,63.8,0.4582151233333333,0.39830175333333334,5
+human,34,bag,apartment,window,box,Things that can be present during a college students take out order,79.625,70.375,0.4582151233333333,0.39830175333333334,8
+human,34,bag,apartment,window,box,Things that open,95.33333333333333,33.666666666666664,0.4582151233333333,0.39830175333333334,6
+human,34,bag,apartment,window,box,cleaning a window,65.75,35.4,0.4582151233333333,0.39830175333333334,5
+human,34,bag,apartment,window,box,square,76.125,29,0.4582151233333333,0.39830175333333334,8
+human,34,bag,apartment,window,box,the process of moving,78.6,53.6,0.4582151233333333,0.39830175333333334,5
+human,34,bag,apartment,window,box,things commonly found in a house,55.5,50.25,0.4582151233333333,0.39830175333333334,4
+human,34,bag,apartment,window,box,things that can be locked,64,61.25,0.4582151233333333,0.39830175333333334,4
+human,34,bag,apartment,window,box,things to consider/involved in moving,84,62.25,0.4582151233333333,0.39830175333333334,4
+human,35,heavens,stress,punishment,option,Characteristic of good and or bad.,65.5,44.25,0.27598211333333333,0.22231802333333336,4
+human,35,heavens,stress,punishment,option,College,33.333333333333336,14.666666666666668,0.27598211333333333,0.22231802333333336,3
+human,35,heavens,stress,punishment,option,Going to church on Sunday,67,44.2,0.27598211333333333,0.22231802333333336,5
+human,35,heavens,stress,punishment,option,Religion,68.5,38,0.27598211333333333,0.22231802333333336,2
+human,35,heavens,stress,punishment,option,Religious decision making,61.5,46,0.27598211333333333,0.22231802333333336,4
+human,35,heavens,stress,punishment,option,Things that might influence an adults mature decision making,58.666666666666664,67,0.27598211333333333,0.22231802333333336,3
+human,35,heavens,stress,punishment,option,anxiety,37.666666666666664,11,0.27598211333333333,0.22231802333333336,3
+human,35,heavens,stress,punishment,option,feeling,62.666666666666664,29.666666666666668,0.27598211333333333,0.22231802333333336,3
+human,35,heavens,stress,punishment,option,therapy,34.25,16.25,0.27598211333333333,0.22231802333333336,5
+human,35,heavens,stress,punishment,option,topics that may be talked about in church,85,66,0.27598211333333333,0.22231802333333336,9
+human,35,heavens,stress,punishment,option,words you might hear in a prison,48,79,0.27598211333333333,0.22231802333333336,4
+human,36,anger,confession,request,solution,Emotional outcomes,56,28.333333333333332,0.30894250166666665,0.2853084133333333,3
+human,36,anger,confession,request,solution,How can someone express their emotions?,58,75,0.30894250166666665,0.2853084133333333,6
+human,36,anger,confession,request,solution,People working in HR and what they have to deal with when working to resolve a situation.,94,95,0.30894250166666665,0.2853084133333333,1
+human,36,anger,confession,request,solution,Scandal,86.5,42.333333333333336,0.30894250166666665,0.2853084133333333,4
+human,36,anger,confession,request,solution,Things that can be mentioned in the interrogation room,87.33333333333333,82,0.30894250166666665,0.2853084133333333,3
+human,36,anger,confession,request,solution,asks,32.714285714285715,31.2,0.30894250166666665,0.2853084133333333,7
+human,36,anger,confession,request,solution,court trial,72.25,61.5,0.30894250166666665,0.2853084133333333,4
+human,36,anger,confession,request,solution,disagreement,68.33333333333333,24,0.30894250166666665,0.2853084133333333,3
+human,36,anger,confession,request,solution,feelings that can be expressed through conversation,74,72.4,0.30894250166666665,0.2853084133333333,5
+human,36,anger,confession,request,solution,problem,69.2,30.5,0.30894250166666665,0.2853084133333333,5
+human,36,anger,confession,request,solution,problem solving,71.25,38.666666666666664,0.30894250166666665,0.2853084133333333,4
+human,36,anger,confession,request,solution,things people can express,60.4,37.6,0.30894250166666665,0.2853084133333333,5
+human,36,anger,confession,request,solution,things that a defense lawyer may discuss with their client,67.33333333333333,67.66666666666667,0.30894250166666665,0.2853084133333333,6
+human,37,partner,folks,middle,angel,Purgatory,40,35,0.2985807033333333,0.27702030000000005,4
+human,37,partner,folks,middle,angel,Terms to describe/address a thing.,58.166666666666664,40.833333333333336,0.2985807033333333,0.27702030000000005,7
+human,37,partner,folks,middle,angel,Things that can be used to describe a person's standing in age,54.666666666666664,88.33333333333333,0.2985807033333333,0.27702030000000005,3
+human,37,partner,folks,middle,angel,Words that end with Man,27.666666666666668,57.75,0.2985807033333333,0.27702030000000005,5
+human,37,partner,folks,middle,angel,broad,23,12.5,0.2985807033333333,0.27702030000000005,3
+human,37,partner,folks,middle,angel,concepts that are relevant around the holidays,51.857142857142854,58.714285714285715,0.2985807033333333,0.27702030000000005,7
+human,37,partner,folks,middle,angel,middle,36.4,11.5,0.2985807033333333,0.27702030000000005,7
+human,37,partner,folks,middle,angel,person,53.166666666666664,20.75,0.2985807033333333,0.27702030000000005,6
+human,37,partner,folks,middle,angel,things at a wedding,53.5,57.25,0.2985807033333333,0.27702030000000005,5
+human,37,partner,folks,middle,angel,wedding,55.833333333333336,27.5,0.2985807033333333,0.27702030000000005,6
+human,37,partner,folks,middle,angel,words that can describe people,63.5,44.833333333333336,0.2985807033333333,0.27702030000000005,6
+human,38,difference,pleasure,situation,service,Building a community,72.5,19,0.36804685333333337,0.32959016333333335,4
+human,38,difference,pleasure,situation,service,Customer service,66.75,33.5,0.36804685333333337,0.32959016333333335,4
+human,38,difference,pleasure,situation,service,How do you think large cooperation satisfy the costumers?,73.5,83,0.36804685333333337,0.32959016333333335,2
+human,38,difference,pleasure,situation,service,Things can deacribe a CNAs feelings towards helping the elderly,25,64,0.36804685333333337,0.32959016333333335,1
+human,38,difference,pleasure,situation,service,Working a job you love,81.75,59.25,0.36804685333333337,0.32959016333333335,4
+human,38,difference,pleasure,situation,service,aspects to consider when going into a relationship with someone,84.8,63.2,0.36804685333333337,0.32959016333333335,5
+human,38,difference,pleasure,situation,service,nice,67,9,0.36804685333333337,0.32959016333333335,3
+human,38,difference,pleasure,situation,service,perspective based,61.75,59.25,0.36804685333333337,0.32959016333333335,4
+human,38,difference,pleasure,situation,service,problem solving skills,42,48.666666666666664,0.36804685333333337,0.32959016333333335,3
+human,38,difference,pleasure,situation,service,relationships,61.6,13.25,0.36804685333333337,0.32959016333333335,5
+human,38,difference,pleasure,situation,service,volunteering,75.2,41.6,0.36804685333333337,0.32959016333333335,5
+human,38,difference,pleasure,situation,service,words you might hear at a restaurant,68,49.57142857142857,0.36804685333333337,0.32959016333333335,7
+human,39,king,piece,boss,class,Chess,87.66666666666667,36.333333333333336,0.32859442666666666,0.3085548866666667,3
+human,39,king,piece,boss,class,London and how they a piece of there city is made up of powerful people,59.5,57.666666666666664,0.32859442666666666,0.3085548866666667,6
+human,39,king,piece,boss,class,Royalty,61.4,22.4,0.32859442666666666,0.3085548866666667,5
+human,39,king,piece,boss,class,School hierarchy system,51.333333333333336,52.666666666666664,0.32859442666666666,0.3085548866666667,6
+human,39,king,piece,boss,class,Things that can describe a societal hierarchy position,80.8,70.4,0.32859442666666666,0.3085548866666667,5
+human,39,king,piece,boss,class,Types of chess pieces,28.166666666666664,56.857142857142854,0.32859442666666666,0.3085548866666667,7
+human,39,king,piece,boss,class,cake,36.666666666666664,16,0.32859442666666666,0.3085548866666667,3
+human,39,king,piece,boss,class,chess,64.42857142857143,33.94117647058823,0.32859442666666666,0.3085548866666667,21
+human,39,king,piece,boss,class,hierarchal roles,77.75,59,0.32859442666666666,0.3085548866666667,4
+human,39,king,piece,boss,class,things involved in a desk job,28.5,60.25,0.32859442666666666,0.3085548866666667,4
+human,39,king,piece,boss,class,words that represent sizes,66.33333333333333,53.2,0.32859442666666666,0.3085548866666667,5
+human,40,killer,surprise,space,idiot,Catching a killer,33.666666666666664,39.333333333333336,0.30888193833333333,0.27026959333333334,3
+human,40,killer,surprise,space,idiot,Describe traits in a Horror movie,74.5,65.75,0.30888193833333333,0.27026959333333334,4
+human,40,killer,surprise,space,idiot,Party,35.5,15.8,0.30888193833333333,0.27026959333333334,6
+human,40,killer,surprise,space,idiot,Star wars,67.75,38.666666666666664,0.30888193833333333,0.27026959333333334,4
+human,40,killer,surprise,space,idiot,The movie scream,48.5,62,0.30888193833333333,0.27026959333333334,4
+human,40,killer,surprise,space,idiot,dumb,24,11,0.30888193833333333,0.27026959333333334,2
+human,40,killer,surprise,space,idiot,main plots of movies,75.83333333333333,45.666666666666664,0.30888193833333333,0.27026959333333334,6
+human,40,killer,surprise,space,idiot,true crime,42.5,53.75,0.30888193833333333,0.27026959333333334,4
+human,40,killer,surprise,space,idiot,true crime youtube videos,58,60.714285714285715,0.30888193833333333,0.27026959333333334,7
+human,40,killer,surprise,space,idiot,words that can precede plot,54.8,59,0.30888193833333333,0.27026959333333334,5
+human,41,neck,arm,hat,computer,Compound nouns,44.5,47.5,0.38704659,0.31874317,4
+human,41,neck,arm,hat,computer,Parts of the body,47.5,49.666666666666664,0.38704659,0.31874317,7
+human,41,neck,arm,hat,computer,Robot with hat,55.833333333333336,47.5,0.38704659,0.31874317,6
+human,41,neck,arm,hat,computer,Super hacking,35.42857142857143,49.42857142857143,0.38704659,0.31874317,8
+human,41,neck,arm,hat,computer,Things an interns hand might touch,66,63.333333333333336,0.38704659,0.31874317,3
+human,41,neck,arm,hat,computer,symbols,49,25,0.38704659,0.31874317,4
+human,41,neck,arm,hat,computer,things involved in a construction job,67.2,49.4,0.38704659,0.31874317,5
+human,41,neck,arm,hat,computer,useful instruments,69.66666666666667,47.333333333333336,0.38704659,0.31874317,3
+human,41,neck,arm,hat,computer,words that can form a phrase with pin,40.5,77,0.38704659,0.31874317,4
+human,41,neck,arm,hat,computer,working,47.666666666666664,39,0.38704659,0.31874317,3
+human,42,stage,board,shop,camp,Boardwalk Town,50.166666666666664,43.5,0.370943765,0.35492965666666665,6
+human,42,stage,board,shop,camp,Family's vacation,38.5,20,0.370943765,0.35492965666666665,4
+human,42,stage,board,shop,camp,Preparing for sleep away camp,60.75,63.25,0.370943765,0.35492965666666665,4
+human,42,stage,board,shop,camp,Things to find at an amusement park,53,56.4,0.370943765,0.35492965666666665,5
+human,42,stage,board,shop,camp,Things you might see in a Camp Rock movie,64.5,86,0.370943765,0.35492965666666665,2
+human,42,stage,board,shop,camp,cruise,59,18,0.370943765,0.35492965666666665,2
+human,42,stage,board,shop,camp,frightening,77,NA,0.370943765,0.35492965666666665,2
+human,42,stage,board,shop,camp,mall,39.666666666666664,24.666666666666664,0.370943765,0.35492965666666665,9
+human,42,stage,board,shop,camp,places/things involving kids,55.75,38.25,0.370943765,0.35492965666666665,4
+human,42,stage,board,shop,camp,stuff at a camping shop,56.5,38,0.370943765,0.35492965666666665,2
+human,42,stage,board,shop,camp,words used by theater kids,57,67,0.370943765,0.35492965666666665,4
+human,43,truck,list,store,star,Christmas,60.75,33.5,0.3433160433333333,0.31556959,4
+human,43,truck,list,store,star,Shopping,30.666666666666668,44.666666666666664,0.3433160433333333,0.31556959,3
+human,43,truck,list,store,star,Things that can appear during a grocery pickup,67.25,65,0.3433160433333333,0.31556959,4
+human,43,truck,list,store,star,Things that need to be bought eat the store for a truck,41.4,59.666666666666664,0.3433160433333333,0.31556959,6
+human,43,truck,list,store,star,Walmart,68.8,39,0.3433160433333333,0.31556959,5
+human,43,truck,list,store,star,Words that are both nouns and verbs,47.2,68,0.3433160433333333,0.31556959,6
+human,43,truck,list,store,star,bullets,32.25,42.25,0.3433160433333333,0.31556959,4
+human,43,truck,list,store,star,concepts involved during christmas time,61,55,0.3433160433333333,0.31556959,6
+human,43,truck,list,store,star,gas station,52.5,32,0.3433160433333333,0.31556959,6
+human,43,truck,list,store,star,shopping for Christmas gifts for kids,81.57142857142857,60.42857142857143,0.3433160433333333,0.31556959,7
+human,43,truck,list,store,star,words that can form titles with wars,52.4,70.6,0.3433160433333333,0.31556959,5
+human,43,truck,list,store,star,world,61.6,12.5,0.3433160433333333,0.31556959,5
+human,44,area,top,report,ride,Amusement park review,79,51.4,0.30757176999999997,0.28059221333333334,5
+human,44,area,top,report,ride,Disney Land,51,37,0.30757176999999997,0.28059221333333334,3
+human,44,area,top,report,ride,SixFlags,45.5,32,0.30757176999999997,0.28059221333333334,2
+human,44,area,top,report,ride,Things that describe the process of a roller coaster ride,48.5,59,0.30757176999999997,0.28059221333333334,4
+human,44,area,top,report,ride,Words related to location,79,50,0.30757176999999997,0.28059221333333334,1
+human,44,area,top,report,ride,airport,30.5,14,0.30757176999999997,0.28059221333333334,2
+human,44,area,top,report,ride,police,59.666666666666664,5.5,0.30757176999999997,0.28059221333333334,3
+human,44,area,top,report,ride,police helicopter,64,53.333333333333336,0.30757176999999997,0.28059221333333334,3
+human,44,area,top,report,ride,region,29.5,21,0.30757176999999997,0.28059221333333334,2
+human,44,area,top,report,ride,terms used to highlight importance,34.833333333333336,51,0.30757176999999997,0.28059221333333334,6
+human,44,area,top,report,ride,things involved in a police's work,67.5,53.5,0.30757176999999997,0.28059221333333334,4
+human,44,area,top,report,ride,words you might hear on the news,75.75,56,0.30757176999999997,0.28059221333333334,4
+human,45,cell,queen,glass,teacher,A baddie teacher going to get coffee before work,61.4,85.4,0.32363242,0.29930151,5
+human,45,cell,queen,glass,teacher,"In Prison, what do they usually have?",44.166666666666664,55,0.32363242,0.29930151,6
+human,45,cell,queen,glass,teacher,School,29.8,27.333333333333336,0.32363242,0.29930151,10
+human,45,cell,queen,glass,teacher,biology class,51.5,54,0.32363242,0.29930151,6
+human,45,cell,queen,glass,teacher,container,31.6,20.6,0.32363242,0.29930151,5
+human,45,cell,queen,glass,teacher,middle school biology lab,54,67.66666666666667,0.32363242,0.29930151,6
+human,45,cell,queen,glass,teacher,royals,39,56,0.32363242,0.29930151,1
+human,45,cell,queen,glass,teacher,school,41.8,19.5,0.32363242,0.29930151,5
+human,45,cell,queen,glass,teacher,things that all represent some sort of power,49.5,64.5,0.32363242,0.29930151,5
+human,45,cell,queen,glass,teacher,words that can be paired with class,42.5,51.333333333333336,0.32363242,0.29930151,4
+human,45,cell,queen,glass,teacher,words that can refer to people/things,64,14,0.32363242,0.29930151,4
+human,46,brain,beer,fish,ice,Cooler you take home after fishing,63.666666666666664,84,0.41747281333333336,0.3743292166666667,7
+human,46,brain,beer,fish,ice,Fishing in the summer,87,80,0.41747281333333336,0.3743292166666667,2
+human,46,brain,beer,fish,ice,Things that can be cold/wet,63.833333333333336,30.6,0.41747281333333336,0.3743292166666667,6
+human,46,brain,beer,fish,ice,Things that can be consumed dueing an ice fishing trip,33,67.8,0.41747281333333336,0.3743292166666667,5
+human,46,brain,beer,fish,ice,Things that don't need to be pluralized,56.5,43.5,0.41747281333333336,0.3743292166666667,4
+human,46,brain,beer,fish,ice,Things you store in the cold,76.66666666666667,52.666666666666664,0.41747281333333336,0.3743292166666667,3
+human,46,brain,beer,fish,ice,things that would be present at a cookout,55.333333333333336,66.16666666666667,0.41747281333333336,0.3743292166666667,6
+human,46,brain,beer,fish,ice,water,73.75,24.5,0.41747281333333336,0.3743292166666667,4
+human,46,brain,beer,fish,ice,wisconsin,79.66666666666667,34,0.41747281333333336,0.3743292166666667,3
+human,46,brain,beer,fish,ice,words that can go with bucker,56,69.25,0.41747281333333336,0.3743292166666667,4
+human,47,blade,rocket,patch,robot,Elon Musk SpaceX,62.25,32.5,0.3697176,0.34838620333333337,4
+human,47,blade,rocket,patch,robot,Engineering,58.5,10.8,0.3697176,0.34838620333333337,6
+human,47,blade,rocket,patch,robot,Things that might appear during a sci-fi movie,79.25,71.625,0.3697176,0.34838620333333337,8
+human,47,blade,rocket,patch,robot,Things you would find in a video game,72.5,53.75,0.3697176,0.34838620333333337,4
+human,47,blade,rocket,patch,robot,Words the could end in man,59,52.142857142857146,0.3697176,0.34838620333333337,7
+human,47,blade,rocket,patch,robot,ai,48.142857142857146,20.2,0.3697176,0.34838620333333337,7
+human,47,blade,rocket,patch,robot,launch,60,40.666666666666664,0.3697176,0.34838620333333337,3
+human,47,blade,rocket,patch,robot,robotics class,74,49,0.3697176,0.34838620333333337,1
+human,47,blade,rocket,patch,robot,stuff at robot fighting,66,46.75,0.3697176,0.34838620333333337,4
+human,47,blade,rocket,patch,robot,technological tools or gadgets,69,43.666666666666664,0.3697176,0.34838620333333337,3
+human,47,blade,rocket,patch,robot,technology,53.333333333333336,5,0.3697176,0.34838620333333337,3
+human,47,blade,rocket,patch,robot,things that could cause hurt or involve hurt themselves,62.333333333333336,71.5,0.3697176,0.34838620333333337,6
+human,48,ship,horse,tv,clothes,Bojack horseman,57.666666666666664,36,0.3378911633333333,0.32435816666666667,6
+human,48,ship,horse,tv,clothes,Things a child might like,89.16666666666667,40.6,0.3378911633333333,0.32435816666666667,7
+human,48,ship,horse,tv,clothes,Things that can be seen in a shoreside horse race,56,60.5,0.3378911633333333,0.32435816666666667,2
+human,48,ship,horse,tv,clothes,Words that could end in line,24.333333333333332,53.333333333333336,0.3378911633333333,0.32435816666666667,4
+human,48,ship,horse,tv,clothes,bojack horseman,66.8,51.8,0.3378911633333333,0.32435816666666667,5
+human,48,ship,horse,tv,clothes,little house on the praire,53,56.333333333333336,0.3378911633333333,0.32435816666666667,3
+human,48,ship,horse,tv,clothes,movie about the Columbian exchange,65.5,82.83333333333333,0.3378911633333333,0.32435816666666667,6
+human,48,ship,horse,tv,clothes,netflix,51,34,0.3378911633333333,0.32435816666666667,3
+human,48,ship,horse,tv,clothes,screen,47.666666666666664,25.4,0.3378911633333333,0.32435816666666667,6
+human,48,ship,horse,tv,clothes,things people own,53.25,15,0.3378911633333333,0.32435816666666667,4
+human,48,ship,horse,tv,clothes,things that can all be very valuable,74.6,25.75,0.3378911633333333,0.32435816666666667,5
+human,48,ship,horse,tv,clothes,"things with a ""deck""",16.333333333333332,42.5,0.3378911633333333,0.32435816666666667,6
+human,48,ship,horse,tv,clothes,words that go with box,40.5,51.25,0.3378911633333333,0.32435816666666667,4
+human,49,bird,rain,cake,chest,All can be present on an outdoor event like a celebration like birthday,68.8,76.2,0.3306214766666667,0.29650717,5
+human,49,bird,rain,cake,chest,Movie,42.5,1,0.3306214766666667,0.29650717,3
+human,49,bird,rain,cake,chest,Things a bird wants while hungry and thirsty and cold,24.5,82.625,0.3306214766666667,0.29650717,9
+human,49,bird,rain,cake,chest,Things found in Minecraft video games.,86.57142857142857,70.42857142857143,0.3306214766666667,0.29650717,7
+human,49,bird,rain,cake,chest,Things that can rise,56.5,59,0.3306214766666667,0.29650717,2
+human,49,bird,rain,cake,chest,Things you find in nature,32.4,53,0.3306214766666667,0.29650717,5
+human,49,bird,rain,cake,chest,Things you might associate with kids birthday parties,14,71,0.3306214766666667,0.29650717,2
+human,49,bird,rain,cake,chest,What a person sees on a rainy wedding day,39,64.6,0.3306214766666667,0.29650717,5
+human,49,bird,rain,cake,chest,"a moment that someone is waiting for the ordered cake in a bakery named ""Chest"" in a rainy day and watching a bird outside",64.6,60.2,0.3306214766666667,0.29650717,5
+human,49,bird,rain,cake,chest,crevis,16,47,0.3306214766666667,0.29650717,2
+human,49,bird,rain,cake,chest,types of baked goods,41.8,44.666666666666664,0.3306214766666667,0.29650717,6
+human,50,spot,client,pal,north,All of these have to do with Christmas.,40.5,77,0.3152758983333333,0.2909189366666667,2
+human,50,spot,client,pal,north,Different locations,32,17,0.3152758983333333,0.2909189366666667,2
+human,50,spot,client,pal,north,Location,41.4,9,0.3152758983333333,0.2909189366666667,5
+human,50,spot,client,pal,north,Showing an apartment as a realtor,51,64,0.3152758983333333,0.2909189366666667,4
+human,50,spot,client,pal,north,Things associated with Santa and his elves,46.25,47.333333333333336,0.3152758983333333,0.2909189366666667,4
+human,50,spot,client,pal,north,"Things can be found in the movie ""Stand by Me""",50,74.5,0.3152758983333333,0.2909189366666667,2
+human,50,spot,client,pal,north,Ways to relate places or people,66,20,0.3152758983333333,0.2909189366666667,2
+human,50,spot,client,pal,north,Words associated with maps,31.125,49.75,0.3152758983333333,0.2909189366666667,8
+human,50,spot,client,pal,north,antarctica,32,21,0.3152758983333333,0.2909189366666667,6
+human,50,spot,client,pal,north,going up ...,38.833333333333336,27,0.3152758983333333,0.2909189366666667,6
+human,50,spot,client,pal,north,hockey salesman,26.5,36,0.3152758983333333,0.2909189366666667,2
+human,50,spot,client,pal,north,"things can be come after ""best""",57.6,40.8,0.3152758983333333,0.2909189366666667,5
+human,51,machine,gift,cash,land,All of these have to do with casinos.,70.25,57.75,0.39778114499999995,0.36299937333333326,4
+human,51,machine,gift,cash,land,Items on a Christmas list,17.5,51,0.39778114499999995,0.36299937333333326,2
+human,51,machine,gift,cash,land,Stuff you can give to someone as a present,54.6,50.2,0.39778114499999995,0.36299937333333326,5
+human,51,machine,gift,cash,land,Things that can be found in a handicraft shop,60,71,0.39778114499999995,0.36299937333333326,3
+human,51,machine,gift,cash,land,Things that we can exchange for money,81.16666666666667,56.833333333333336,0.39778114499999995,0.36299937333333326,6
+human,51,machine,gift,cash,land,Value,80.33333333333333,35,0.39778114499999995,0.36299937333333326,3
+human,51,machine,gift,cash,land,Ways to get rich,69,66.75,0.39778114499999995,0.36299937333333326,4
+human,51,machine,gift,cash,land,a casino,66,55,0.39778114499999995,0.36299937333333326,1
+human,51,machine,gift,cash,land,gifts,56.75,6.666666666666667,0.39778114499999995,0.36299937333333326,4
+human,51,machine,gift,cash,land,terms you might find/relate to native american territories,68.66666666666667,54.4,0.39778114499999995,0.36299937333333326,5
+human,52,horn,basketball,chick,flower,All of these can be seen close to a basketball court in NYC.,49.666666666666664,81.83333333333333,0.387982925,0.3582900466666667,6
+human,52,horn,basketball,chick,flower,Items you could find on a garage table.,43.875,68.85714285714286,0.387982925,0.3582900466666667,8
+human,52,horn,basketball,chick,flower,Outside,65.42857142857143,25,0.387982925,0.3582900466666667,7
+human,52,horn,basketball,chick,flower,The sights and sounds of spring,55.25,70,0.387982925,0.3582900466666667,4
+human,52,horn,basketball,chick,flower,Things that have a round shape,73.66666666666667,30.333333333333336,0.387982925,0.3582900466666667,3
+human,52,horn,basketball,chick,flower,Things you can find in a farm themed event,55.142857142857146,65.14285714285714,0.387982925,0.3582900466666667,7
+human,52,horn,basketball,chick,flower,Words that can follow baby,38.666666666666664,52.5,0.387982925,0.3582900466666667,3
+human,52,horn,basketball,chick,flower,high school musical,41.333333333333336,71,0.387982925,0.3582900466666667,3
+human,52,horn,basketball,chick,flower,loud,40.25,4.333333333333333,0.387982925,0.3582900466666667,4
+human,52,horn,basketball,chick,flower,reminds me of Spring,65.75,55,0.387982925,0.3582900466666667,4
+human,52,horn,basketball,chick,flower,something that has a long part,42,33.6,0.387982925,0.3582900466666667,6
+human,52,horn,basketball,chick,flower,things can be found on a farm,47.75,30.75,0.387982925,0.3582900466666667,4
+human,53,football,bullet,soldier,crowd,The story of Forrest Gump,76.66666666666667,65.66666666666667,0.32745246833333336,0.3032240133333333,3
+human,53,football,bullet,soldier,crowd,Things may be found at school,31,47.42857142857143,0.32745246833333336,0.3032240133333333,7
+human,53,football,bullet,soldier,crowd,Things that come in large amounts.,50.8,33,0.32745246833333336,0.3032240133333333,5
+human,53,football,bullet,soldier,crowd,Things you might see at a football game,33,74.66666666666667,0.32745246833333336,0.3032240133333333,3
+human,53,football,bullet,soldier,crowd,WWII when they ceased fire for one day on christmas and played games with each other,62.75,97,0.32745246833333336,0.3032240133333333,4
+human,53,football,bullet,soldier,crowd,War and sports,99.4,45.6,0.32745246833333336,0.3032240133333333,5
+human,53,football,bullet,soldier,crowd,Words that can follow line,45.333333333333336,44.5,0.32745246833333336,0.3032240133333333,9
+human,53,football,bullet,soldier,crowd,bootcamp,55,46,0.32745246833333336,0.3032240133333333,3
+human,53,football,bullet,soldier,crowd,has do do with America,87.83333333333333,48.5,0.32745246833333336,0.3032240133333333,6
+human,53,football,bullet,soldier,crowd,offensive line coach giving motivation,74,52,0.32745246833333336,0.3032240133333333,2
+human,53,football,bullet,soldier,crowd,preparation of participating in a football game in military,68.2,68,0.32745246833333336,0.3032240133333333,5
+human,53,football,bullet,soldier,crowd,words that huddle,52.6,49.4,0.32745246833333336,0.3032240133333333,5
+human,54,rose,bike,button,dollar,All of these can be used on a mountain.,41.666666666666664,61.333333333333336,0.28116958833333333,0.2692338733333333,3
+human,54,rose,bike,button,dollar,Homecoming week in an 80s romcom,55,47,0.28116958833333333,0.2692338733333333,4
+human,54,rose,bike,button,dollar,Stuff you can find on sale,70,50,0.28116958833333333,0.2692338733333333,7
+human,54,rose,bike,button,dollar,Things a man may bring when proposing a woman 40 years ago,66,67.2,0.28116958833333333,0.2692338733333333,5
+human,54,rose,bike,button,dollar,Things associated with love stories,28.166666666666668,42,0.28116958833333333,0.2692338733333333,7
+human,54,rose,bike,button,dollar,Things that can be modified or decorated,57.333333333333336,43.166666666666664,0.28116958833333333,0.2692338733333333,6
+human,54,rose,bike,button,dollar,Things you can find on the side of the street in a garage sale.,40,98,0.28116958833333333,0.2692338733333333,1
+human,54,rose,bike,button,dollar,badges,22,29,0.28116958833333333,0.2692338733333333,1
+human,54,rose,bike,button,dollar,outside,42.666666666666664,24,0.28116958833333333,0.2692338733333333,3
+human,54,rose,bike,button,dollar,petals,57.42857142857143,52.333333333333336,0.28116958833333333,0.2692338733333333,7
+human,54,rose,bike,button,dollar,the moment the winner was declared on the final broadcast of the talent show,49.666666666666664,83,0.28116958833333333,0.2692338733333333,3
+human,55,photo,stairs,university,belt,... escalator,31.25,31.333333333333336,0.26825884333333333,0.25255632,4
+human,55,photo,stairs,university,belt,All found on a college campus.,82.25,42.25,0.26825884333333333,0.25255632,4
+human,55,photo,stairs,university,belt,Degree,33.25,20,0.26825884333333333,0.25255632,4
+human,55,photo,stairs,university,belt,Things can be found in a university library,58,52.75,0.26825884333333333,0.25255632,4
+human,55,photo,stairs,university,belt,Things you can lose,29.25,44.5,0.26825884333333333,0.25255632,4
+human,55,photo,stairs,university,belt,Things you might associate with a career fair,29,61,0.26825884333333333,0.25255632,1
+human,55,photo,stairs,university,belt,Things you need in the university,29.833333333333332,41.333333333333336,0.26825884333333333,0.25255632,7
+human,55,photo,stairs,university,belt,Things you see at college everyday,67.71428571428571,52.333333333333336,0.26825884333333333,0.25255632,7
+human,55,photo,stairs,university,belt,Words a college student thinks every day,66.5,64.5,0.26825884333333333,0.25255632,2
+human,55,photo,stairs,university,belt,formal,46,23.25,0.26825884333333333,0.25255632,5
+human,55,photo,stairs,university,belt,things seen in graduation photos,71.33333333333333,51,0.26825884333333333,0.25255632,3
+human,56,ear,radar,senator,jacket,All of these are necessary on a boat.,37.5,69.5,0.27985942999999996,0.21321593333333333,5
+human,56,ear,radar,senator,jacket,Congress voting on something in the cold weather,41.25,74.71428571428571,0.27985942999999996,0.21321593333333333,8
+human,56,ear,radar,senator,jacket,Police,53.5,50.5,0.27985942999999996,0.21321593333333333,2
+human,56,ear,radar,senator,jacket,Things an FBI agent uses daily,79.2,80.2,0.27985942999999996,0.21321593333333333,5
+human,56,ear,radar,senator,jacket,Things that can signal or indicate,61.42857142857143,44.142857142857146,0.27985942999999996,0.21321593333333333,7
+human,56,ear,radar,senator,jacket,Things that have multiple parts to them,84.5,52.857142857142854,0.27985942999999996,0.21321593333333333,9
+human,56,ear,radar,senator,jacket,Things that you might find in a movie set in cold weather,46,70,0.27985942999999996,0.21321593333333333,3
+human,56,ear,radar,senator,jacket,Things we can hear.,47.5,31.2,0.27985942999999996,0.21321593333333333,6
+human,56,ear,radar,senator,jacket,cold weather,38.25,35,0.27985942999999996,0.21321593333333333,4
+human,56,ear,radar,senator,jacket,in the photo's of the senators' guards,53,83,0.27985942999999996,0.21321593333333333,1
+human,56,ear,radar,senator,jacket,things can be found in a secret office,52.57142857142857,47.714285714285715,0.27985942999999996,0.21321593333333333,7
+human,57,suit,beach,tea,arms,Having a meeting at the beach and taking tea,80.5,81.5,0.30705656500000006,0.2993680033333333,2
+human,57,suit,beach,tea,arms,Hot,63,8.6,0.30705656500000006,0.2993680033333333,7
+human,57,suit,beach,tea,arms,Items associated with the beach.,63.5,47.75,0.30705656500000006,0.2993680033333333,4
+human,57,suit,beach,tea,arms,Spending the day at the beach,74.4,57.2,0.30705656500000006,0.2993680033333333,5
+human,57,suit,beach,tea,arms,The beaches of Southern France,71.5,67,0.30705656500000006,0.2993680033333333,2
+human,57,suit,beach,tea,arms,Things can be easily seen at the beach,66.5,45.666666666666664,0.30705656500000006,0.2993680033333333,3
+human,57,suit,beach,tea,arms,Things you use on beach vacation,68,61.25,0.30705656500000006,0.2993680033333333,4
+human,57,suit,beach,tea,arms,Words that can follow band,47,38.4,0.30705656500000006,0.2993680033333333,5
+human,57,suit,beach,tea,arms,day at the beach,42.5,40.5,0.30705656500000006,0.2993680033333333,4
+human,57,suit,beach,tea,arms,took her to 0,37,55.666666666666664,0.30705656500000006,0.2993680033333333,6
+human,57,suit,beach,tea,arms,vacation,54.5,21,0.30705656500000006,0.2993680033333333,4
+human,57,suit,beach,tea,arms,when getting a tan by the sea,73,78,0.30705656500000006,0.2993680033333333,2
+human,58,station,record,girlfriend,cop,Circumstances of an interrogation,60.666666666666664,58.5,0.3567498283333334,0.31229151,6
+human,58,station,record,girlfriend,cop,Elements of a crime,91.5,72.5,0.3567498283333334,0.31229151,2
+human,58,station,record,girlfriend,cop,Ideas that have to due with illegal activities and jail.,48.375,64.625,0.3567498283333334,0.31229151,8
+human,58,station,record,girlfriend,cop,Law,34.333333333333336,17.5,0.3567498283333334,0.31229151,3
+human,58,station,record,girlfriend,cop,Listening to the radio on crime in the area while on a date,76.25,91,0.3567498283333334,0.31229151,4
+human,58,station,record,girlfriend,cop,Things around a bus stop,43,42.5,0.3567498283333334,0.31229151,2
+human,58,station,record,girlfriend,cop,Things that might be involved when getting in trouble with the cops,73,71,0.3567498283333334,0.31229151,5
+human,58,station,record,girlfriend,cop,Words that can follow police,56.4,36.8,0.3567498283333334,0.31229151,5
+human,58,station,record,girlfriend,cop,connections,38.25,34.333333333333336,0.3567498283333334,0.31229151,4
+human,58,station,record,girlfriend,cop,police show,70.66666666666667,36.333333333333336,0.3567498283333334,0.31229151,6
+human,58,station,record,girlfriend,cop,reasons you might be in prison,61.5,51.75,0.3567498283333334,0.31229151,4
+human,59,pants,hole,sea,river,All of these would be seen with the word black beforehand.,80,87,0.38127169999999994,0.3136530833333333,1
+human,59,pants,hole,sea,river,Forest,34,NA,0.38127169999999994,0.3136530833333333,2
+human,59,pants,hole,sea,river,The favorite things of an old fisherman,80,61,0.38127169999999994,0.3136530833333333,4
+human,59,pants,hole,sea,river,Things associated with fishing,73.16666666666667,58.5,0.38127169999999994,0.3136530833333333,6
+human,59,pants,hole,sea,river,Things that can be easily found at the junction of the river and the sea,39,65.33333333333333,0.38127169999999994,0.3136530833333333,3
+human,59,pants,hole,sea,river,Things you might find when spending the day on the lake,55.6,61.4,0.38127169999999994,0.3136530833333333,5
+human,59,pants,hole,sea,river,What sailors have or seen,65.2,41.25,0.38127169999999994,0.3136530833333333,5
+human,59,pants,hole,sea,river,Words that are associated with fish,62.75,40.8,0.38127169999999994,0.3136530833333333,5
+human,59,pants,hole,sea,river,association with hiking,70.8,46.4,0.38127169999999994,0.3136530833333333,5
+human,59,pants,hole,sea,river,boating expedition,60.2,28.6,0.38127169999999994,0.3136530833333333,5
+human,59,pants,hole,sea,river,shore,24.8,11.25,0.38127169999999994,0.3136530833333333,5
+human,59,pants,hole,sea,river,spongebob,84.8,56.2,0.38127169999999994,0.3136530833333333,5
+human,60,pardon,condition,shame,health,Emotions of a person who confesses their sins,43.833333333333336,72.66666666666667,0.34772652666666665,0.31700334,6
+human,60,pardon,condition,shame,health,Hospital,25,7,0.34772652666666665,0.31700334,1
+human,60,pardon,condition,shame,health,Illness,47.6,29.8,0.34772652666666665,0.31700334,5
+human,60,pardon,condition,shame,health,Subjects of public stigma or public discussion,63.333333333333336,58,0.34772652666666665,0.31700334,3
+human,60,pardon,condition,shame,health,These are all ideas that would commonly be talked about in a hospital.,84.33333333333333,75,0.34772652666666665,0.31700334,3
+human,60,pardon,condition,shame,health,What someone may go through during later years in their life,86.4,58.6,0.34772652666666665,0.31700334,5
+human,60,pardon,condition,shame,health,Words that can follow mental,58,52.666666666666664,0.34772652666666665,0.31700334,6
+human,60,pardon,condition,shame,health,Words that may be on the court verdicts,67.66666666666667,69.83333333333333,0.34772652666666665,0.31700334,6
+human,60,pardon,condition,shame,health,care,59.25,5.333333333333333,0.34772652666666665,0.31700334,4
+human,60,pardon,condition,shame,health,doctor's office or a diagnosis,75,85,0.34772652666666665,0.31700334,1
+human,60,pardon,condition,shame,health,people trying to get people to act a certain way,63.5,40.75,0.34772652666666665,0.31700334,4
+human,61,coat,milk,jury,meat,Items that would be considered necessary to most people.,31.555555555555557,45.44444444444444,0.32088408333333335,0.1598271,9
+human,61,coat,milk,jury,meat,Items you might buy shopping,42,68.5,0.32088408333333335,0.1598271,3
+human,61,coat,milk,jury,meat,Process,37.5,11,0.32088408333333335,0.1598271,4
+human,61,coat,milk,jury,meat,Things seen by a person on a trip from court to the store,83.2,78,0.32088408333333335,0.1598271,5
+human,61,coat,milk,jury,meat,Things that can be spoiled/ruined,54.25,42,0.32088408333333335,0.1598271,4
+human,61,coat,milk,jury,meat,Things you might associate with court rooms,35.25,65,0.32088408333333335,0.1598271,5
+human,61,coat,milk,jury,meat,Things you use or participate in at least once,54,37.75,0.32088408333333335,0.1598271,4
+human,61,coat,milk,jury,meat,Words may be found in animal husbandry-related bills,43,66.5,0.32088408333333335,0.1598271,4
+human,61,coat,milk,jury,meat,jail,50.333333333333336,32.5,0.32088408333333335,0.1598271,3
+human,61,coat,milk,jury,meat,jug,31.375,49.4,0.32088408333333335,0.1598271,9
+human,61,coat,milk,jury,meat,murder trial,29.333333333333332,32.42857142857143,0.32088408333333335,0.1598271,7
+human,62,sheriff,foot,prison,wall,All found in a law enforcement place,64.4,56.2,0.31990478333333333,0.28632888666666667,5
+human,62,sheriff,foot,prison,wall,All of these can be found in jail.,80,44.8,0.31990478333333333,0.28632888666666667,5
+human,62,sheriff,foot,prison,wall,Jail,71.66666666666667,27,0.31990478333333333,0.28632888666666667,3
+human,62,sheriff,foot,prison,wall,Someone is getting arrested,83.33333333333333,66.33333333333333,0.31990478333333333,0.28632888666666667,6
+human,62,sheriff,foot,prison,wall,Things can be found in a prison,64.33333333333333,38,0.31990478333333333,0.28632888666666667,3
+human,62,sheriff,foot,prison,wall,Words that can follow head,49.5,65.5,0.31990478333333333,0.28632888666666667,4
+human,62,sheriff,foot,prison,wall,fazed,29.166666666666668,25.8,0.31990478333333333,0.28632888666666667,6
+human,62,sheriff,foot,prison,wall,have to do with jail,75.2,54.2,0.31990478333333333,0.28632888666666667,5
+human,62,sheriff,foot,prison,wall,in a jail,82.11111111111111,32.625,0.31990478333333333,0.28632888666666667,9
+human,62,sheriff,foot,prison,wall,town,66.25,31.166666666666664,0.31990478333333333,0.28632888666666667,8
+human,62,sheriff,foot,prison,wall,western movies,82,45,0.31990478333333333,0.28632888666666667,6
+human,63,glasses,pocket,lake,buck,All of these words have the letter e.,17.6,49,0.29584038333333335,0.2678702866666666,7
+human,63,glasses,pocket,lake,buck,Going to play hockey with your friends,60.75,71,0.29584038333333335,0.2678702866666666,5
+human,63,glasses,pocket,lake,buck,Things a hunter looks for or owns,77.5,57,0.29584038333333335,0.2678702866666666,6
+human,63,glasses,pocket,lake,buck,Things that can be found in up north wisconsin,63,77,0.29584038333333335,0.2678702866666666,2
+human,63,glasses,pocket,lake,buck,Things you're likely to see or have on a lake camp,65,66.4,0.29584038333333335,0.2678702866666666,5
+human,63,glasses,pocket,lake,buck,Trip,42,19.8,0.29584038333333335,0.2678702866666666,6
+human,63,glasses,pocket,lake,buck,fishing,58.625,31.285714285714285,0.29584038333333335,0.2678702866666666,8
+human,63,glasses,pocket,lake,buck,glimmering,35.25,46.666666666666664,0.29584038333333335,0.2678702866666666,4
+human,63,glasses,pocket,lake,buck,wisconsin,39,61.666666666666664,0.29584038333333335,0.2678702866666666,3
+human,63,glasses,pocket,lake,buck,words that can all follow the word eye,26.5,62.333333333333336,0.29584038333333335,0.2678702866666666,6
+human,64,gate,mail,chocolate,shoe,Items that are likely found the average American home.,70,78,0.33249369,0.3149214466666667,7
+human,64,gate,mail,chocolate,shoe,Mailman going around delivering mail,44.25,61.25,0.33249369,0.3149214466666667,4
+human,64,gate,mail,chocolate,shoe,Store,37,36.333333333333336,0.33249369,0.3149214466666667,5
+human,64,gate,mail,chocolate,shoe,The story of Charlie and the Chocolate Factory,73.16666666666667,63.8,0.33249369,0.3149214466666667,6
+human,64,gate,mail,chocolate,shoe,Things a mailman will touch in the morning,50,63.8,0.33249369,0.3149214466666667,5
+human,64,gate,mail,chocolate,shoe,Things in Charlie and the chocolate factory,74.25,80.75,0.33249369,0.3149214466666667,8
+human,64,gate,mail,chocolate,shoe,Things required when picking packages while hungry,44,84.2,0.33249369,0.3149214466666667,5
+human,64,gate,mail,chocolate,shoe,can be found at the doorway,67,83.33333333333333,0.33249369,0.3149214466666667,3
+human,64,gate,mail,chocolate,shoe,lace,22,31.2,0.33249369,0.3149214466666667,6
+human,64,gate,mail,chocolate,shoe,mall entrance,45.5,42,0.33249369,0.3149214466666667,2
+human,64,gate,mail,chocolate,shoe,willy wonka,78,27.333333333333336,0.33249369,0.3149214466666667,4
+human,65,base,project,weather,property,All of these could be seen in an environmental studies class.,72.66666666666667,61,0.37927756166666665,0.32631465666666665,3
+human,65,base,project,weather,property,Place,51.75,4.5,0.37927756166666665,0.32631465666666665,4
+human,65,base,project,weather,property,The thoughts of a construction worker on an average day,84.66666666666667,84.66666666666667,0.37927756166666665,0.32631465666666665,3
+human,65,base,project,weather,property,The weather channel on TV,33,53,0.37927756166666665,0.32631465666666665,3
+human,65,base,project,weather,property,Things that are associated with weather stations.,78.28571428571429,70.57142857142857,0.37927756166666665,0.32631465666666665,7
+human,65,base,project,weather,property,Things that are observed or done during camping,32,41.25,0.37927756166666665,0.32631465666666665,4
+human,65,base,project,weather,property,Tnings that might be destroyed by storms,57.375,55.25,0.37927756166666665,0.32631465666666665,8
+human,65,base,project,weather,property,Words you can hear in a weather report,74.5,69,0.37927756166666665,0.32631465666666665,2
+human,65,base,project,weather,property,construction site,71.75,22.75,0.37927756166666665,0.32631465666666665,4
+human,65,base,project,weather,property,in property management ads,47,52,0.37927756166666665,0.32631465666666665,1
+human,65,base,project,weather,property,things that are mentioned on the weather channel,41.666666666666664,75,0.37927756166666665,0.32631465666666665,3
+human,67,language,freedom,rule,society,Democratic liberal nations,90,67.5,0.3618373816666667,0.33598810666666673,4
+human,67,language,freedom,rule,society,Essences for shaping a community or country,87.2,45.8,0.3618373816666667,0.33598810666666673,5
+human,67,language,freedom,rule,society,Important concepts of politics and sociology,92.66666666666667,58.75,0.3618373816666667,0.33598810666666673,9
+human,67,language,freedom,rule,society,Items associated with politics.,100,48,0.3618373816666667,0.33598810666666673,2
+human,67,language,freedom,rule,society,New things that were found in the 13 colonies,62.333333333333336,77.66666666666667,0.3618373816666667,0.33598810666666673,3
+human,67,language,freedom,rule,society,Topics brought up in court,82.25,64.25,0.3618373816666667,0.33598810666666673,4
+human,67,language,freedom,rule,society,USA,58.75,30.75,0.3618373816666667,0.33598810666666673,4
+human,67,language,freedom,rule,society,government,72.5,15.5,0.3618373816666667,0.33598810666666673,2
+human,67,language,freedom,rule,society,having rights,79.2,46,0.3618373816666667,0.33598810666666673,5
+human,67,language,freedom,rule,society,things that connect people,94.5,61.166666666666664,0.3618373816666667,0.33598810666666673,6
+human,68,telephone,wire,sword,desert,Items seen in an action movie.,78,56.666666666666664,0.33795773166666665,0.30440068666666664,3
+human,68,telephone,wire,sword,desert,They can have a line,35.42857142857143,35.57142857142857,0.33795773166666665,0.30440068666666664,7
+human,68,telephone,wire,sword,desert,Things from the movie Dune,74,54.75,0.33795773166666665,0.30440068666666664,8
+human,68,telephone,wire,sword,desert,Things that can be found in the envirnent,13,49.5,0.33795773166666665,0.30440068666666664,4
+human,68,telephone,wire,sword,desert,Things you might find in an action film,73,61.333333333333336,0.33795773166666665,0.30440068666666664,3
+human,68,telephone,wire,sword,desert,What an RAF pilot utilizes after crashing in Africa,56.5,63.25,0.33795773166666665,0.30440068666666664,4
+human,68,telephone,wire,sword,desert,connects,37,4,0.33795773166666665,0.30440068666666664,1
+human,68,telephone,wire,sword,desert,game,40,36,0.33795773166666665,0.30440068666666664,3
+human,68,telephone,wire,sword,desert,the moment you are watching a old movie on your phone,41.285714285714285,63,0.33795773166666665,0.30440068666666664,9
+human,68,telephone,wire,sword,desert,they go together,34.4,49.5,0.33795773166666665,0.30440068666666664,7
+human,68,telephone,wire,sword,desert,things the taliban uses to kill people,54.57142857142857,61,0.33795773166666665,0.30440068666666664,7
+human,69,gas,test,group,field,Associated with the Holocaust,79.6,76.8,0.37124719,0.32593759333333333,5
+human,69,gas,test,group,field,Project,54,15,0.37124719,0.32593759333333333,2
+human,69,gas,test,group,field,Things associated with school.,46,36,0.37124719,0.32593759333333333,6
+human,69,gas,test,group,field,Things in science,88,44.333333333333336,0.37124719,0.32593759333333333,3
+human,69,gas,test,group,field,Things involved in a research study,52.25,46.25,0.37124719,0.32593759333333333,4
+human,69,gas,test,group,field,Things may be about an exam in physics,82.5,38,0.37124719,0.32593759333333333,4
+human,69,gas,test,group,field,Things that can follow the word blood,39,52,0.37124719,0.32593759333333333,4
+human,69,gas,test,group,field,What car prototype engineers think about in day,50.8,56,0.37124719,0.32593759333333333,5
+human,69,gas,test,group,field,fuel,57,19.5,0.37124719,0.32593759333333333,2
+human,69,gas,test,group,field,in a study setting,48.2,24.6,0.37124719,0.32593759333333333,6
+human,69,gas,test,group,field,random things,84,3.5,0.37124719,0.32593759333333333,3
+human,69,gas,test,group,field,science things,75.8,42,0.37124719,0.32593759333333333,5
+human,71,desk,note,cream,ticket,A free tour of a dairy plant,56,41.2,0.278945815,0.24183363,5
+human,71,desk,note,cream,ticket,Reception desk,58.2,24.2,0.278945815,0.24183363,5
+human,71,desk,note,cream,ticket,Stuff found in a cafe,55,24.666666666666668,0.278945815,0.24183363,3
+human,71,desk,note,cream,ticket,Things that could be found in a bedroom.,52,55.75,0.278945815,0.24183363,4
+human,71,desk,note,cream,ticket,Things you might have in an office,67.625,51.5,0.278945815,0.24183363,8
+human,71,desk,note,cream,ticket,getting pulled over,31,44.4,0.278945815,0.24183363,5
+human,71,desk,note,cream,ticket,notebook doodles,27.142857142857142,40.714285714285715,0.278945815,0.24183363,8
+human,71,desk,note,cream,ticket,school,67.75,16.75,0.278945815,0.24183363,4
+human,71,desk,note,cream,ticket,soda,18.166666666666668,31,0.278945815,0.24183363,8
+human,71,desk,note,cream,ticket,things that can be white,86.5,41.5,0.278945815,0.24183363,2
+human,71,desk,note,cream,ticket,things you may find in a person's bedroom,69.2,47.4,0.278945815,0.24183363,5
+human,72,teeth,bottle,restaurant,hall,All of these have to do with alcohol.,52,49.5,0.297868995,0.23590723333333333,6
+human,72,teeth,bottle,restaurant,hall,Atmosphere creators at a fancy restaurant,53,72.75,0.297868995,0.23590723333333333,4
+human,72,teeth,bottle,restaurant,hall,Bar,61.5,11,0.297868995,0.23590723333333333,6
+human,72,teeth,bottle,restaurant,hall,Physical fight,8.5,39,0.297868995,0.23590723333333333,3
+human,72,teeth,bottle,restaurant,hall,Things talked about at the dentist,45.666666666666664,60.833333333333336,0.297868995,0.23590723333333333,6
+human,72,teeth,bottle,restaurant,hall,Things that can be cleaned,73,47,0.297868995,0.23590723333333333,4
+human,72,teeth,bottle,restaurant,hall,Things you can find in a town,60.6,30.5,0.297868995,0.23590723333333333,5
+human,72,teeth,bottle,restaurant,hall,Things you might find in a cafeteria,50.55555555555556,61.75,0.297868995,0.23590723333333333,9
+human,72,teeth,bottle,restaurant,hall,associating with eating,65,36.333333333333336,0.297868995,0.23590723333333333,3
+human,72,teeth,bottle,restaurant,hall,going to the dentist,27,38.666666666666664,0.297868995,0.23590723333333333,7
+human,72,teeth,bottle,restaurant,hall,service,52.2,39.8,0.297868995,0.23590723333333333,5
+human,73,damage,sale,schedule,divorce,A messy divorce,72.66666666666667,53,0.3018125583333333,0.24656727666666667,3
+human,73,damage,sale,schedule,divorce,All of these would follow an unhappy marriage.,76,78.5,0.3018125583333333,0.24656727666666667,4
+human,73,damage,sale,schedule,divorce,An agreement,61.2,29.8,0.3018125583333333,0.24656727666666667,5
+human,73,damage,sale,schedule,divorce,Effects of divorce,72.2,48.2,0.3018125583333333,0.24656727666666667,5
+human,73,damage,sale,schedule,divorce,Lawyers,75.5,31.333333333333336,0.3018125583333333,0.24656727666666667,4
+human,73,damage,sale,schedule,divorce,Things can be found in a divorce contract,62.2,82,0.3018125583333333,0.24656727666666667,5
+human,73,damage,sale,schedule,divorce,Things that could be planned in advance,61.25,52.5,0.3018125583333333,0.24656727666666667,4
+human,73,damage,sale,schedule,divorce,lawyer,75,37.75,0.3018125583333333,0.24656727666666667,4
+human,73,damage,sale,schedule,divorce,things not common,22.333333333333332,47.666666666666664,0.3018125583333333,0.24656727666666667,3
+human,73,damage,sale,schedule,divorce,things that are bad,29.285714285714285,21.8,0.3018125583333333,0.24656727666666667,7
+human,74,account,subject,winner,vacation,Commonly numerically counted terms,37,76,0.31823930666666667,0.29318288000000003,1
+human,74,account,subject,winner,vacation,Fraud,63.2,38.5,0.31823930666666667,0.29318288000000003,6
+human,74,account,subject,winner,vacation,Game show rewards,70.66666666666667,62.666666666666664,0.31823930666666667,0.29318288000000003,3
+human,74,account,subject,winner,vacation,Summer vacation and at the end the kids get money,24,93,0.31823930666666667,0.29318288000000003,1
+human,74,account,subject,winner,vacation,Things related to winning the lottery,62.8,67.4,0.31823930666666667,0.29318288000000003,5
+human,74,account,subject,winner,vacation,Things that center around a person's goals,67,64,0.31823930666666667,0.29318288000000003,4
+human,74,account,subject,winner,vacation,Things that you can't touch,45.4,59.6,0.31823930666666667,0.29318288000000003,5
+human,74,account,subject,winner,vacation,Things you do after winning the lottery,63.5,55.5,0.31823930666666667,0.29318288000000003,4
+human,74,account,subject,winner,vacation,"come after ""no""",47.166666666666664,31.666666666666664,0.31823930666666667,0.29318288000000003,6
+human,74,account,subject,winner,vacation,lottery,56.6,35.5,0.31823930666666667,0.29318288000000003,5
+human,74,account,subject,winner,vacation,things that someone will get if they win something,79.5,64.5,0.31823930666666667,0.29318288000000003,2
+human,74,account,subject,winner,vacation,things you get a ticket for,44.2,42.666666666666664,0.31823930666666667,0.29318288000000003,6
+human,74,account,subject,winner,vacation,things you to do with winning the lottery,68.66666666666667,64,0.31823930666666667,0.29318288000000003,3
+human,75,pressure,fool,charge,force,Engineering students,60,30.666666666666664,0.3968175166666666,0.28844236666666667,3
+human,75,pressure,fool,charge,force,Something a person can do to another person,94,28,0.3968175166666666,0.28844236666666667,2
+human,75,pressure,fool,charge,force,Things that can stray people away due to intimidation,65.5,75.5,0.3968175166666666,0.28844236666666667,2
+human,75,pressure,fool,charge,force,Things that sole purpose is to apply work to an object,45.4,57.6,0.3968175166666666,0.28844236666666667,5
+human,75,pressure,fool,charge,force,Trying to get into college,51.833333333333336,38.166666666666664,0.3968175166666666,0.28844236666666667,6
+human,75,pressure,fool,charge,force,Words used in sports commentary,65.66666666666667,56.666666666666664,0.3968175166666666,0.28844236666666667,3
+human,75,pressure,fool,charge,force,a drunk person filling a pool and not checking these things,45.333333333333336,89,0.3968175166666666,0.28844236666666667,3
+human,75,pressure,fool,charge,force,government,46.8,17,0.3968175166666666,0.28844236666666667,5
+human,75,pressure,fool,charge,force,physics,71.75,28,0.3968175166666666,0.28844236666666667,4
+human,75,pressure,fool,charge,force,things that coercing,65.25,42,0.3968175166666666,0.28844236666666667,4
+human,75,pressure,fool,charge,force,things that have to do with physics,70.66666666666667,48,0.3968175166666666,0.28844236666666667,3
+human,77,ways,decision,secret,duty,Different paths,73.25,37.666666666666664,0.34285741166666667,0.32696795333333334,4
+human,77,ways,decision,secret,duty,Dilemma,58.666666666666664,12.333333333333334,0.34285741166666667,0.32696795333333334,3
+human,77,ways,decision,secret,duty,Running away,53,42.666666666666664,0.34285741166666667,0.32696795333333334,3
+human,77,ways,decision,secret,duty,Things people can make,52.57142857142857,30.428571428571427,0.34285741166666667,0.32696795333333334,7
+human,77,ways,decision,secret,duty,Things that weigh heavy on people(things they think about a lot),74,91.66666666666667,0.34285741166666667,0.32696795333333334,3
+human,77,ways,decision,secret,duty,Types of routes,19.333333333333332,52,0.34285741166666667,0.32696795333333334,3
+human,77,ways,decision,secret,duty,court,65.5,12.333333333333334,0.34285741166666667,0.32696795333333334,4
+human,77,ways,decision,secret,duty,life,55,27,0.34285741166666667,0.32696795333333334,2
+human,77,ways,decision,secret,duty,things an agent has,52,23.666666666666668,0.34285741166666667,0.32696795333333334,3
+human,77,ways,decision,secret,duty,things needed for a military battle plan,59.5,69.5,0.34285741166666667,0.32696795333333334,2
+human,77,ways,decision,secret,duty,things that someone might have to do,60.4,24.666666666666668,0.34285741166666667,0.32696795333333334,5
+human,77,ways,decision,secret,duty,"things you can ""keep"" to",76,63,0.34285741166666667,0.32696795333333334,4
+human,77,ways,decision,secret,duty,words assosciated with the FBI,71.5,56.333333333333336,0.34285741166666667,0.32696795333333334,6
+human,78,monsieur,tour,demon,season,France,73.4,55.2,0.23584563,0.19965076666666667,5
+human,78,monsieur,tour,demon,season,Monster university,31.2,65.4,0.23584563,0.19965076666666667,5
+human,78,monsieur,tour,demon,season,Things presented in the beauty and the beast,66.8,74,0.23584563,0.19965076666666667,5
+human,78,monsieur,tour,demon,season,Things that seem hard to get/find,23.2,52.8,0.23584563,0.19965076666666667,5
+human,78,monsieur,tour,demon,season,Villain,39,52,0.23584563,0.19965076666666667,3
+human,78,monsieur,tour,demon,season,anime titles,40.5,66.33333333333333,0.23584563,0.19965076666666667,3
+human,78,monsieur,tour,demon,season,french words that can be used in english too,69.25,84.25,0.23584563,0.19965076666666667,4
+human,78,monsieur,tour,demon,season,halloween,70.5,50.5,0.23584563,0.19965076666666667,2
+human,78,monsieur,tour,demon,season,things that can be titles,51.75,32.25,0.23584563,0.19965076666666667,4
+human,78,monsieur,tour,demon,season,things that make a haunted mansion a haunted mansion,37.6,82.25,0.23584563,0.19965076666666667,5
+human,78,monsieur,tour,demon,season,things you would see at a museum,56.666666666666664,78.5,0.23584563,0.19965076666666667,4
+human,78,monsieur,tour,demon,season,words with French origins,69.66666666666667,63.666666666666664,0.23584563,0.19965076666666667,3
+human,79,church,key,tree,tape,Christmas,41,29.5,0.2904838083333333,0.2759212066666667,3
+human,79,church,key,tree,tape,Jesus,66.33333333333333,41,0.2904838083333333,0.2759212066666667,3
+human,79,church,key,tree,tape,Things that are common symbols of strength,56,55,0.2904838083333333,0.2759212066666667,5
+human,79,church,key,tree,tape,has a connection to life,37.8,36.6,0.2904838083333333,0.2759212066666667,5
+human,79,church,key,tree,tape,items that are usually earth-tones colors,82.33333333333333,65.33333333333333,0.2904838083333333,0.2759212066666667,3
+human,79,church,key,tree,tape,items that involve the joining of one thing to another,51.3,67.6,0.2904838083333333,0.2759212066666667,10
+human,79,church,key,tree,tape,life,65.25,28,0.2904838083333333,0.2759212066666667,4
+human,79,church,key,tree,tape,rings,58,26,0.2904838083333333,0.2759212066666667,2
+human,79,church,key,tree,tape,things a Christian would have.,17.666666666666668,59,0.2904838083333333,0.2759212066666667,3
+human,79,church,key,tree,tape,things old southern connotated,41,55.8,0.2904838083333333,0.2759212066666667,5
+human,80,breath,chair,sky,drug,Drugs names,25,41,0.29325844166666665,0.2646227333333333,4
+human,80,breath,chair,sky,drug,Rollercoaster,56.666666666666664,10,0.29325844166666665,0.2646227333333333,4
+human,80,breath,chair,sky,drug,Things that may be observed in a person's hospital room,54.5,71,0.29325844166666665,0.2646227333333333,2
+human,80,breath,chair,sky,drug,Wind can be used,31.5,44.8,0.29325844166666665,0.2646227333333333,6
+human,80,breath,chair,sky,drug,all nouns,74.33333333333333,33.4,0.29325844166666665,0.2646227333333333,6
+human,80,breath,chair,sky,drug,breaking bad,48.6,45.8,0.29325844166666665,0.2646227333333333,5
+human,80,breath,chair,sky,drug,involve air,37.57142857142857,58.166666666666664,0.29325844166666665,0.2646227333333333,7
+human,80,breath,chair,sky,drug,smoking a cigar in the backyard and you have.,75.33333333333333,83.16666666666667,0.29325844166666665,0.2646227333333333,6
+human,80,breath,chair,sky,drug,things that are refreshing,14,17,0.29325844166666665,0.2646227333333333,1
+human,80,breath,chair,sky,drug,things that can cause hallucinations,26.25,71.66666666666667,0.29325844166666665,0.2646227333333333,4
+human,80,breath,chair,sky,drug,tools people use to relax themselves,56.75,46.75,0.29325844166666665,0.2646227333333333,4
+human,81,fairy,trail,suite,spy,A mission impossible movie gone wrong,33,67,0.3591029383333333,0.33908055,2
+human,81,fairy,trail,suite,spy,Details in a story,56,65.5,0.3591029383333333,0.33908055,2
+human,81,fairy,trail,suite,spy,Things that might appear in a child's fantasy book,68.75,65.75,0.3591029383333333,0.33908055,4
+human,81,fairy,trail,suite,spy,Things we were told about when we were little,49.4,48.4,0.3591029383333333,0.33908055,5
+human,81,fairy,trail,suite,spy,followed by dust,49.4,69.6,0.3591029383333333,0.33908055,5
+human,81,fairy,trail,suite,spy,halloween,62.6,16.6,0.3591029383333333,0.33908055,5
+human,81,fairy,trail,suite,spy,looking for a rat in government,56.8,67,0.3591029383333333,0.33908055,5
+human,81,fairy,trail,suite,spy,men in black,37,76.66666666666667,0.3591029383333333,0.33908055,3
+human,81,fairy,trail,suite,spy,things in the wicked movie,81.5,65,0.3591029383333333,0.33908055,2
+human,81,fairy,trail,suite,spy,things that can go high up above,54.5,49,0.3591029383333333,0.33908055,4
+human,81,fairy,trail,suite,spy,things that could be in a fairytale,53.666666666666664,57.666666666666664,0.3591029383333333,0.33908055,3
+human,81,fairy,trail,suite,spy,tropes in fantasy media,75,75,0.3591029383333333,0.33908055,1
+human,81,fairy,trail,suite,spy,types of stories,50.285714285714285,49.42857142857143,0.3591029383333333,0.33908055,7
+human,81,fairy,trail,suite,spy,words to describe music,23,35,0.3591029383333333,0.33908055,3
+human,82,flag,locker,actress,tube,High school football game,49.75,58.25,0.24307741333333333,0.19660024,4
+human,82,flag,locker,actress,tube,Things found in a sports advertisement,66.33333333333333,62,0.24307741333333333,0.19660024,3
+human,82,flag,locker,actress,tube,Things that can be multiple colors,56.4,36,0.24307741333333333,0.19660024,5
+human,82,flag,locker,actress,tube,"all involve metal cylinder (locking system, microphone, pole, metal tube)",82.2,69.2,0.24307741333333333,0.19660024,5
+human,82,flag,locker,actress,tube,all paired with star,40,34.2,0.24307741333333333,0.19660024,5
+human,82,flag,locker,actress,tube,gay,39.4,46.25,0.24307741333333333,0.19660024,5
+human,82,flag,locker,actress,tube,highschool,46.333333333333336,17.666666666666668,0.24307741333333333,0.19660024,3
+human,82,flag,locker,actress,tube,things a teenage boy might have in his room at school,40.666666666666664,75.14285714285714,0.24307741333333333,0.19660024,7
+human,82,flag,locker,actress,tube,things in a makeup room,43.6,44.6,0.24307741333333333,0.19660024,5
+human,82,flag,locker,actress,tube,things than can be on a wall,39.285714285714285,32.857142857142854,0.24307741333333333,0.19660024,7
+human,82,flag,locker,actress,tube,things that are hollow on the inside,30.2,69,0.24307741333333333,0.19660024,5
+human,82,flag,locker,actress,tube,things that can be red,66.5,45.8,0.24307741333333333,0.19660024,6
+human,82,flag,locker,actress,tube,things you might see in a Grown-Up's movie,57.8,65.4,0.24307741333333333,0.19660024,5
+human,83,weight,player,battle,manager,EA College Football,41,35.5,0.34948540166666664,0.2907170333333334,2
+human,83,weight,player,battle,manager,Football video game,71.8,33,0.34948540166666664,0.2907170333333334,5
+human,83,weight,player,battle,manager,Important aspects of a person's boxing career,88,73.75,0.34948540166666664,0.2907170333333334,4
+human,83,weight,player,battle,manager,Megaknight,58.142857142857146,67.875,0.34948540166666664,0.2907170333333334,8
+human,83,weight,player,battle,manager,Related to sports and athletes,82.66666666666667,43,0.34948540166666664,0.2907170333333334,3
+human,83,weight,player,battle,manager,Things that are important/pertain to a boxing match,100,86,0.34948540166666664,0.2907170333333334,1
+human,83,weight,player,battle,manager,Things you may find in a video game,54.5,29.75,0.34948540166666664,0.2907170333333334,4
+human,83,weight,player,battle,manager,What you might find at a wrestling match,85,66,0.34948540166666664,0.2907170333333334,3
+human,83,weight,player,battle,manager,things in a wrestling match,83.5,67.5,0.34948540166666664,0.2907170333333334,2
+human,83,weight,player,battle,manager,things in basketball,66.83333333333333,37.5,0.34948540166666664,0.2907170333333334,6
+human,83,weight,player,battle,manager,things needed for a wrestling match,86,60.333333333333336,0.34948540166666664,0.2907170333333334,3
+human,83,weight,player,battle,manager,training,59,17.333333333333332,0.34948540166666664,0.2907170333333334,3
+human,83,weight,player,battle,manager,wrestling,94,68.5,0.34948540166666664,0.2907170333333334,4
+human,84,neighborhood,airport,cheese,princess,All things that can have a gate,45,60.666666666666664,0.3097739883333333,0.28294949999999996,3
+human,84,neighborhood,airport,cheese,princess,Disneyland,37.166666666666664,32.6,0.3097739883333333,0.28294949999999996,6
+human,84,neighborhood,airport,cheese,princess,Milwaukee,64.22222222222223,42.57142857142857,0.3097739883333333,0.28294949999999996,9
+human,84,neighborhood,airport,cheese,princess,Princess diary on the move,46.5,69.5,0.3097739883333333,0.28294949999999996,2
+human,84,neighborhood,airport,cheese,princess,Things in a disney movie,58.4,36,0.3097739883333333,0.28294949999999996,5
+human,84,neighborhood,airport,cheese,princess,Things in which a toy version can be found in a child's playroom,65,54.666666666666664,0.3097739883333333,0.28294949999999996,3
+human,84,neighborhood,airport,cheese,princess,elements of a romantic comedy,64.5,63.833333333333336,0.3097739883333333,0.28294949999999996,6
+human,84,neighborhood,airport,cheese,princess,spindle,21.5,12,0.3097739883333333,0.28294949999999996,3
+human,84,neighborhood,airport,cheese,princess,swiss,70.66666666666667,31,0.3097739883333333,0.28294949999999996,3
+human,84,neighborhood,airport,cheese,princess,things people dress up as for halloween,21.333333333333332,42,0.3097739883333333,0.28294949999999996,4
+human,84,neighborhood,airport,cheese,princess,things that are known locally,39,40.5,0.3097739883333333,0.28294949999999996,3
+human,84,neighborhood,airport,cheese,princess,things that can be enjoyable for people,51.333333333333336,34,0.3097739883333333,0.28294949999999996,4
+human,85,radio,boyfriend,bus,sun,Elements of the end of the school year,52.42857142857143,55.42857142857143,0.3209318616666667,0.28839977666666666,7
+human,85,radio,boyfriend,bus,sun,Summer day drive,68,63.333333333333336,0.3209318616666667,0.28839977666666666,3
+human,85,radio,boyfriend,bus,sun,Summercamp,70.2,40.4,0.3209318616666667,0.28839977666666666,5
+human,85,radio,boyfriend,bus,sun,Things that are better in the summer,59,42,0.3209318616666667,0.28839977666666666,6
+human,85,radio,boyfriend,bus,sun,Things that may be seen in a 90's movie intro,72,90,0.3209318616666667,0.28839977666666666,3
+human,85,radio,boyfriend,bus,sun,a dream scenario someone may have,65.375,51.714285714285715,0.3209318616666667,0.28839977666666666,8
+human,85,radio,boyfriend,bus,sun,in song titles,77.5,51.5,0.3209318616666667,0.28839977666666666,2
+human,85,radio,boyfriend,bus,sun,involve a wave,37.142857142857146,40.166666666666664,0.3209318616666667,0.28839977666666666,7
+human,85,radio,boyfriend,bus,sun,raidates,68.14285714285714,36,0.3209318616666667,0.28839977666666666,7
+human,85,radio,boyfriend,bus,sun,summer,87,46.5,0.3209318616666667,0.28839977666666666,2
+human,85,radio,boyfriend,bus,sun,things going on while waiting for someone to get off a bus,58.5,81.5,0.3209318616666667,0.28839977666666666,2
+human,85,radio,boyfriend,bus,sun,things in a student would have,51.8,46.25,0.3209318616666667,0.28839977666666666,5
+human,85,radio,boyfriend,bus,sun,things that have a date,37.8,35.2,0.3209318616666667,0.28839977666666666,5
+human,85,radio,boyfriend,bus,sun,things you want on a field trip,46.8,62.8,0.3209318616666667,0.28839977666666666,5
+human,86,pool,animal,prince,driver,Associated with a lot of money or high in cost,74.4,69.6,0.34551544166666665,0.3010517466666667,5
+human,86,pool,animal,prince,driver,India,50.2,23,0.34551544166666665,0.3010517466666667,6
+human,86,pool,animal,prince,driver,Things that a rich family has,44.75,44,0.34551544166666665,0.3010517466666667,4
+human,86,pool,animal,prince,driver,Things that are responsible for other's wellbeing,30.666666666666668,61.333333333333336,0.34551544166666665,0.3010517466666667,3
+human,86,pool,animal,prince,driver,Things you may see in a Disney movie,63.57142857142857,51.857142857142854,0.34551544166666665,0.3010517466666667,7
+human,86,pool,animal,prince,driver,Things you would find in a castle,41,63,0.34551544166666665,0.3010517466666667,4
+human,86,pool,animal,prince,driver,Zoo Topia in the water,69.5,64.33333333333333,0.34551544166666665,0.3010517466666667,6
+human,86,pool,animal,prince,driver,disney,49.714285714285715,21.4,0.34551544166666665,0.3010517466666667,7
+human,86,pool,animal,prince,driver,in balloon tower defence,40.666666666666664,59,0.34551544166666665,0.3010517466666667,3
+human,86,pool,animal,prince,driver,personal luxuries,63.75,28,0.34551544166666665,0.3010517466666667,4
+human,86,pool,animal,prince,driver,the pursuit of happyness,31.833333333333332,67.5,0.34551544166666665,0.3010517466666667,7
+human,86,pool,animal,prince,driver,things in royaltys house,77,75.5,0.34551544166666665,0.3010517466666667,2
+human,86,pool,animal,prince,driver,things that may be found on a movie set,82,22,0.34551544166666665,0.3010517466666667,2
+human,87,dress,sergeant,film,bathroom,Things in a movie,66.75,29.25,0.363924155,0.33607504666666665,4
+human,87,dress,sergeant,film,bathroom,Things recorded in evidence,52.4,64.8,0.363924155,0.33607504666666665,5
+human,87,dress,sergeant,film,bathroom,Things that dwindle as used more and more,20.75,63.8,0.363924155,0.33607504666666665,5
+human,87,dress,sergeant,film,bathroom,Things you may find on a movie set,78,47.25,0.363924155,0.33607504666666665,4
+human,87,dress,sergeant,film,bathroom,War movie,55.6,39.4,0.363924155,0.33607504666666665,5
+human,87,dress,sergeant,film,bathroom,"go with word ""code""",59.5,84.5,0.363924155,0.33607504666666665,2
+human,87,dress,sergeant,film,bathroom,prom,38.5,48.5,0.363924155,0.33607504666666665,2
+human,87,dress,sergeant,film,bathroom,things at an important movie showing,59.875,60,0.363924155,0.33607504666666665,8
+human,87,dress,sergeant,film,bathroom,things found in forrest gump,71.8,62.8,0.363924155,0.33607504666666665,5
+human,87,dress,sergeant,film,bathroom,things on an action movie set,72,51,0.363924155,0.33607504666666665,4
+human,87,dress,sergeant,film,bathroom,things that would be in a Taylor Swift music video,53.625,57.714285714285715,0.363924155,0.33607504666666665,8
+human,87,dress,sergeant,film,bathroom,things you see in a movie,68.5,26,0.363924155,0.33607504666666665,2
+human,91,exit,hug,warden,chopper,Aspects of the Divergent (movies/books),67.25,85.75,0.2944677966666667,0.28039452,4
+human,91,exit,hug,warden,chopper,Running away from prison,57.5,59.5,0.2944677966666667,0.28039452,6
+human,91,exit,hug,warden,chopper,Things that bring you safety,59.166666666666664,42.5,0.2944677966666667,0.28039452,6
+human,91,exit,hug,warden,chopper,Things that can be seen in the ending scene of a dramatic movie,77.5,88.5,0.2944677966666667,0.28039452,4
+human,91,exit,hug,warden,chopper,Things you may find in a prison,60.5,55,0.2944677966666667,0.28039452,6
+human,91,exit,hug,warden,chopper,Things you would find in a forest/hike.,25.5,65.75,0.2944677966666667,0.28039452,4
+human,91,exit,hug,warden,chopper,before gate,29.428571428571427,39.8,0.2944677966666667,0.28039452,7
+human,91,exit,hug,warden,chopper,helicopter,41.42857142857143,42,0.2944677966666667,0.28039452,7
+human,91,exit,hug,warden,chopper,prison,35,24,0.2944677966666667,0.28039452,2
+human,91,exit,hug,warden,chopper,things in jails,45,24.666666666666668,0.2944677966666667,0.28039452,3
+human,91,exit,hug,warden,chopper,things related to getting out of prison,64.75,48.5,0.2944677966666667,0.28039452,4
+human,91,exit,hug,warden,chopper,things related to prison,68.66666666666667,47,0.2944677966666667,0.28039452,3
+human,91,exit,hug,warden,chopper,things that could be in a psych ward,50.833333333333336,66.83333333333333,0.2944677966666667,0.28039452,6
+human,92,trick,devil,speech,program,During halloween,45,25.333333333333332,0.31987203833333333,0.2934972066666667,3
+human,92,trick,devil,speech,program,MK ultra,92,67,0.31987203833333333,0.2934972066666667,2
+human,92,trick,devil,speech,program,The president of the United States,47.25,39.5,0.31987203833333333,0.2934972066666667,9
+human,92,trick,devil,speech,program,Things seen at a school Halloween assembly,68,86.66666666666667,0.31987203833333333,0.2934972066666667,3
+human,92,trick,devil,speech,program,Things used deceive people,67.25,53.75,0.31987203833333333,0.2934972066666667,4
+human,92,trick,devil,speech,program,all something a person can do,47,26.5,0.31987203833333333,0.2934972066666667,5
+human,92,trick,devil,speech,program,aspects of language,27.4,40.6,0.31987203833333333,0.2934972066666667,5
+human,92,trick,devil,speech,program,bible,48.75,20.75,0.31987203833333333,0.2934972066666667,4
+human,92,trick,devil,speech,program,donald trump,84.57142857142857,59.142857142857146,0.31987203833333333,0.2934972066666667,7
+human,92,trick,devil,speech,program,necessary components of a good trick-or-treat,47.75,76.2,0.31987203833333333,0.2934972066666667,5
+human,92,trick,devil,speech,program,things that scare people,66.66666666666667,14.666666666666666,0.31987203833333333,0.2934972066666667,3
+human,92,trick,devil,speech,program,when someone tries to convince you to do something bad,58.75,43.25,0.31987203833333333,0.2934972066666667,4
+human,93,cab,roof,monkey,pizza,Chucky cheese,54.333333333333336,33.4,0.3549419583333333,0.31502487333333334,6
+human,93,cab,roof,monkey,pizza,New York,79.25,21.666666666666668,0.3549419583333333,0.31502487333333334,4
+human,93,cab,roof,monkey,pizza,Things related to a scene including King Kong,62,75,0.3549419583333333,0.31502487333333334,2
+human,93,cab,roof,monkey,pizza,Things you can touch,61.5,38.5,0.3549419583333333,0.31502487333333334,2
+human,93,cab,roof,monkey,pizza,Things you might see in a visit to new york,57.333333333333336,78.33333333333333,0.3549419583333333,0.31502487333333334,3
+human,93,cab,roof,monkey,pizza,have patterns made of repeating aspects,32.5,14.5,0.3549419583333333,0.31502487333333334,2
+human,93,cab,roof,monkey,pizza,monk's restaurant,58.285714285714285,58.142857142857146,0.3549419583333333,0.31502487333333334,7
+human,93,cab,roof,monkey,pizza,monkey joes,54.5,52.5,0.3549419583333333,0.31502487333333334,4
+human,93,cab,roof,monkey,pizza,things assosciated with NYC,70.57142857142857,44.857142857142854,0.3549419583333333,0.31502487333333334,7
+human,93,cab,roof,monkey,pizza,things found in big cities,47,30.75,0.3549419583333333,0.31502487333333334,4
+human,93,cab,roof,monkey,pizza,things in teenage mutant ninja turtles,41.333333333333336,42.333333333333336,0.3549419583333333,0.31502487333333334,3
+human,93,cab,roof,monkey,pizza,things that have a box,34.5,35.4,0.3549419583333333,0.31502487333333334,5
+human,94,leader,contract,madame,county,The First Lady,64.8,55.8,0.25006603666666666,0.21030606666666665,5
+human,94,leader,contract,madame,county,Things that are appointed through documentation,50,44,0.25006603666666666,0.21030606666666665,3
+human,94,leader,contract,madame,county,Things that rich men desire,57.666666666666664,64.66666666666667,0.25006603666666666,0.21030606666666665,3
+human,94,leader,contract,madame,county,UK leaders,48,64.5,0.25006603666666666,0.21030606666666665,5
+human,94,leader,contract,madame,county,What you call your boss,54.666666666666664,54.75,0.25006603666666666,0.21030606666666665,4
+human,94,leader,contract,madame,county,female leader,50.285714285714285,29.428571428571427,0.25006603666666666,0.21030606666666665,7
+human,94,leader,contract,madame,county,madame president,85.25,49,0.25006603666666666,0.21030606666666665,4
+human,94,leader,contract,madame,county,mayor,80.33333333333333,52.333333333333336,0.25006603666666666,0.21030606666666665,3
+human,94,leader,contract,madame,county,terms used in local government,60.5,51,0.25006603666666666,0.21030606666666665,2
+human,94,leader,contract,madame,county,things a president would have,62.625,55,0.25006603666666666,0.21030606666666665,8
+human,94,leader,contract,madame,county,things that are important in governing a society,54.666666666666664,66,0.25006603666666666,0.21030606666666665,3
+human,94,leader,contract,madame,county,things that have titles,57.5,6,0.25006603666666666,0.21030606666666665,2
+human,94,leader,contract,madame,county,words that may be used while building,44.8,67.2,0.25006603666666666,0.21030606666666665,5
+human,95,shirt,knife,weapon,jail,Things that correlate to prison,84.5,55.5,0.41091648666666675,0.3152749733333333,2
+human,95,shirt,knife,weapon,jail,Things that relate to crime,70.33333333333333,52,0.41091648666666675,0.3152749733333333,3
+human,95,shirt,knife,weapon,jail,Things that you might find at a crime scene,78.25,66.25,0.41091648666666675,0.3152749733333333,4
+human,95,shirt,knife,weapon,jail,Weapons and a place to hide them,56.4,61,0.41091648666666675,0.3152749733333333,5
+human,95,shirt,knife,weapon,jail,Words that may be used in a courtroom to describe a case.,82.625,73.875,0.41091648666666675,0.3152749733333333,8
+human,95,shirt,knife,weapon,jail,Words that may be used in a police report,93,73.2,0.41091648666666675,0.3152749733333333,5
+human,95,shirt,knife,weapon,jail,can all link to shank,70.375,68.125,0.41091648666666675,0.3152749733333333,8
+human,95,shirt,knife,weapon,jail,crime,73,15.5,0.41091648666666675,0.3152749733333333,2
+human,95,shirt,knife,weapon,jail,reasons for a cop to be curious about someone,84,63.25,0.41091648666666675,0.3152749733333333,4
+human,95,shirt,knife,weapon,jail,things criminals may have,85,55.5,0.41091648666666675,0.3152749733333333,6
+human,95,shirt,knife,weapon,jail,things located in a jail,75.83333333333333,65.5,0.41091648666666675,0.3152749733333333,6
+human,95,shirt,knife,weapon,jail,things you can find in a prison,77,57.4,0.41091648666666675,0.3152749733333333,5
+human,95,shirt,knife,weapon,jail,things you can use in jail,97,67,0.41091648666666675,0.3152749733333333,2
+human,95,shirt,knife,weapon,jail,things you see in a prison,50,46.666666666666664,0.41091648666666675,0.3152749733333333,3
+human,97,singer,thumb,temple,dime,Aspects of worship,28.333333333333332,40,0.23308827833333337,0.21663982333333337,3
+human,97,singer,thumb,temple,dime,Singers stage name,55,33.666666666666664,0.23308827833333337,0.21663982333333337,3
+human,97,singer,thumb,temple,dime,"Things that, when presented, signify positive reactions",59.6,51.2,0.23308827833333337,0.21663982333333337,5
+human,97,singer,thumb,temple,dime,Things you may see in a tourist country or city,49,26.5,0.23308827833333337,0.21663982333333337,2
+human,97,singer,thumb,temple,dime,nail,11.75,38.333333333333336,0.23308827833333337,0.21663982333333337,4
+human,97,singer,thumb,temple,dime,parts of body or refer to parts of a body,33.5,47,0.23308827833333337,0.21663982333333337,4
+human,97,singer,thumb,temple,dime,"they all come before the word ""nail""",13.5,86,0.23308827833333337,0.21663982333333337,2
+human,97,singer,thumb,temple,dime,things on a person near a microphone,48,63,0.23308827833333337,0.21663982333333337,5
+human,97,singer,thumb,temple,dime,things related to rings,25.666666666666668,49.333333333333336,0.23308827833333337,0.21663982333333337,3
+human,97,singer,thumb,temple,dime,"things that include the word ""drive""",32.333333333333336,76.66666666666667,0.23308827833333337,0.21663982333333337,3
+human,97,singer,thumb,temple,dime,things with silver,50.666666666666664,40.333333333333336,0.23308827833333337,0.21663982333333337,3
+human,98,cigarette,tank,painting,garden,The American Dream,40.5,34.5,0.36031879166666664,0.30208948333333335,4
+human,98,cigarette,tank,painting,garden,Thing that someone might find at a park,55,48,0.36031879166666664,0.30208948333333335,2
+human,98,cigarette,tank,painting,garden,Things that are symbolic of the dynamic between life and death,48.666666666666664,71,0.36031879166666664,0.30208948333333335,4
+human,98,cigarette,tank,painting,garden,Things you do when youre older and have more time on your hands,75,69,0.36031879166666664,0.30208948333333335,2
+human,98,cigarette,tank,painting,garden,all types of patches,37.5,33.75,0.36031879166666664,0.30208948333333335,4
+human,98,cigarette,tank,painting,garden,artwork,30.28571428571429,16.2,0.36031879166666664,0.30208948333333335,7
+human,98,cigarette,tank,painting,garden,commonly depicted in art museums,50.25,59.375,0.36031879166666664,0.30208948333333335,8
+human,98,cigarette,tank,painting,garden,marijuana,36.5,22.5,0.36031879166666664,0.30208948333333335,4
+human,98,cigarette,tank,painting,garden,things in your backyard,53,51.333333333333336,0.36031879166666664,0.30208948333333335,3
+human,98,cigarette,tank,painting,garden,things related to artists,40.25,29.25,0.36031879166666664,0.30208948333333335,4
+human,98,cigarette,tank,painting,garden,things that can be found in a junkyard,62.166666666666664,61,0.36031879166666664,0.30208948333333335,6
+human,98,cigarette,tank,painting,garden,things that people stereotype with artists,64,83.2,0.36031879166666664,0.30208948333333335,5
+human,98,cigarette,tank,painting,garden,things that require a rod-shaped device,73,57.666666666666664,0.36031879166666664,0.30208948333333335,3
+human,99,signal,heat,contact,director,Driving,71,13.333333333333334,0.302192245,0.26512003,4
+human,99,signal,heat,contact,director,Things that can impact a person's tv connection,77.6,82.6,0.302192245,0.26512003,5
+human,99,signal,heat,contact,director,Things that travel or cause something to travel from thing/person to another,64.25,74,0.302192245,0.26512003,4
+human,99,signal,heat,contact,director,Welder,86.5,81,0.302192245,0.26512003,2
+human,99,signal,heat,contact,director,Words found on lab manual,73.66666666666667,38.666666666666664,0.302192245,0.26512003,6
+human,99,signal,heat,contact,director,hospital,23.5,18,0.302192245,0.26512003,4
+human,99,signal,heat,contact,director,movie titles,49.5,35.42857142857143,0.302192245,0.26512003,8
+human,99,signal,heat,contact,director,something that identifies a certain situation,36.44444444444444,44,0.302192245,0.26512003,9
+human,99,signal,heat,contact,director,things in a movie scene,69,56,0.302192245,0.26512003,1
+human,99,signal,heat,contact,director,"things involved in ""chemistry""",53.25,55.25,0.302192245,0.26512003,4
+human,99,signal,heat,contact,director,things you would use if you got in a car accident,42.666666666666664,63.333333333333336,0.302192245,0.26512003,6
+human,99,signal,heat,contact,director,types of things that can be turned on and off,52,43.666666666666664,0.302192245,0.26512003,3
+human,99,signal,heat,contact,director,words used when looking at a thermal image,78.83333333333333,83.16666666666667,0.302192245,0.26512003,6
+human,100,mister,conversation,size,code,FBI agents,61,26,0.253789015,0.22614272,3
+human,100,mister,conversation,size,code,Gossip,33,39,0.253789015,0.22614272,3
+human,100,mister,conversation,size,code,Things that are important to a wedding,45.4,52.8,0.253789015,0.22614272,5
+human,100,mister,conversation,size,code,Things that are the result of an engagement,32.142857142857146,62.714285714285715,0.253789015,0.22614272,7
+human,100,mister,conversation,size,code,Types of conversations,29.428571428571427,29.428571428571427,0.253789015,0.22614272,7
+human,100,mister,conversation,size,code,WWII movie about the British army,63.333333333333336,79,0.253789015,0.22614272,3
+human,100,mister,conversation,size,code,computer science,58.6,24.8,0.253789015,0.22614272,5
+human,100,mister,conversation,size,code,pair w/ word zip,32.5,57,0.253789015,0.22614272,8
+human,100,mister,conversation,size,code,secret,42,14.714285714285714,0.253789015,0.22614272,8
+human,100,mister,conversation,size,code,things related to the bro code,45.75,38.25,0.253789015,0.22614272,4
+human,100,mister,conversation,size,code,things that can be labeled or classified,55.166666666666664,57,0.253789015,0.22614272,6
+human,100,mister,conversation,size,code,words used in sales,74.4,68.16666666666667,0.253789015,0.22614272,6
+model,1,doctor,phone,hand,town,Resources people rely on during an emergency in a small town,71.2,82.6,0.3864517766666667,0.37314714,5
+model,1,doctor,phone,hand,town,"Things involved in arranging treatment for a hand injury in a small town (the doctor you see, the phone you use to call, your injured hand, and the town where it happens)",85.83333333333333,99.5,0.3864517766666667,0.37314714,6
+model,1,doctor,phone,hand,town,Things you might need to coordinate an emergency response,65.5,65,0.3864517766666667,0.37314714,6
+model,1,doctor,phone,hand,town,Things you might use to respond to an emergency in a remote location,62.333333333333336,76.83333333333333,0.3864517766666667,0.37314714,6
+model,1,doctor,phone,hand,town,Things you might use to respond to an emergency in a small community,74.6,61.2,0.3864517766666667,0.37314714,5
+model,2,room,mother,world,woman,"Things that can be described as ""nurturing""",58,77,0.4282454583333333,0.3815940566666667,3
+model,2,room,mother,world,woman,"Things that can be described as ""nurturing"" or ""encompassing"" in a metaphorical sense",86.66666666666667,75,0.4282454583333333,0.3815940566666667,3
+model,2,room,mother,world,woman,"Words that can be preceded by ""step"" to form a new word or phrase",3,58,0.4282454583333333,0.3815940566666667,1
+model,3,birthday,state,pain,meeting,"Things that can be ""scheduled"" or ""planned for"" in a calendar",39.142857142857146,75.71428571428571,0.31536558833333334,0.28728941,7
+model,3,birthday,state,pain,meeting,"Things that can be ""scheduled"" or ""planned for"" in advance",41.25,73.75,0.31536558833333334,0.28728941,4
+model,3,birthday,state,pain,meeting,Topics a therapist might discuss with a client during a counseling session,61,51.333333333333336,0.31536558833333334,0.28728941,3
+model,3,birthday,state,pain,meeting,Topics you might discuss during a therapy or counseling session,56.333333333333336,82,0.31536558833333334,0.28728941,3
+model,3,birthday,state,pain,meeting,Unpleasant or stressful events that can be anticipated or scheduled,38,75,0.31536558833333334,0.28728941,3
+model,4,dog,blood,bed,office,Things commonly found in a hospital setting,41.333333333333336,68.83333333333333,0.3622348266666667,0.3338060266666667,6
+model,4,dog,blood,bed,office,Things that can be associated with a veterinarian's workplace,73.75,88.75,0.3622348266666667,0.3338060266666667,4
+model,4,dog,blood,bed,office,Things that can be found in a veterinary clinic,85.375,70.375,0.3622348266666667,0.3338060266666667,8
+model,4,dog,blood,bed,office,Things you might deal with during a case at an emergency veterinary clinic,74.66666666666667,90.33333333333333,0.3622348266666667,0.3338060266666667,3
+model,5,hair,food,coffee,street,"Businesses and features commonly found along a busy city street (hair salon, food restaurant, coffee shop, and the street itself)",74,90,0.40794734833333335,0.35968319666666665,2
+model,5,hair,food,coffee,street,"Common types of debris you might see on a busy city street (e.g., litter and waste)",64,73.8,0.40794734833333335,0.35968319666666665,5
+model,5,hair,food,coffee,street,"Things that can be described as ""dark""",59.5,69,0.40794734833333335,0.35968319666666665,6
+model,5,hair,food,coffee,street,"Things that can be described as ""greasy""",68,84,0.40794734833333335,0.35968319666666665,8
+model,6,house,boy,baby,girl,Family members in a household,73.4,69.8,0.5825654233333333,0.45451051,5
+model,6,house,boy,baby,girl,Members of a nuclear family,60,51.5,0.5825654233333333,0.45451051,20
+model,6,house,boy,baby,girl,Simple family-and-home words commonly taught to very young children as early vocabulary,97.25,87,0.5825654233333333,0.45451051,4
+model,7,trip,summer,doc,evidence,Information gathered for a personal injury lawsuit about an accident on a summer trip,96.25,97.5,0.28578362500000004,0.24647126,4
+model,7,trip,summer,doc,evidence,Things involved in filing a travel insurance claim after a summer vacation,83.33333333333333,71,0.28578362500000004,0.24647126,3
+model,7,trip,summer,doc,evidence,"Things that can be ""documented"" or recorded",69.57142857142857,69,0.28578362500000004,0.24647126,7
+model,7,trip,summer,doc,evidence,"Things that can be described as ""cold"" in a metaphorical sense",55,69.57142857142857,0.28578362500000004,0.24647126,7
+model,7,trip,summer,doc,evidence,"Things that can be preceded by ""road"" to form a common phrase",47.5,66,0.28578362500000004,0.24647126,4
+model,8,murder,dude,afternoon,message,Elements of a crime drama plot summary,55.75,72.75,0.23626774833333333,0.22176269,4
+model,8,murder,dude,afternoon,message,Elements of a noir film plot summary,79.5,71.75,0.23626774833333333,0.22176269,4
+model,8,murder,dude,afternoon,message,"Things that can be described as ""perfect"" in a famous movie quote.",37.2,69.33333333333333,0.23626774833333333,0.22176269,6
+model,9,word,number,week,part,Basic units of measurement or classification in different contexts,86.2,70.6,0.373233085,0.344718,5
+model,9,word,number,week,part,Components of a basic data entry form field,60.333333333333336,70.33333333333333,0.373233085,0.344718,3
+model,9,word,number,week,part,Components of a typical newspaper crossword puzzle clue,75.5,83,0.373233085,0.344718,4
+model,9,word,number,week,part,"Discrete units that divide larger sequences or structures (text, numbers, time, and works) into parts",84.2,88.6,0.373233085,0.344718,5
+model,9,word,number,week,part,"Types of units used to divide larger things (language, quantity, time, and wholes)",88.625,80.75,0.373233085,0.344718,8
+model,12,deal,second,rest,end,Common English words that function as both a noun and a verb,60.666666666666664,74.66666666666667,0.4415296733333334,0.37580735,3
+model,12,deal,second,rest,end,Common English words that function as both nouns and verbs,61,81.28571428571429,0.4415296733333334,0.37580735,7
+model,12,deal,second,rest,end,Common English words that function as both nouns and verbs (with closely related meanings),63,60,0.4415296733333334,0.37580735,1
+model,12,deal,second,rest,end,Words that can be used as both nouns and verbs in English,80.28571428571429,74.71428571428571,0.4415296733333334,0.37580735,7
+model,12,deal,second,rest,end,"Words that can follow ""the"" to form common phrases",69.375,63.875,0.4415296733333334,0.37580735,16
+model,13,child,daughter,book,city,"Terms that can be preceded by ""step"" to form a new word or phrase",50.666666666666664,52,0.431223825,0.3677279233333333,3
+model,13,child,daughter,book,city,"Words that can be preceded by ""step"" to form a new word or phrase",32.75,82.75,0.431223825,0.3677279233333333,4
+model,13,child,daughter,book,city,"Words that can follow ""New York"" to form a proper noun or common phrase",29.333333333333332,41,0.431223825,0.3677279233333333,3
+model,14,mouth,floor,plane,officer,Elements involved in a police arrest taking place on an airplane,75,87.2,0.3037353333333333,0.26385918,5
+model,14,mouth,floor,plane,officer,Things specifically referenced in commercial airplane safety / emergency instructions,53,75.75,0.3037353333333333,0.26385918,4
+model,14,mouth,floor,plane,officer,"Things that can be ""on the"" in a phrase describing a position or role",56.333333333333336,71.33333333333333,0.3037353333333333,0.26385918,3
+model,14,mouth,floor,plane,officer,"Things that can be ""on the"" in common phrases",37.75,57.5,0.3037353333333333,0.26385918,4
+model,14,mouth,floor,plane,officer,"Things that can be ""on the"" in common phrases (e.g., ""on the mouth,"" ""on the floor,"" ""on the plane,"" ""on the officer"")",81,89.25,0.3037353333333333,0.26385918,4
+model,14,mouth,floor,plane,officer,Things you directly interact with while going through airport security and boarding a flight,49.5,94.5,0.3037353333333333,0.26385918,2
+model,15,furniture,clown,towel,corn,Items that might be found in a circus-themed hotel room,71.4,93.8,0.3280194366666667,0.31886964333333334,5
+model,15,furniture,clown,towel,corn,Items that might be found in a circus-themed hotel room.,63,73.66666666666667,0.3280194366666667,0.31886964333333334,6
+model,15,furniture,clown,towel,corn,Items that might be found in a clown-themed hotel room,64.66666666666667,88,0.3280194366666667,0.31886964333333334,3
+model,16,case,death,party,couple,Common story elements in a classic murder mystery,94.66666666666667,57,0.3430908183333334,0.3101254033333333,3
+model,16,case,death,party,couple,Common topics in sensational celebrity tabloid headlines,89,70.33333333333333,0.3430908183333334,0.3101254033333333,3
+model,16,case,death,party,couple,Elements of a murder mystery plot,78.71428571428571,61.142857142857146,0.3430908183333334,0.3101254033333333,7
+model,16,case,death,party,couple,Terms commonly involved in legal proceedings about marriages and estates,73.5,79.5,0.3430908183333334,0.3101254033333333,4
+model,16,case,death,party,couple,"Things that can be preceded by the word ""murder""",49.7,75.5,0.3430908183333334,0.3101254033333333,12
+model,17,funeral,arrest,unit,taste,Aspects of life that are strongly shaped by cultural norms and differ widely between societies,50,89,0.255220155,0.22525442,3
+model,17,funeral,arrest,unit,taste,"Things that can be preceded by the word ""after"" to describe an experience or event",57,100,0.255220155,0.22525442,1
+model,17,funeral,arrest,unit,taste,"Things that can be preceded by the word ""after"" to describe an experience or event.",38.2,66,0.255220155,0.22525442,5
+model,17,funeral,arrest,unit,taste,"Things that can be preceded by the word ""after"" to form a common phrase",49.666666666666664,82.33333333333333,0.255220155,0.22525442,3
+model,18,camera,chicken,wine,park,Items you might bring on a picnic date,81,60.666666666666664,0.3671824533333334,0.3437829433333333,3
+model,18,camera,chicken,wine,park,Items you might pack for a picnic date,57.42857142857143,69.71428571428571,0.3671824533333334,0.3437829433333333,7
+model,18,camera,chicken,wine,park,Items you might pack for a romantic picnic in a park.,61.166666666666664,68.33333333333333,0.3671824533333334,0.3437829433333333,6
+model,18,camera,chicken,wine,park,Things commonly associated with having a picnic in a park,59.8,78,0.3671824533333334,0.3437829433333333,5
+model,18,camera,chicken,wine,park,Things commonly involved in a picnic date at a park,80,59,0.3671824533333334,0.3437829433333333,3
+model,18,camera,chicken,wine,park,Things you might bring to a picnic in a park,66.33333333333333,82.66666666666667,0.3671824533333334,0.3437829433333333,3
+model,19,drink,shot,movie,picture,"Things that can be described as ""short""",36.666666666666664,40,0.43771192500000006,0.3601386166666667,3
+model,19,drink,shot,movie,picture,"Things that can be described as ""short"" or ""brief"" in duration or form.",53.75,42.75,0.43771192500000006,0.3601386166666667,4
+model,19,drink,shot,movie,picture,"Things you can ""take""",72,43,0.43771192500000006,0.3601386166666667,7
+model,20,ground,gold,nose,professor,"Things that can be ""runny""",40.833333333333336,64.82352941176471,0.29355040000000004,0.20875139333333337,18
+model,21,security,system,information,order,Components of a cybersecurity framework,81.875,80.875,0.43878700666666665,0.41596298,24
+model,22,court,lieutenant,lunch,mama,"Everyday elements of life on a military base (legal, rank, routine, and family)",49,77,0.3206144516666667,0.30940302000000003,2
+model,22,court,lieutenant,lunch,mama,"Terms of address that can be preceded by ""your""",57.8,81.66666666666667,0.3206144516666667,0.30940302000000003,5
+model,22,court,lieutenant,lunch,mama,"Things commonly involved in a criminal court trial day, especially around lunchtime",67.4,89.6,0.3206144516666667,0.30940302000000003,6
+model,22,court,lieutenant,lunch,mama,"Things that can be preceded by ""general"" to form a common phrase or title",51.4,84.14285714285714,0.3206144516666667,0.30940302000000003,7
+model,22,court,lieutenant,lunch,mama,"Things that can be preceded by the word ""county""",48.6,71.2,0.3206144516666667,0.30940302000000003,5
+model,23,husband,captain,dinner,line,"Roles or titles that can be preceded by ""head of""",68,56.333333333333336,0.3640640316666666,0.2929774233333333,3
+model,23,husband,captain,dinner,line,"Roles or titles that can be preceded by the word ""head""",42.666666666666664,90.75,0.3640640316666666,0.2929774233333333,4
+model,23,husband,captain,dinner,line,Things associated with going on a cruise vacation,80,72.57142857142857,0.3640640316666666,0.2929774233333333,7
+model,23,husband,captain,dinner,line,Things you might talk about when describing a cruise vacation with your spouse,77.66666666666667,71.83333333333333,0.3640640316666666,0.2929774233333333,6
+model,24,building,army,train,card,"Things commonly collected by hobbyists as physical models or sets (model buildings, miniature armies, model trains, and trading/playing cards)",87,80.5,0.3734485033333334,0.32126366,4
+model,24,building,army,train,card,"Things that are central objects in popular collecting/model-building hobbies (model buildings, miniature armies, model trains, and collectible card games)",75,90.5,0.3734485033333334,0.32126366,2
+model,24,building,army,train,card,"Things that can be ""stationed""",83.5,47.5,0.3734485033333334,0.32126366,2
+model,24,building,army,train,card,"Things that can be described as ""regular"" or ""on a schedule""",76,78,0.3734485033333334,0.32126366,4
+model,24,building,army,train,card,"Things that can be described as ""stationary"" in certain contexts",85.5,52.5,0.3734485033333334,0.32126366,2
+model,26,defense,safety,command,permission,Computer security concepts,92,73,0.3253788933333333,0.27049960666666667,4
+model,26,defense,safety,command,permission,"Core responsibilities of a military commander (defense, safety, issuing commands, granting permissions)",91.57142857142857,80.85714285714286,0.3253788933333333,0.27049960666666667,7
+model,26,defense,safety,command,permission,Responsibilities of a military officer during an operation,71,75,0.3253788933333333,0.27049960666666667,5
+model,26,defense,safety,command,permission,"Responsibilities of an authority figure in charge of security (e.g., a military or security chief)",81,88,0.3253788933333333,0.27049960666666667,2
+model,26,defense,safety,command,permission,Types of authorization or control in computer security,66,86.25,0.3253788933333333,0.27049960666666667,4
+model,26,defense,safety,command,permission,Types of authorizations or clearances in a security context,84.6,84.2,0.3253788933333333,0.27049960666666667,5
+model,27,hero,enemy,east,mission,Common elements in a classic adventure/war story plot,79.66666666666667,47.666666666666664,0.3742027016666667,0.27852052,3
+model,27,hero,enemy,east,mission,Common elements in the plot of a war or espionage movie set in an Eastern country,76,81.16666666666667,0.3742027016666667,0.27852052,6
+model,27,hero,enemy,east,mission,Elements commonly found in a classic spy or action movie plot,71.75,78,0.3742027016666667,0.27852052,4
+model,27,hero,enemy,east,mission,Elements in a classic spy movie plot,63.8,60,0.3742027016666667,0.27852052,5
+model,27,hero,enemy,east,mission,Elements of a classic spy movie plot,78.8,74.8,0.3742027016666667,0.27852052,5
+model,28,hotel,ball,boat,earth,Common images used in advertisements for tropical beach vacations,76.25,71,0.3359933666666666,0.29616817666666667,4
+model,28,hotel,ball,boat,earth,"Everyday objects that each have a dedicated standard smartphone emoji (hotel building, sports ball, boat, globe/Earth)",75.4,81.2,0.3359933666666666,0.29616817666666667,5
+model,28,hotel,ball,boat,earth,"Things that can be preceded by the word ""ball"" to form a common phrase or term.",25.25,82.2,0.3359933666666666,0.29616817666666667,5
+model,28,hotel,ball,boat,earth,"Things that can be preceded by the word ""room"" to form a common phrase",58.857142857142854,82,0.3359933666666666,0.29616817666666667,8
+model,28,hotel,ball,boat,earth,Things that can be spherical or round in shape,44.5,52.25,0.3359933666666666,0.29616817666666667,4
+model,29,oxygen,temperature,movement,pattern,Essential factors for monitoring a patient's vital signs in a hospital setting,84.85714285714286,82.57142857142857,0.36250904,0.3422338566666667,7
+model,29,oxygen,temperature,movement,pattern,Essential factors for sustaining life in an ecosystem,69.55555555555556,79.55555555555556,0.36250904,0.3422338566666667,18
+model,29,oxygen,temperature,movement,pattern,Health metrics commonly tracked by modern fitness and sleep wearables,97.33333333333333,89.66666666666667,0.36250904,0.3422338566666667,3
+model,29,oxygen,temperature,movement,pattern,"Metrics commonly tracked by modern health or fitness wearables (e.g., smartwatches)",82.4,90.2,0.36250904,0.3422338566666667,5
+model,29,oxygen,temperature,movement,pattern,Physiological variables commonly monitored during a sleep study (polysomnography),92,80.5,0.36250904,0.3422338566666667,2
+model,30,club,colonel,wedding,agent,"Roles or titles that can be preceded by ""secret"" to form a common phrase.",73.5,88.5,0.3378591583333333,0.30628853,4
+model,30,club,colonel,wedding,agent,"Things that can be preceded by the word ""secret""",56.375,78.5,0.3378591583333333,0.30628853,8
+model,31,letter,college,lawyer,bank,"Institutions that frequently send you important formal letters (acceptance, legal, or financial)",74.5,92.5,0.362698775,0.32946935666666666,2
+model,31,letter,college,lawyer,bank,"Sources and form of official written decisions that can significantly affect your life (letters from a college, lawyer, or bank)",63,83,0.362698775,0.32946935666666666,2
+model,31,letter,college,lawyer,bank,Steps in a typical career and life path after high school,81.25,65.25,0.362698775,0.32946935666666666,4
+model,31,letter,college,lawyer,bank,Steps in a typical career path after high school,74.5,60.5,0.362698775,0.32946935666666666,6
+model,31,letter,college,lawyer,bank,"Things a prospective law student typically deals with when starting college (acceptance letters, the college itself, future career as a lawyer, and banks for student loans)",81.6,97,0.362698775,0.32946935666666666,5
+model,31,letter,college,lawyer,bank,Things that can be associated with a formal application process,78.57142857142857,56.714285714285715,0.362698775,0.32946935666666666,7
+model,32,eye,road,table,paper,"Things that can be ""on"" something (e.g., ""keep an eye on,"" ""on the road,"" ""on the table,"" ""on paper"")",89.4,78.4,0.33892823666666666,0.3181849433333333,5
+model,32,eye,road,table,paper,"Things that can be ""on"" something else (e.g., ""eye on the road,"" ""paper on the table"")",71,70.4,0.33892823666666666,0.3181849433333333,5
+model,32,eye,road,table,paper,"Things that can be described as having a ""corner"" or ""cornered""",78,70,0.33892823666666666,0.3181849433333333,4
+model,32,eye,road,table,paper,"Things that have corners (e.g., corner of your eye, street corner, table corner, corner of a sheet of paper)",79.4,89.6,0.33892823666666666,0.3181849433333333,5
+model,33,shower,planet,bedroom,candy,"Simple pleasures people often use for comfort or escape (a warm shower, daydreaming about another planet, relaxing in the bedroom, eating candy)",98,97,0.3111923733333333,0.26013206,1
+model,33,shower,planet,bedroom,candy,"Things that can be described as ""sweet""",51,46.285714285714285,0.3111923733333333,0.26013206,8
+model,33,shower,planet,bedroom,candy,"Things that can be described as ""sweet"" in a metaphorical or literal sense",55.666666666666664,74,0.3111923733333333,0.26013206,3
+model,33,shower,planet,bedroom,candy,"Things that can be described as ""sweet"" metaphorically or literally",26,68,0.3111923733333333,0.26013206,1
+model,34,bag,apartment,window,box,Items that can be used for moving or storage,62,57.666666666666664,0.4582151233333333,0.39830175333333334,3
+model,34,bag,apartment,window,box,Items that might be used when moving to a new home,78.33333333333333,75.66666666666667,0.4582151233333333,0.39830175333333334,3
+model,34,bag,apartment,window,box,"Things commonly involved when moving into a new apartment (your bags and boxes of belongings, the apartment itself, and its windows)",93.8,88.4,0.4582151233333333,0.39830175333333334,5
+model,34,bag,apartment,window,box,Things involved when moving your belongings into a new apartment,83.625,64.42857142857143,0.4582151233333333,0.39830175333333334,8
+model,34,bag,apartment,window,box,Things you might use when moving to a new home,76.25,63,0.4582151233333333,0.39830175333333334,4
+model,35,heavens,stress,punishment,option,Concepts often discussed in religious sermons about moral choices and their consequences,89,100,0.27598211333333333,0.22231802333333336,1
+model,35,heavens,stress,punishment,option,Things a person might worry about when deciding whether to confess to a serious sin or crime,92.66666666666667,59,0.27598211333333333,0.22231802333333336,3
+model,35,heavens,stress,punishment,option,"Things that can be ""heavenly"" or ""hellish"" depending on perspective or context",84.83333333333333,83,0.27598211333333333,0.22231802333333336,6
+model,35,heavens,stress,punishment,option,"Things that can be described as ""heavenly"" or ""hellish"" depending on perspective",70.5,58.5,0.27598211333333333,0.22231802333333336,2
+model,35,heavens,stress,punishment,option,"Things that can be described as ""heavenly"" or ""hellish"" in metaphorical language",75,70,0.27598211333333333,0.22231802333333336,2
+model,36,anger,confession,request,solution,Stages in a conflict resolution process,88.65,74.35,0.30894250166666665,0.2853084133333333,20
+model,36,anger,confession,request,solution,"Things someone might express during a serious or difficult conversation (e.g., an argument or reconciliation talk)",83.16666666666667,79.5,0.30894250166666665,0.2853084133333333,6
+model,37,partner,folks,middle,angel,"Casual ways you might refer to people in your close family or relationship circle (partner, parents, a middle child, a cherished loved one)",84,97,0.2985807033333333,0.27702030000000005,4
+model,37,partner,folks,middle,angel,Ways you might refer to family members or loved ones in everyday conversation,73.75,76.5,0.2985807033333333,0.27702030000000005,4
+model,37,partner,folks,middle,angel,"Words that can be preceded by ""guardian"" to form a common phrase",34.84,66.32,0.2985807033333333,0.27702030000000005,25
+model,38,difference,pleasure,situation,service,Aspects of a customer experience review,78.25,79.25,0.36804685333333337,0.32959016333333335,4
+model,38,difference,pleasure,situation,service,Aspects of a customer support interaction that might be evaluated in a feedback survey,88,86.75,0.36804685333333337,0.32959016333333335,4
+model,38,difference,pleasure,situation,service,Aspects of customer satisfaction in a business context,86,87.5,0.36804685333333337,0.32959016333333335,2
+model,38,difference,pleasure,situation,service,Things you might thank someone for in a thank-you note or speech,45.714285714285715,61.714285714285715,0.36804685333333337,0.32959016333333335,7
+model,39,king,piece,boss,class,Common English nouns that are also used as verbs,33.333333333333336,80,0.32859442666666666,0.3085548866666667,6
+model,39,king,piece,boss,class,Terms for positions or units within a hierarchy or power structure,74.83333333333333,78.83333333333333,0.32859442666666666,0.3085548866666667,6
+model,39,king,piece,boss,class,Terms for roles or units in games (especially board and video games),79,92,0.32859442666666666,0.3085548866666667,2
+model,39,king,piece,boss,class,"Terms that can be preceded by ""chess"" to form a compound word or phrase",68.33333333333333,85,0.32859442666666666,0.3085548866666667,6
+model,39,king,piece,boss,class,"Terms that can be preceded by ""middle"" to form a common phrase",44.333333333333336,70,0.32859442666666666,0.3085548866666667,6
+model,40,killer,surprise,space,idiot,"Sensational buzzwords often used in clickbait-style online titles (crime, shock, awe, and stupidity)",95.5,96,0.30888193833333333,0.27026959333333334,2
+model,40,killer,surprise,space,idiot,"Words that can follow ""dead"" to form a common phrase",58.6,57.6,0.30888193833333333,0.27026959333333334,6
+model,40,killer,surprise,space,idiot,"Words that can follow ""dead"" to form a common phrase or idiom",27,63.75,0.30888193833333333,0.27026959333333334,4
+model,41,neck,arm,hat,computer,Parts of the body or items that can be measured for fit or sizing,40.5,68.33333333333333,0.38704659,0.31874317,6
+model,41,neck,arm,hat,computer,"Places or items people commonly customize to express personal style (tattoos/jewelry on neck and arm, fashion hats, and decorated computers with stickers/skins)",71.5,76.25,0.38704659,0.31874317,4
+model,41,neck,arm,hat,computer,"Places or items people commonly personalize with visible designs (tattoos, patches, stickers, or decals)",76.66666666666667,90.66666666666667,0.38704659,0.31874317,3
+model,41,neck,arm,hat,computer,Things that can be worn or used to support a wearable device,65.83333333333333,75.33333333333333,0.38704659,0.31874317,6
+model,41,neck,arm,hat,computer,"Things you might adjust for comfort when settling in to use a computer (your neck position, arm position, hat, and the computer itself)",94.66666666666667,95.66666666666667,0.38704659,0.31874317,3
+model,41,neck,arm,hat,computer,Things you might rest your head on,79.66666666666667,80,0.38704659,0.31874317,3
+model,42,stage,board,shop,camp,Facilities and organizations you might find at a large community church,55.5,43.25,0.370943765,0.35492965666666665,4
+model,42,stage,board,shop,camp,"Parts of or programs within a community theater organization (stage area, governing board, costume/scene shop, summer camp)",79.8,87,0.370943765,0.35492965666666665,5
+model,42,stage,board,shop,camp,Terms commonly used in theater and performance contexts,58,59,0.370943765,0.35492965666666665,3
+model,42,stage,board,shop,camp,"Types of places or contexts where you might find a ""floor"" or ""ground"" surface",88,77,0.370943765,0.35492965666666665,1
+model,42,stage,board,shop,camp,Types of places or spaces where a group might gather for a specific purpose,73,81.125,0.370943765,0.35492965666666665,8
+model,42,stage,board,shop,camp,Types of summer programs for children,63.833333333333336,62.166666666666664,0.370943765,0.35492965666666665,6
+model,43,truck,list,store,star,Common English words that function as both nouns and verbs,60,85,0.3433160433333333,0.31556959,2
+model,43,truck,list,store,star,"Things that can be ""semi"" or associated with the word ""semi""",48,96.66666666666667,0.3433160433333333,0.31556959,3
+model,43,truck,list,store,star,"Things that can be ""semi"" prefixed",27.5,72,0.3433160433333333,0.31556959,2
+model,43,truck,list,store,star,"Things that can be described as ""semi"" or ""semi-"" in common usage",32.6,39.333333333333336,0.3433160433333333,0.31556959,6
+model,43,truck,list,store,star,"Things you interact with when buying something from an online retailer like Amazon (delivery truck, wish list, online store, star rating)",71,84.33333333333333,0.3433160433333333,0.31556959,3
+model,44,area,top,report,ride,"Aspects evaluated in a public transit system review (coverage area, peak/top performance, official report, ride experience)",79.22222222222223,85.77777777777777,0.30757176999999997,0.28059221333333334,9
+model,44,area,top,report,ride,"Things that can be described as ""annual""",39.666666666666664,46.666666666666664,0.30757176999999997,0.28059221333333334,3
+model,44,area,top,report,ride,Things you might check or talk about when reviewing a ride at an amusement park,65.66666666666667,81.16666666666667,0.30757176999999997,0.28059221333333334,6
+model,44,area,top,report,ride,Things you might see on a ski resort's daily information board,75.28571428571429,87.42857142857143,0.30757176999999997,0.28059221333333334,7
+model,44,area,top,report,ride,Things you might see on a theme park map or guide,72.71428571428571,78.14285714285714,0.30757176999999997,0.28059221333333334,7
+model,44,area,top,report,ride,"Words commonly used in local TV news, especially in weather and traffic segments",72,84,0.30757176999999997,0.28059221333333334,4
+model,45,cell,queen,glass,teacher,Elements of a classroom observation hive used to study honeybees,69.66666666666667,71,0.32363242,0.29930151,3
+model,45,cell,queen,glass,teacher,Things commonly associated with a modern high school classroom and its social scene,44.2,65.8,0.32363242,0.29930151,5
+model,45,cell,queen,glass,teacher,Things involved in a classroom observation of a beehive behind glass,83.33333333333333,84.66666666666667,0.32363242,0.29930151,3
+model,45,cell,queen,glass,teacher,"Things that can be preceded by ""mother"" to form a compound term",25,94,0.32363242,0.29930151,2
+model,45,cell,queen,glass,teacher,"Things that can be preceded by the word ""mother""",25.5,81.33333333333333,0.32363242,0.29930151,3
+model,45,cell,queen,glass,teacher,"Words that can be preceded by ""mother"" to form a common phrase or title",16.833333333333332,79.83333333333333,0.32363242,0.29930151,6
+model,46,brain,beer,fish,ice,"Foods that are (or can be) served deep-fried, especially as novelty or regional dishes",28.75,67.8,0.41747281333333336,0.3743292166666667,5
+model,46,brain,beer,fish,ice,Things that are primarily composed of water,61,67.2,0.41747281333333336,0.3743292166666667,5
+model,46,brain,beer,fish,ice,"Things that can be ""on"" a person (as slang or idiomatic expressions)",46,72.5,0.41747281333333336,0.3743292166666667,4
+model,46,brain,beer,fish,ice,"Things that can be ""on"" someone (as in a state or condition)",36.25,47.5,0.41747281333333336,0.3743292166666667,4
+model,46,brain,beer,fish,ice,"Things that can be ""on"" something (as in a common phrase or idiom)",42,68,0.41747281333333336,0.3743292166666667,4
+model,47,blade,rocket,patch,robot,Equipment and components you might find in a university aerospace & robotics lab,85,79,0.3697176,0.34838620333333337,3
+model,47,blade,rocket,patch,robot,Items that can be part of a futuristic soldier's combat gear,70,80.57142857142857,0.3697176,0.34838620333333337,7
+model,47,blade,rocket,patch,robot,Items that can be part of a futuristic soldier's equipment,80.25,84.5,0.3697176,0.34838620333333337,4
+model,47,blade,rocket,patch,robot,One-word names of comic-book superhero (or antihero) characters,52.25,81.5,0.3697176,0.34838620333333337,4
+model,47,blade,rocket,patch,robot,Things that can be remotely controlled or operated,61.5,56.5,0.3697176,0.34838620333333337,2
+model,48,ship,horse,tv,clothes,Items that can be transported in a moving truck,63.2,59.3,0.3378911633333333,0.32435816666666667,10
+model,48,ship,horse,tv,clothes,Things people commonly rent temporarily instead of buying,52.8,59.833333333333336,0.3378911633333333,0.32435816666666667,7
+model,48,ship,horse,tv,clothes,"Things that can be ""stabled"" or housed in a designated structure.",62,89,0.3378911633333333,0.32435816666666667,1
+model,48,ship,horse,tv,clothes,Things you might rent specifically for a big event (like a wedding or large party),43.6,80.8,0.3378911633333333,0.32435816666666667,5
+model,48,ship,horse,tv,clothes,Things you might use or encounter on a cruise vacation,52.75,67,0.3378911633333333,0.32435816666666667,4
+model,49,bird,rain,cake,chest,Elements and symbols associated with a traditional wedding day,61,77,0.3306214766666667,0.29650717,3
+model,49,bird,rain,cake,chest,"Things that can be associated with the word ""birthday""",28.375,60,0.3306214766666667,0.29650717,8
+model,49,bird,rain,cake,chest,"Things that can be described as ""blue""",64.5,47.666666666666664,0.3306214766666667,0.29650717,4
+model,49,bird,rain,cake,chest,"Things that can be described as ""light""",52.857142857142854,51.285714285714285,0.3306214766666667,0.29650717,7
+model,50,spot,client,pal,north,Common elements in a classic private-detective case,38.2,60.5,0.3152758983333333,0.2909189366666667,6
+model,50,spot,client,pal,north,"Words that are one half of a familiar contrasting pair (north/south, client/server, friend/foe, spots/stripes)",62.4,57,0.3152758983333333,0.2909189366666667,5
+model,50,spot,client,pal,north,"Words that can follow ""pen"" to form a compound word or phrase",20.8,77.25,0.3152758983333333,0.2909189366666667,20
+model,51,machine,gift,cash,land,Assets that can be inherited or passed down in an estate,80.7,74.2,0.39778114499999995,0.36299937333333326,10
+model,51,machine,gift,cash,land,Common types of assets people might leave to heirs in a will (estate assets),79.66666666666667,79,0.39778114499999995,0.36299937333333326,3
+model,51,machine,gift,cash,land,Things that can be inherited,88.16666666666667,59.333333333333336,0.39778114499999995,0.36299937333333326,6
+model,51,machine,gift,cash,land,"Types of prizes you might win on a game show or in a contest (e.g., a machine/appliance, a gift item, a cash prize, or a plot of land)",86,95.25,0.39778114499999995,0.36299937333333326,4
+model,51,machine,gift,cash,land,Types of prizes you might win on a game show or in a sweepstakes,66,58.75,0.39778114499999995,0.36299937333333326,4
+model,52,horn,basketball,chick,flower,Everyday objects that each have their own commonly used single emoji,78.2,66.4,0.387982925,0.3582900466666667,5
+model,52,horn,basketball,chick,flower,Symbols and activities commonly associated with the spring season (March/April),64.66666666666667,80.66666666666667,0.387982925,0.3582900466666667,3
+model,52,horn,basketball,chick,flower,"Things that can be described as ""blowing"" or ""blown""",32.17647058823529,50.70588235294119,0.387982925,0.3582900466666667,51
+model,53,football,bullet,soldier,crowd,Elements in a news report about soldiers firing bullets into a crowd at a football match,59,98.66666666666667,0.32745246833333336,0.3032240133333333,3
+model,53,football,bullet,soldier,crowd,"Things that can be ""fired""",68,67.75,0.32745246833333336,0.3032240133333333,4
+model,53,football,bullet,soldier,crowd,"Things that can be described as ""flying"" in a metaphorical or literal sense",57.333333333333336,79.5,0.32745246833333336,0.3032240133333333,6
+model,53,football,bullet,soldier,crowd,"Things that can be described as ""in the line of""",78.5,67.5,0.32745246833333336,0.3032240133333333,2
+model,53,football,bullet,soldier,crowd,Things that might be involved in a violent clash at a football match (soldiers controlling a crowd with bullets),60.5,90,0.32745246833333336,0.3032240133333333,4
+model,53,football,bullet,soldier,crowd,Things you might see at a football match when soldiers fire on the crowd,85.5,95.16666666666667,0.32745246833333336,0.3032240133333333,6
+model,54,rose,bike,button,dollar,Items that can be given as a gift on Valentine's Day,20,35.666666666666664,0.28116958833333333,0.2692338733333333,3
+model,54,rose,bike,button,dollar,Items that can be given as a small gift or token of appreciation,61,70,0.28116958833333333,0.2692338733333333,5
+model,54,rose,bike,button,dollar,"Pictogram icons you might see on a city map to represent nearby businesses (florist, bike shop, tailor, bank)",65,92,0.28116958833333333,0.2692338733333333,2
+model,54,rose,bike,button,dollar,"Pictorial signs for different types of small shops (florist, bike shop, tailor, money exchange/bank)",79,93.6,0.28116958833333333,0.2692338733333333,5
+model,54,rose,bike,button,dollar,Simple everyday objects that people commonly doodle or sketch (like in a notebook margin),81.83333333333333,62,0.28116958833333333,0.2692338733333333,6
+model,54,rose,bike,button,dollar,Things you might find in a child's treasure box,72,88.33333333333333,0.28116958833333333,0.2692338733333333,3
+model,55,photo,stairs,university,belt,"Items that can be ""graduated"" in a metaphorical sense",44.25,80,0.26825884333333333,0.25255632,4
+model,55,photo,stairs,university,belt,Items that can be found in a typical college student's dorm room,37.6,69.8,0.26825884333333333,0.25255632,5
+model,55,photo,stairs,university,belt,Items you might find in a student's dorm room,54.333333333333336,86.33333333333333,0.26825884333333333,0.25255632,3
+model,55,photo,stairs,university,belt,Things involved in a formal graduation photo taken on the steps of a university building,76.75,89.5,0.26825884333333333,0.25255632,4
+model,55,photo,stairs,university,belt,Things typically encountered on a university campus during graduation day,97.5,53.75,0.26825884333333333,0.25255632,4
+model,56,ear,radar,senator,jacket,Elements involved in secretly monitoring or surveilling a politician,59,85.66666666666667,0.27985942999999996,0.21321593333333333,3
+model,56,ear,radar,senator,jacket,Terms you might encounter in a government surveillance or intelligence investigation,73,78.25,0.27985942999999996,0.21321593333333333,4
+model,56,ear,radar,senator,jacket,Things commonly associated with air travel on an airplane,51.75,61.75,0.27985942999999996,0.21321593333333333,4
+model,56,ear,radar,senator,jacket,"Things that can be ""on"" or ""in"" someone's head",53,77.6,0.27985942999999996,0.21321593333333333,5
+model,56,ear,radar,senator,jacket,"Things that can be ""on"" someone or something (in a figurative or literal sense)",53.666666666666664,60,0.27985942999999996,0.21321593333333333,3
+model,56,ear,radar,senator,jacket,"Things that can be ""picked up"" by a device or person",20,84,0.27985942999999996,0.21321593333333333,1
+model,57,suit,beach,tea,arms,"Things commonly seen on an old-fashioned British seaside promenade (men in suits, the beach, tea rooms, and couples linking arms)",87,96.75,0.30705656500000006,0.2993680033333333,4
+model,57,suit,beach,tea,arms,Things typically associated with a traditional British seaside hotel stay,68.5,75.66666666666667,0.30705656500000006,0.2993680033333333,6
+model,57,suit,beach,tea,arms,Things you might pack for a vacation,46.57142857142857,40.42857142857143,0.30705656500000006,0.2993680033333333,7
+model,57,suit,beach,tea,arms,Things you might take a break with or for,32.833333333333336,60.142857142857146,0.30705656500000006,0.2993680033333333,8
+model,57,suit,beach,tea,arms,Things you might take off or remove for comfort or relaxation,17.8,69.6,0.30705656500000006,0.2993680033333333,5
+model,58,station,record,girlfriend,cop,Elements involved when a suspect is processed in a police investigation,79.75,85,0.3567498283333334,0.31229151,4
+model,58,station,record,girlfriend,cop,"Things that can be ""on the beat"" in a double meaning",42.2,61,0.3567498283333334,0.31229151,5
+model,58,station,record,girlfriend,cop,Things typically involved when police handle a domestic dispute,95,87,0.3567498283333334,0.31229151,5
+model,58,station,record,girlfriend,cop,Things you might find in a classic rock or pop song narrative,74,100,0.3567498283333334,0.31229151,2
+model,59,pants,hole,sea,river,Places where you might accidentally lose your keys while out and about,44.375,67.5,0.38127169999999994,0.3136530833333333,8
+model,59,pants,hole,sea,river,"Things that can be described as having a ""cuff""",39.833333333333336,70.33333333333333,0.38127169999999994,0.3136530833333333,12
+model,59,pants,hole,sea,river,"Things that can have a ""cuff""",49.666666666666664,74.66666666666667,0.38127169999999994,0.3136530833333333,6
+model,59,pants,hole,sea,river,Words used in idioms describing being in trouble or a difficult situation,31,80,0.38127169999999994,0.3136530833333333,2
+model,60,pardon,condition,shame,health,"Different kinds of personal states or statuses a person can be in (legal, physical, emotional)",84.6,83.6,0.34772652666666665,0.31700334,5
+model,60,pardon,condition,shame,health,Factors considered when deciding whether to grant a criminal offender clemency or a pardon,69.8,87.8,0.34772652666666665,0.31700334,5
+model,60,pardon,condition,shame,health,Factors that might be considered in a parole or clemency hearing for a prisoner,84.75,80.5,0.34772652666666665,0.31700334,4
+model,60,pardon,condition,shame,health,"Things that can be ""poor""",49.888888888888886,57.111111111111114,0.34772652666666665,0.31700334,9
+model,60,pardon,condition,shame,health,Things that can be restored or improved,70,60,0.34772652666666665,0.31700334,4
+model,61,coat,milk,jury,meat,"Items that can be described as ""cold"" in a literal or metaphorical sense.",67.4,72.8,0.32088408333333335,0.1598271,5
+model,61,coat,milk,jury,meat,"Things that can be ""hung""",52.666666666666664,48,0.32088408333333335,0.1598271,3
+model,61,coat,milk,jury,meat,"Things that can be ""hung"" (literally or figuratively)",73,80,0.32088408333333335,0.1598271,3
+model,62,sheriff,foot,prison,wall,"Elements involved in a classic jailbreak and manhunt (e.g., in a Western movie)",93,68,0.31990478333333333,0.28632888666666667,1
+model,62,sheriff,foot,prison,wall,"Elements of physical security around a jail (sheriff, prison building, perimeter wall, foot patrol)",78.28571428571429,85.57142857142857,0.31990478333333333,0.28632888666666667,7
+model,62,sheriff,foot,prison,wall,"Things that can be ""on the run"" or associated with an escape attempt",85.66666666666667,83.33333333333333,0.31990478333333333,0.28632888666666667,3
+model,62,sheriff,foot,prison,wall,Things that can be part of a prison escape scenario,91.25,81.5,0.31990478333333333,0.28632888666666667,4
+model,62,sheriff,foot,prison,wall,Things that can be part of an escape attempt from a prison,70.33333333333333,75,0.31990478333333333,0.28632888666666667,3
+model,62,sheriff,foot,prison,wall,Things that can be patrolled by law enforcement or guards,58,85.25,0.31990478333333333,0.28632888666666667,4
+model,63,glasses,pocket,lake,buck,"Things commonly associated with hiking or hunting near a lake (your glasses, the pockets of your clothing, the lake itself, and a buck you might spot)",76.4,73.6,0.29584038333333335,0.2678702866666666,5
+model,63,glasses,pocket,lake,buck,Things involved in a day of fishing at a lake,55.75,46.5,0.29584038333333335,0.2678702866666666,4
+model,63,glasses,pocket,lake,buck,"Things that can be described as ""deep""",43,60,0.29584038333333335,0.2678702866666666,4
+model,63,glasses,pocket,lake,buck,"Things that can be described with the word ""clear""",64.66666666666667,63.333333333333336,0.29584038333333335,0.2678702866666666,3
+model,63,glasses,pocket,lake,buck,Things you might encounter or use on a deer-hunting trip by a lake,65.5,56.75,0.29584038333333335,0.2678702866666666,4
+model,63,glasses,pocket,lake,buck,Things you might lose while on a fishing trip,78.5,51.5,0.29584038333333335,0.2678702866666666,2
+model,64,gate,mail,chocolate,shoe,Items that might be left on a front porch or doorstep,73.5,63.833333333333336,0.33249369,0.3149214466666667,6
+model,64,gate,mail,chocolate,shoe,Items that might be left on a porch or doorstep,74.5,75.5,0.33249369,0.3149214466666667,4
+model,64,gate,mail,chocolate,shoe,Things a mischievous dog might chew up or destroy around the house or yard,75.14285714285714,80.42857142857143,0.33249369,0.3149214466666667,7
+model,64,gate,mail,chocolate,shoe,Things a mischievous dog might destroy when left unsupervised at home,79.33333333333333,96.66666666666667,0.33249369,0.3149214466666667,3
+model,64,gate,mail,chocolate,shoe,Things that can be left on a front porch,64.75,67.75,0.33249369,0.3149214466666667,4
+model,64,gate,mail,chocolate,shoe,Things that might be left on or near a home's front doorstep or entryway,61.5,71.5,0.33249369,0.3149214466666667,2
+model,65,base,project,weather,property,Factors that can affect the value of real estate,85.83333333333333,70.33333333333333,0.37927756166666665,0.32631465666666665,6
+model,65,base,project,weather,property,Factors you must consider when planning a construction project on a piece of property,89.2,73.6,0.37927756166666665,0.32631465666666665,5
+model,65,base,project,weather,property,Key elements to consider when planning a building construction project,77.75,71,0.37927756166666665,0.32631465666666665,4
+model,65,base,project,weather,property,Key factors considered before starting a building construction project on a piece of land,89,75,0.37927756166666665,0.32631465666666665,3
+model,65,base,project,weather,property,Things that can be forecasted or estimated,73.16666666666667,57.5,0.37927756166666665,0.32631465666666665,6
+model,67,language,freedom,rule,society,Core abstract concepts in political and social philosophy about how people live together and are governed,89.8,97,0.3618373816666667,0.33598810666666673,5
+model,67,language,freedom,rule,society,Core concepts in political philosophy,78.66666666666667,81.66666666666667,0.3618373816666667,0.33598810666666673,3
+model,67,language,freedom,rule,society,Fundamental abstract concepts in political and social philosophy,85.33333333333333,67.5,0.3618373816666667,0.33598810666666673,6
+model,67,language,freedom,rule,society,Fundamental concepts in political philosophy,81.6,66.4,0.3618373816666667,0.33598810666666673,5
+model,68,telephone,wire,sword,desert,Elements commonly seen in a desert battlefield scene in war stories,65.5,59.166666666666664,0.33795773166666665,0.30440068666666664,6
+model,68,telephone,wire,sword,desert,Elements involved in sabotaging an enemy telephone line in a desert war setting,81,87.33333333333333,0.33795773166666665,0.30440068666666664,3
+model,68,telephone,wire,sword,desert,Items that could be found in a scene from an old adventure film set in the Middle East,67.4,76.4,0.33795773166666665,0.30440068666666664,5
+model,68,telephone,wire,sword,desert,Items that could be used to send a distress signal in an emergency,39.25,75.5,0.33795773166666665,0.30440068666666664,4
+model,68,telephone,wire,sword,desert,Items that could be used to signal for help in an emergency,46.666666666666664,54.833333333333336,0.33795773166666665,0.30440068666666664,6
+model,68,telephone,wire,sword,desert,"Objects you might find at a military outpost in a desert war setting (e.g., WWI/WWII North Africa)",64.8,89.6,0.33795773166666665,0.30440068666666664,5
+model,69,gas,test,group,field,Common English words that function as both nouns and verbs in everyday usage,62.2,89.4,0.37124719,0.32593759333333333,5
+model,69,gas,test,group,field,Elements involved in running a scientific experiment outdoors (field study),70.5,72.5,0.37124719,0.32593759333333333,2
+model,69,gas,test,group,field,"Terms that can be preceded by ""field"" to form a compound noun",26.666666666666668,85,0.37124719,0.32593759333333333,3
+model,69,gas,test,group,field,"Terms that can be preceded by ""field"" to form a compound word or phrase",22.4,74.5,0.37124719,0.32593759333333333,6
+model,69,gas,test,group,field,Types of scientific studies or research contexts,57.5,69.5,0.37124719,0.32593759333333333,2
+model,71,desk,note,cream,ticket,Items commonly found at an office reception desk (front desk area),45,74.4,0.278945815,0.24183363,5
+model,71,desk,note,cream,ticket,Items commonly found on an office worker's desk,68.5,57,0.278945815,0.24183363,2
+model,71,desk,note,cream,ticket,Items you might find on a reception desk in an office or clinic,54.666666666666664,72.33333333333333,0.278945815,0.24183363,3
+model,71,desk,note,cream,ticket,Items you might find on a receptionist's counter,52.666666666666664,54,0.278945815,0.24183363,3
+model,71,desk,note,cream,ticket,Items you might find on a receptionist's desk,57.625,55.375,0.278945815,0.24183363,8
+model,72,teeth,bottle,restaurant,hall,"Common elements at a wedding reception (smiling teeth in photos, bottles of drinks, held in a restaurant or hall)",70.5,77,0.297868995,0.23590723333333333,2
+model,72,teeth,bottle,restaurant,hall,Things associated with eating and drinking (from body part to container to dining venues),85,80.33333333333333,0.297868995,0.23590723333333333,6
+model,72,teeth,bottle,restaurant,hall,Things commonly present at a wedding reception in a banquet hall,66.25,84.75,0.297868995,0.23590723333333333,4
+model,72,teeth,bottle,restaurant,hall,"Things that can be ""capped"" or have a ""cap""",46,63.5,0.297868995,0.23590723333333333,4
+model,72,teeth,bottle,restaurant,hall,Things that can be capped or covered,48.875,57,0.297868995,0.23590723333333333,16
+model,73,damage,sale,schedule,divorce,Common reasons ordinary people might have a case in civil/family court,75.5,79,0.3018125583333333,0.24656727666666667,2
+model,73,damage,sale,schedule,divorce,Life events that often require legal documentation or consultation,58,72.75,0.3018125583333333,0.24656727666666667,4
+model,73,damage,sale,schedule,divorce,"Matters commonly addressed during divorce proceedings (e.g., property damage claims, sale of assets, custody schedule, the divorce itself)",84.6,90,0.3018125583333333,0.24656727666666667,5
+model,73,damage,sale,schedule,divorce,Possible outcomes or rulings a judge might issue in a civil or family court case,74.83333333333333,78.16666666666667,0.3018125583333333,0.24656727666666667,6
+model,73,damage,sale,schedule,divorce,Things that can be finalized or settled legally,78.6,71.8,0.3018125583333333,0.24656727666666667,5
+model,73,damage,sale,schedule,divorce,Things that can be finalized or settled legally.,76,81.66666666666667,0.3018125583333333,0.24656727666666667,3
+model,74,account,subject,winner,vacation,Elements of a promotional sweepstakes where an account holder can win a vacation,55.833333333333336,82,0.31823930666666667,0.29318288000000003,6
+model,74,account,subject,winner,vacation,"Things that can be ""taken"" in a figurative or literal sense",75.16666666666667,58.666666666666664,0.31823930666666667,0.29318288000000003,12
+model,74,account,subject,winner,vacation,"Things that can be ""taken"" in a metaphorical or literal sense",57.25,54.25,0.31823930666666667,0.29318288000000003,4
+model,75,pressure,fool,charge,force,"Aggressive tactics a pushy salesperson might use on customers (pressure them, fool them, overcharge them, force them into a deal)",91,99.5,0.3968175166666666,0.28844236666666667,2
+model,75,pressure,fool,charge,force,Common English words that function as both nouns and verbs,59.666666666666664,35.666666666666664,0.3968175166666666,0.28844236666666667,3
+model,75,pressure,fool,charge,force,Things that can be exerted or applied on someone,66.55555555555556,67.11111111111111,0.3968175166666666,0.28844236666666667,18
+model,75,pressure,fool,charge,force,"Ways a person might try to manipulate or coerce someone else (pressure, fool, charge, force)",85.66666666666667,79,0.3968175166666666,0.28844236666666667,3
+model,75,pressure,fool,charge,force,"Words that can follow ""under"" to form a common phrase",19,76,0.3968175166666666,0.28844236666666667,3
+model,77,ways,decision,secret,duty,Aspects of a moral dilemma,83,63.75,0.34285741166666667,0.32696795333333334,4
+model,77,ways,decision,secret,duty,"Concepts that are central to ethical dilemmas (choosing between options, deciding, keeping/revealing a secret, and fulfilling duty)",77,84.66666666666667,0.34285741166666667,0.32696795333333334,3
+model,77,ways,decision,secret,duty,Elements of a moral dilemma a character might face in a story,63.5,62,0.34285741166666667,0.32696795333333334,4
+model,77,ways,decision,secret,duty,Moral and personal issues someone might wrestle with when choosing how to act,80.33333333333333,44.666666666666664,0.34285741166666667,0.32696795333333334,3
+model,77,ways,decision,secret,duty,"Things that can be ""weighed"" in a metaphorical sense",53.714285714285715,64.71428571428571,0.34285741166666667,0.32696795333333334,7
+model,77,ways,decision,secret,duty,Things that can be weighed or considered in a moral dilemma,62.5,69.75,0.34285741166666667,0.32696795333333334,4
+model,78,monsieur,tour,demon,season,Common English words that entered English through French (Old French/Modern French loanwords),74.33333333333333,88.33333333333333,0.23584563,0.19965076666666667,3
+model,78,monsieur,tour,demon,season,English words borrowed from French (loanwords of French origin),52.25,69.75,0.23584563,0.19965076666666667,4
+model,78,monsieur,tour,demon,season,"Words that can be preceded by ""The"" to form a title of a book, film, or other work",76,63.2,0.23584563,0.19965076666666667,5
+model,78,monsieur,tour,demon,season,"Words that can be preceded by ""The"" to form a title of a film, TV show, or book",72.9,64.5,0.23584563,0.19965076666666667,10
+model,79,church,key,tree,tape,Items that can be used as symbols in a family coat of arms or heraldry,67,88.66666666666667,0.2904838083333333,0.2759212066666667,3
+model,79,church,key,tree,tape,Items that can be used to mark a boundary or territory,54,60,0.2904838083333333,0.2759212066666667,6
+model,79,church,key,tree,tape,Items that might be used in a wedding ceremony or celebration,40,100,0.2904838083333333,0.2759212066666667,1
+model,79,church,key,tree,tape,Things involved in setting up Christmas decorations at a church,76.83333333333333,60,0.2904838083333333,0.2759212066666667,6
+model,79,church,key,tree,tape,Things you might use when decorating a church for Christmas,76,72.4,0.2904838083333333,0.2759212066666667,5
+model,80,breath,chair,sky,drug,Common ways people try to relax or relieve stress,81.6,61.6,0.29325844166666665,0.2646227333333333,5
+model,80,breath,chair,sky,drug,Things a nervous airline passenger might focus on during a turbulent flight,71.375,81.88888888888889,0.29325844166666665,0.2646227333333333,9
+model,80,breath,chair,sky,drug,Things that can be altered or experienced differently under the influence of a substance,78.66666666666667,61.333333333333336,0.29325844166666665,0.2646227333333333,3
+model,80,breath,chair,sky,drug,"Things that can be described as ""high""",66.23076923076923,54.84615384615385,0.29325844166666665,0.2646227333333333,26
+model,81,fairy,trail,suite,spy,"Characters and locations commonly found in a children's fantasy spy story (a fairy, a forest trail, a hotel suite, and a spy)",85.33333333333333,94,0.3591029383333333,0.33908055,3
+model,81,fairy,trail,suite,spy,"Words that can follow ""honey"" to form a compound noun or phrase",25.333333333333332,72.5,0.3591029383333333,0.33908055,6
+model,81,fairy,trail,suite,spy,"Words that can follow ""honey"" to form a compound noun or phrase.",62.75,85.5,0.3591029383333333,0.33908055,4
+model,81,fairy,trail,suite,spy,"Words that can follow ""honeymoon"" to form a compound term or phrase",54,89.25,0.3591029383333333,0.33908055,4
+model,82,flag,locker,actress,tube,Items that can be found in a prop room or backstage at a theater,74.2,78.4,0.24307741333333333,0.19660024,5
+model,82,flag,locker,actress,tube,Items that might be found in a high school theater's prop room or backstage area,75,76,0.24307741333333333,0.19660024,2
+model,82,flag,locker,actress,tube,Things commonly found in or around a high school,44.333333333333336,69.88888888888889,0.24307741333333333,0.19660024,9
+model,82,flag,locker,actress,tube,Things commonly found or used backstage in a theater (dressing rooms and stage prep areas),49.166666666666664,79.16666666666667,0.24307741333333333,0.19660024,6
+model,82,flag,locker,actress,tube,"Things that can be ""starred"" or feature a star symbol",30,65.5,0.24307741333333333,0.19660024,2
+model,83,weight,player,battle,manager,"Aspects of organizing a competitive combat sports match (e.g., boxing or MMA)",66,86,0.34948540166666664,0.2907170333333334,3
+model,83,weight,player,battle,manager,Common terms used in football (soccer) match commentary,52.375,66,0.34948540166666664,0.2907170333333334,8
+model,83,weight,player,battle,manager,Roles or elements in a professional wrestling storyline,72.42857142857143,73.07142857142857,0.34948540166666664,0.2907170333333334,14
+model,84,neighborhood,airport,cheese,princess,"Simple concrete nouns commonly used as example vocabulary for young children (place, food, person)",42,55,0.3097739883333333,0.28294949999999996,1
+model,84,neighborhood,airport,cheese,princess,Themed play areas you might find in a children's museum or indoor play center,47.75,79.5,0.3097739883333333,0.28294949999999996,4
+model,84,neighborhood,airport,cheese,princess,"Things that can be ""cottage"" prefixed or associated with a cottage",42.833333333333336,71.125,0.3097739883333333,0.28294949999999996,8
+model,84,neighborhood,airport,cheese,princess,"Things that can be described as ""cheddar"" in slang or wordplay",28.166666666666664,64.5,0.3097739883333333,0.28294949999999996,6
+model,84,neighborhood,airport,cheese,princess,"Things that can be described as ""royal"" or ""luxury"" versions (e.g., Royal Neighborhood, Airport Lounge, Cheese Board, Princess)",72,73,0.3097739883333333,0.28294949999999996,6
+model,85,radio,boyfriend,bus,sun,"Common elements in a teen coming-of-age story set during summer (boyfriend, bus rides, radio music, sunshine)",79.33333333333333,89.33333333333333,0.3209318616666667,0.28839977666666666,3
+model,85,radio,boyfriend,bus,sun,Common elements in a teen summer romance movie montage,81.8,90.6,0.3209318616666667,0.28839977666666666,5
+model,85,radio,boyfriend,bus,sun,"Things that can be ""caught"" in a metaphorical or literal sense",59.6,79,0.3209318616666667,0.28839977666666666,6
+model,85,radio,boyfriend,bus,sun,"Things that can be ""caught"" in a metaphorical or literal sense.",75,87,0.3209318616666667,0.28839977666666666,2
+model,85,radio,boyfriend,bus,sun,Things you might miss while on a long-distance trip,67.16666666666667,84.5,0.3209318616666667,0.28839977666666666,7
+model,86,pool,animal,prince,driver,Roles or titles in a fairy tale or story,34.75,49.75,0.34551544166666665,0.3010517466666667,4
+model,86,pool,animal,prince,driver,"Things that can be preceded by the word ""pool"" to form a common phrase or compound noun",10,83.25,0.34551544166666665,0.3010517466666667,4
+model,86,pool,animal,prince,driver,Things you might find on a luxury safari taken by a prince,78.75,88.25,0.34551544166666665,0.3010517466666667,4
+model,86,pool,animal,prince,driver,"Words that appear in the titles of well-known video game series (e.g., 8 Ball Pool, Animal Crossing, Prince of Persia, Driver)",95,73.66666666666667,0.34551544166666665,0.3010517466666667,3
+model,86,pool,animal,prince,driver,"Words that can be preceded by ""pool"" to form a compound noun",20,58.5,0.34551544166666665,0.3010517466666667,8
+model,87,dress,sergeant,film,bathroom,"Things a recruit commonly deals with during military boot camp (uniform dress, drill sergeants, training films, communal bathrooms)",91,87.5,0.363924155,0.33607504666666665,2
+model,87,dress,sergeant,film,bathroom,Things commonly found or needed on a movie set,63,80,0.363924155,0.33607504666666665,4
+model,87,dress,sergeant,film,bathroom,"Things that can be preceded by ""private""",85,74.66666666666667,0.363924155,0.33607504666666665,3
+model,87,dress,sergeant,film,bathroom,Things you might find in a military-themed movie set,69.66666666666667,70.16666666666667,0.363924155,0.33607504666666665,6
+model,87,dress,sergeant,film,bathroom,Things you might find in a movie set or theater production,45,74,0.363924155,0.33607504666666665,1
+model,91,exit,hug,warden,chopper,Elements in a dramatic prison escape scene in an action movie,81,93.5,0.2944677966666667,0.28039452,2
+model,91,exit,hug,warden,chopper,Things that can be associated with a prison break,70.375,64.125,0.2944677966666667,0.28039452,8
+model,91,exit,hug,warden,chopper,Things you might encounter at a prison break scene in a movie,44,82.5,0.2944677966666667,0.28039452,4
+model,91,exit,hug,warden,chopper,Things you might encounter in a prison escape scenario,67,80,0.2944677966666667,0.28039452,5
+model,92,trick,devil,speech,program,"Elements you might plan for a staged magic show (tricks, devilish character, patter speech, and overall program)",91.5,99,0.31987203833333333,0.2934972066666667,2
+model,92,trick,devil,speech,program,Tactics or tools used to influence voters in a political campaign,63.142857142857146,79.85714285714286,0.31987203833333333,0.2934972066666667,7
+model,92,trick,devil,speech,program,"Things that can be described as ""free"" in a deceptive or misleading way",75,77.5,0.31987203833333333,0.2934972066666667,2
+model,92,trick,devil,speech,program,"Things that can be described as ""free"" in a promotional or ironic sense",52.5,91,0.31987203833333333,0.2934972066666667,2
+model,92,trick,devil,speech,program,"Things that can be preceded by the word ""fire""",48.8,71.6,0.31987203833333333,0.2934972066666667,5
+model,93,cab,roof,monkey,pizza,"Things a tourist commonly encounters during a day out in New York City (cab ride, city rooftops, zoo monkeys, and a slice of pizza)",76.33333333333333,82.33333333333333,0.3549419583333333,0.31502487333333334,3
+model,93,cab,roof,monkey,pizza,"Things a tourist might photograph during a day in a big city (e.g., New York City)",57.5,83.33333333333333,0.3549419583333333,0.31502487333333334,6
+model,93,cab,roof,monkey,pizza,"Things that can be ""on top of"" something in a common phrase or idiom",14,77.5,0.3549419583333333,0.31502487333333334,2
+model,93,cab,roof,monkey,pizza,"Things you might encounter during a chaotic night out in a big city (taking a cab, ending up on a roof, seeing a monkey performer or mascot, grabbing late-night pizza)",51,67,0.3549419583333333,0.31502487333333334,2
+model,93,cab,roof,monkey,pizza,Things you might find in a children's song or nursery rhyme,34.25,75.25,0.3549419583333333,0.31502487333333334,4
+model,93,cab,roof,monkey,pizza,Things you might see in a cartoon about city life,73.57142857142857,80.71428571428571,0.3549419583333333,0.31502487333333334,7
+model,94,leader,contract,madame,county,Elements you might see mentioned in a news story about a county-level political corruption and sex scandal,80.66666666666667,97.33333333333333,0.25006603666666666,0.21030606666666665,3
+model,94,leader,contract,madame,county,"Terms commonly found in formal government or legal settings (e.g., in official documents or proceedings)",62,58.2,0.25006603666666666,0.21030606666666665,5
+model,94,leader,contract,madame,county,"Terms that can be preceded by ""head"" to form a compound noun or title",36.666666666666664,74.66666666666667,0.25006603666666666,0.21030606666666665,3
+model,94,leader,contract,madame,county,"Terms that can be preceded by ""head"" to form a compound word or title",62.714285714285715,63.142857142857146,0.25006603666666666,0.21030606666666665,7
+model,94,leader,contract,madame,county,"Terms that can be preceded by ""party""",47.833333333333336,57.285714285714285,0.25006603666666666,0.21030606666666665,7
+model,95,shirt,knife,weapon,jail,Elements involved in a stabbing incident inside a jail,60.333333333333336,76.66666666666667,0.41091648666666675,0.3152749733333333,3
+model,95,shirt,knife,weapon,jail,Elements of a stabbing crime that results in imprisonment,65.33333333333333,75,0.41091648666666675,0.3152749733333333,3
+model,95,shirt,knife,weapon,jail,Items that can be used as evidence in a crime scene investigation,76,77.8,0.41091648666666675,0.3152749733333333,5
+model,95,shirt,knife,weapon,jail,Items that could be used as evidence in a crime scene investigation,84.28571428571429,75.57142857142857,0.41091648666666675,0.3152749733333333,7
+model,95,shirt,knife,weapon,jail,Items that might be confiscated during a police arrest,40.857142857142854,78,0.41091648666666675,0.3152749733333333,7
+model,95,shirt,knife,weapon,jail,Key elements involved in a stabbing crime that results in someone going to jail,81.4,94.6,0.41091648666666675,0.3152749733333333,5
+model,97,singer,thumb,temple,dime,Elements of a street singer performing outside a temple for tips,72.22222222222223,78.11111111111111,0.23308827833333337,0.21663982333333337,9
+model,97,singer,thumb,temple,dime,Things involved in tossing a small coin into a temple donation box during a hymn,81.8,94.2,0.23308827833333337,0.21663982333333337,5
+model,97,singer,thumb,temple,dime,"Things that can be ""pressed"" (as a verb or action)",56.75,70,0.23308827833333337,0.21663982333333337,4
+model,97,singer,thumb,temple,dime,"Things that can be ""ring"" related",38.4,49.8,0.23308827833333337,0.21663982333333337,10
+model,97,singer,thumb,temple,dime,Things you might notice while giving spare change to a street singer performing on the street,59.714285714285715,68.14285714285714,0.23308827833333337,0.21663982333333337,7
+model,98,cigarette,tank,painting,garden,Artifacts and displays you might see in a World War II museum exhibit,48.333333333333336,72.5,0.36031879166666664,0.30208948333333335,3
+model,98,cigarette,tank,painting,garden,"Items that can be part of a ""smoking"" or ""smoky"" theme in art or representation",55.8,73.2,0.36031879166666664,0.30208948333333335,5
+model,98,cigarette,tank,painting,garden,Items that can be part of a still life composition,78.75,44,0.36031879166666664,0.30208948333333335,4
+model,98,cigarette,tank,painting,garden,"Things that can be described as ""smoky""",35.857142857142854,65,0.36031879166666664,0.30208948333333335,7
+model,98,cigarette,tank,painting,garden,Things you might find at a war or military history museum,50.333333333333336,74.66666666666667,0.36031879166666664,0.30208948333333335,3
+model,98,cigarette,tank,painting,garden,Things you might find in the outdoor area (yard/backyard) of a house,70.66666666666667,64.66666666666667,0.36031879166666664,0.30208948333333335,3
+model,99,signal,heat,contact,director,Elements of a fire alarm system,54.666666666666664,75.33333333333333,0.302192245,0.26512003,3
+model,99,signal,heat,contact,director,Key elements involved in a search-and-rescue operation,57,77,0.302192245,0.26512003,6
+model,99,signal,heat,contact,director,"Things that can be ""lost"" in a movie or film context",43.25,70.25,0.302192245,0.26512003,4
+model,99,signal,heat,contact,director,"Things that can be ""lost"" in a sports context",44.333333333333336,60,0.302192245,0.26512003,3
+model,100,mister,conversation,size,code,Details you might exchange when ordering clothing from a catalog over the phone,63,83.4,0.253789015,0.22614272,5
+model,100,mister,conversation,size,code,Elements of a spy's cover identity,48,60.2,0.253789015,0.22614272,5
+model,100,mister,conversation,size,code,"Elements that can be preceded by ""small talk"" to form common phrases",62.125,67.66666666666666,0.253789015,0.22614272,20

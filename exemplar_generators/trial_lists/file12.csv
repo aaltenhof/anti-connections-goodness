@@ -1,0 +1,74 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+699,58,human,station,record,girlfriend,cop,Listening to the radio on crime in the area while on a date
+386,31,human,letter,college,lawyer,bank,"After High school, what career plans do you have afterwards?"
+1309,47,model,blade,rocket,patch,robot,Items that can be part of a futuristic soldier's combat gear
+104,8,human,murder,dude,afternoon,message,A murder of the mailman
+180,15,human,furniture,clown,towel,corn,Recognizable textures
+1461,81,model,fairy,trail,suite,spy,"Words that can follow ""honeymoon"" to form a compound term or phrase"
+1200,22,model,court,lieutenant,lunch,mama,"Things that can be preceded by the word ""county"""
+625,51,human,machine,gift,cash,land,terms you might find/relate to native american territories
+77,6,human,house,boy,baby,girl,All things that little kids like to either play with or as during recess
+25,2,human,room,mother,world,woman,birth
+1519,97,model,singer,thumb,temple,dime,"Things that can be ""ring"" related"
+591,48,human,ship,horse,tv,clothes,"things with a ""deck"""
+667,55,human,photo,stairs,university,belt,Things you need in the university
+1344,54,model,rose,bike,button,dollar,Things you might find in a child's treasure box
+341,26,human,defense,safety,command,permission,police
+1029,92,human,trick,devil,speech,program,bible
+496,40,human,killer,surprise,space,idiot,The movie scream
+934,82,human,flag,locker,actress,tube,Things that can be multiple colors
+208,17,human,funeral,arrest,unit,taste,"A romcom about a cop and a criminal falling in love but the cop dies in action, leaving the criminal alone and mourning."
+1132,3,model,birthday,state,pain,meeting,Topics a therapist might discuss with a client during a counseling session
+314,24,human,building,army,train,card,Hard to access
+232,18,human,camera,chicken,wine,park,aspects a part of a picnic date
+1264,38,model,difference,pleasure,situation,service,Aspects of customer satisfaction in a business context
+262,20,human,ground,gold,nose,professor,class
+916,80,human,breath,chair,sky,drug,things that can cause hallucinations
+1319,49,model,bird,rain,cake,chest,"Things that can be associated with the word ""birthday"""
+505,41,human,neck,arm,hat,computer,Super hacking
+527,43,human,truck,list,store,star,Walmart
+130,9,human,word,number,week,part,groups to organize
+718,60,human,pardon,condition,shame,health,Emotions of a person who confesses their sins
+370,29,human,oxygen,temperature,movement,pattern,hospital
+974,85,human,radio,boyfriend,bus,sun,Things that may be seen in a 90's movie intro
+1086,98,human,cigarette,tank,painting,garden,Things that are symbolic of the dynamic between life and death
+1223,28,model,hotel,ball,boat,earth,"Things that can be preceded by the word ""ball"" to form a common phrase or term."
+160,13,human,child,daughter,book,city,something with many layers
+866,75,human,pressure,fool,charge,force,Words used in sports commentary
+515,42,human,stage,board,shop,camp,Things to find at an amusement park
+843,73,human,damage,sale,schedule,divorce,Things can be found in a divorce contract
+1508,94,model,leader,contract,madame,county,"Terms that can be preceded by ""head"" to form a compound word or title"
+780,65,human,base,project,weather,property,construction site
+1248,34,model,bag,apartment,window,box,Items that might be used when moving to a new home
+99,7,human,trip,summer,doc,evidence,Words associated with vacation
+810,69,human,gas,test,group,field,Things that can follow the word blood
+301,23,human,husband,captain,dinner,line,Date night
+997,87,human,dress,sergeant,film,bathroom,Things in a movie
+1038,93,human,cab,roof,monkey,pizza,Things you might see in a visit to new york
+1170,14,model,mouth,floor,plane,officer,"Things that can be ""on the"" in common phrases"
+969,84,human,neighborhood,airport,cheese,princess,things that can be enjoyable for people
+885,78,human,monsieur,tour,demon,season,France
+990,86,human,pool,animal,prince,driver,Zoo Topia in the water
+194,16,human,case,death,party,couple,A place where people would gather for a big event.
+853,74,human,account,subject,winner,vacation,Things that center around a person's goals
+1294,44,model,area,top,report,ride,Things you might see on a ski resort's daily information board
+487,39,human,king,piece,boss,class,cake
+419,33,human,shower,planet,bedroom,candy,child
+1059,95,human,shirt,knife,weapon,jail,Things that correlate to prison
+1255,35,model,heavens,stress,punishment,option,"Things that can be described as ""heavenly"" or ""hellish"" depending on perspective"
+144,12,human,deal,second,rest,end,end of week
+732,61,human,coat,milk,jury,meat,Things seen by a person on a trip from court to the store
+826,71,human,desk,note,cream,ticket,things you may find in a person's bedroom
+460,37,human,partner,folks,middle,angel,Things that can be used to describe a person's standing in age
+1123,1,model,doctor,phone,hand,town,"Things involved in arranging treatment for a hand injury in a small town (the doctor you see, the phone you use to call, your injured hand, and the town where it happens)"
+1106,99,human,signal,heat,contact,director,"things involved in ""chemistry"""
+830,72,human,teeth,bottle,restaurant,hall,Physical fight
+1330,52,model,horn,basketball,chick,flower,Everyday objects that each have their own commonly used single emoji
+1406,68,model,telephone,wire,sword,desert,Items that could be found in a scene from an old adventure film set in the Middle East
+403,32,human,eye,road,table,paper,Words ending in cloth
+676,56,human,ear,radar,senator,jacket,Things that can signal or indicate
+240,19,human,drink,shot,movie,picture,Cinema
+1450,79,model,church,key,tree,tape,Items that can be used to mark a boundary or territory
+788,67,human,language,freedom,rule,society,Topics brought up in court
+1440,77,model,ways,decision,secret,duty,"Concepts that are central to ethical dilemmas (choosing between options, deciding, keeping/revealing a secret, and fulfilling duty)"
+767,64,human,gate,mail,chocolate,shoe,Things required when picking packages while hungry

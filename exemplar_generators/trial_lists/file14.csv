@@ -1,0 +1,74 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+1445,78,model,monsieur,tour,demon,season,Common English words that entered English through French (Old French/Modern French loanwords)
+883,77,human,ways,decision,secret,duty,"things you can ""keep"" to"
+150,13,human,child,daughter,book,city,All pieces that are integral to girl's coming of age themes
+75,5,human,hair,food,coffee,street,things that can be brown
+1463,82,model,flag,locker,actress,tube,Items that might be found in a high school theater's prop room or backstage area
+294,22,human,court,lieutenant,lunch,mama,parent
+719,60,human,pardon,condition,shame,health,Hospital
+421,33,human,shower,planet,bedroom,candy,words that can be paired with bar
+1521,98,model,cigarette,tank,painting,garden,Artifacts and displays you might see in a World War II museum exhibit
+1468,83,model,weight,player,battle,manager,Common terms used in football (soccer) match commentary
+673,56,human,ear,radar,senator,jacket,Congress voting on something in the cold weather
+300,23,human,husband,captain,dinner,line,"Could all have to do with leadership. Husband is usually seen as ""head"" of household, captain is incharge of ship/plane, dinner is usually the biggest meal, line lead people."
+222,17,human,funeral,arrest,unit,taste,things that happen to bad people
+1394,64,model,gate,mail,chocolate,shoe,Things that might be left on or near a home's front doorstep or entryway
+1018,91,human,exit,hug,warden,chopper,things in jails
+463,37,human,partner,folks,middle,angel,concepts that are relevant around the holidays
+799,68,human,telephone,wire,sword,desert,connects
+820,71,human,desk,note,cream,ticket,Things you might have in an office
+168,14,human,mouth,floor,plane,officer,Things that have a similar function
+230,18,human,camera,chicken,wine,park,a celebration/party
+900,79,human,church,key,tree,tape,has a connection to life
+1251,34,model,bag,apartment,window,box,Things you might use when moving to a new home
+1122,1,model,doctor,phone,hand,town,Resources people rely on during an emergency in a small town
+576,47,human,blade,rocket,patch,robot,stuff at robot fighting
+514,42,human,stage,board,shop,camp,Preparing for sleep away camp
+1297,45,model,cell,queen,glass,teacher,Elements of a classroom observation hive used to study honeybees
+1483,86,model,pool,animal,prince,driver,"Words that appear in the titles of well-known video game series (e.g., 8 Ball Pool, Animal Crossing, Prince of Persia, Driver)"
+318,24,human,building,army,train,card,These are all nouns
+651,54,human,rose,bike,button,dollar,Homecoming week in an 80s romcom
+108,8,human,murder,dude,afternoon,message,Surfing at 1 pm when someone is killed and made to look like a suicide to send a message
+380,30,human,club,colonel,wedding,agent,concepts where there is thought to be a leader
+630,52,human,horn,basketball,chick,flower,Things that have a round shape
+351,27,human,hero,enemy,east,mission,words associated with battles
+716,59,human,pants,hole,sea,river,shore
+928,81,human,fairy,trail,suite,spy,things that could be in a fairytale
+1007,87,human,dress,sergeant,film,bathroom,things that would be in a Taylor Swift music video
+202,16,human,case,death,party,couple,a murder at a party
+1347,55,model,photo,stairs,university,belt,Items you might find in a student's dorm room
+435,35,human,heavens,stress,punishment,option,College
+83,6,human,house,boy,baby,girl,bringing home a kid from the hospital
+449,36,human,anger,confession,request,solution,Things that can be mentioned in the interrogation room
+1214,26,model,defense,safety,command,permission,Types of authorization or control in computer security
+1113,100,human,mister,conversation,size,code,Things that are the result of an engagement
+1414,69,model,gas,test,group,field,Types of scientific studies or research contexts
+911,80,human,breath,chair,sky,drug,all nouns
+393,31,human,letter,college,lawyer,bank,banker
+850,74,human,account,subject,winner,vacation,Game show rewards
+1501,93,model,cab,roof,monkey,pizza,"Things that can be ""on top of"" something in a common phrase or idiom"
+242,19,human,drink,shot,movie,picture,Going out to a party where they show a show/movie
+372,29,human,oxygen,temperature,movement,pattern,things that can be measured
+255,20,human,ground,gold,nose,professor,Educated people stay ahead of others in multiple ways like money and have resources to understand things better
+1375,61,model,coat,milk,jury,meat,"Things that can be ""hung"""
+1064,95,human,shirt,knife,weapon,jail,Words that may be used in a police report
+1224,28,model,hotel,ball,boat,earth,"Things that can be preceded by the word ""room"" to form a common phrase"
+778,65,human,base,project,weather,property,Tnings that might be destroyed by storms
+44,3,human,birthday,state,pain,meeting,things can be observed
+1293,44,model,area,top,report,ride,Things you might check or talk about when reviewing a ride at an amusement park
+398,32,human,eye,road,table,paper,"In a construction workplace, what essential are important to be safe?"
+1276,41,model,neck,arm,hat,computer,"Places or items people commonly personalize with visible designs (tattoos, patches, stickers, or decals)"
+1388,63,model,glasses,pocket,lake,buck,Things you might lose while on a fishing trip
+603,49,human,bird,rain,cake,chest,types of baked goods
+482,39,human,king,piece,boss,class,London and how they a piece of there city is made up of powerful people
+20,2,human,room,mother,world,woman,The basis of an artist's work when exploring trauma.
+685,57,human,suit,beach,tea,arms,Items associated with the beach.
+147,12,human,deal,second,rest,end,retirement
+1146,7,model,trip,summer,doc,evidence,Information gathered for a personal injury lawsuit about an accident on a summer trip
+696,58,human,station,record,girlfriend,cop,Elements of a crime
+186,15,human,furniture,clown,towel,corn,fair
+840,73,human,damage,sale,schedule,divorce,An agreement
+643,53,human,football,bullet,soldier,crowd,War and sports
+745,62,human,sheriff,foot,prison,wall,Words that can follow head
+581,48,human,ship,horse,tv,clothes,Things a child might like
+122,9,human,word,number,week,part,Parts of a whole

@@ -1,0 +1,73 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+128,9,human,word,number,week,part,calender
+1328,51,model,machine,gift,cash,land,"Types of prizes you might win on a game show or in a contest (e.g., a machine/appliance, a gift item, a cash prize, or a plot of land)"
+385,30,human,club,colonel,wedding,agent,words used during wartime
+23,2,human,room,mother,world,woman,Things we take for granted
+572,47,human,blade,rocket,patch,robot,Words the could end in man
+1069,95,human,shirt,knife,weapon,jail,things located in a jail
+224,18,human,camera,chicken,wine,park,All things that could be found on an evening picnic date
+760,63,human,glasses,pocket,lake,buck,words that can all follow the word eye
+291,22,human,court,lieutenant,lunch,mama,army
+1137,4,model,dog,blood,bed,office,Things that can be found in a veterinary clinic
+1013,91,human,exit,hug,warden,chopper,Things you may find in a prison
+662,55,human,photo,stairs,university,belt,All found on a college campus.
+212,17,human,funeral,arrest,unit,taste,"They can be linked to the word ""house"""
+960,84,human,neighborhood,airport,cheese,princess,Milwaukee
+141,12,human,deal,second,rest,end,a portion of a whole
+479,38,human,difference,pleasure,situation,service,volunteering
+1166,13,model,child,daughter,book,city,"Words that can follow ""New York"" to form a proper noun or common phrase"
+1046,94,human,leader,contract,madame,county,The First Lady
+727,60,human,pardon,condition,shame,health,doctor's office or a diagnosis
+822,71,human,desk,note,cream,ticket,notebook doodles
+1282,42,model,stage,board,shop,camp,Terms commonly used in theater and performance contexts
+345,27,human,hero,enemy,east,mission,War
+770,64,human,gate,mail,chocolate,shoe,mall entrance
+918,81,human,fairy,trail,suite,spy,A mission impossible movie gone wrong
+1467,83,model,weight,player,battle,manager,"Aspects of organizing a competitive combat sports match (e.g., boxing or MMA)"
+189,15,human,furniture,clown,towel,corn,they can all be yellow or orange.
+1150,7,model,trip,summer,doc,evidence,"Things that can be preceded by ""road"" to form a common phrase"
+877,77,human,ways,decision,secret,duty,Types of routes
+649,53,human,football,bullet,soldier,crowd,words that huddle
+984,86,human,pool,animal,prince,driver,Associated with a lot of money or high in cost
+1531,100,model,mister,conversation,size,code,Details you might exchange when ordering clothing from a catalog over the phone
+431,34,human,bag,apartment,window,box,things commonly found in a house
+1242,32,model,eye,road,table,paper,"Things that have corners (e.g., corner of your eye, street corner, table corner, corner of a sheet of paper)"
+543,44,human,area,top,report,ride,region
+848,74,human,account,subject,winner,vacation,Commonly numerically counted terms
+299,23,human,husband,captain,dinner,line,Captain of a fishing boat
+1380,62,model,sheriff,foot,prison,wall,Things that can be part of a prison escape scenario
+117,8,human,murder,dude,afternoon,message,mystery tv show
+354,28,human,hotel,ball,boat,earth,Things that are can be used on a basketball teams bonding trip
+815,69,human,gas,test,group,field,science things
+193,16,human,case,death,party,couple,A murder mystery
+1193,19,model,drink,shot,movie,picture,"Things you can ""take"""
+174,14,human,mouth,floor,plane,officer,police
+787,67,human,language,freedom,rule,society,New things that were found in the 13 colonies
+1429,73,model,damage,sale,schedule,divorce,Things that can be finalized or settled legally
+1133,3,model,birthday,state,pain,meeting,Topics you might discuss during a therapy or counseling session
+1522,98,model,cigarette,tank,painting,garden,"Items that can be part of a ""smoking"" or ""smoky"" theme in art or representation"
+340,26,human,defense,safety,command,permission,military
+560,46,human,brain,beer,fish,ice,Things that can be cold/wet
+868,75,human,pressure,fool,charge,force,government
+556,45,human,cell,queen,glass,teacher,words that can be paired with class
+1031,92,human,trick,devil,speech,program,necessary components of a good trick-or-treat
+502,41,human,neck,arm,hat,computer,Compound nouns
+1322,50,model,spot,client,pal,north,Common elements in a classic private-detective case
+1397,65,model,base,project,weather,property,Key elements to consider when planning a building construction project
+279,21,human,security,system,information,order,keeping something safe
+707,59,human,pants,hole,sea,river,Forest
+1462,82,model,flag,locker,actress,tube,Items that can be found in a prop room or backstage at a theater
+1374,61,model,coat,milk,jury,meat,"Items that can be described as ""cold"" in a literal or metaphorical sense."
+794,68,human,telephone,wire,sword,desert,They can have a line
+590,48,human,ship,horse,tv,clothes,things that can all be very valuable
+914,80,human,breath,chair,sky,drug,smoking a cigar in the backyard and you have.
+1447,78,model,monsieur,tour,demon,season,"Words that can be preceded by ""The"" to form a title of a book, film, or other work"
+63,5,human,hair,food,coffee,street,If these things arent good Ill have a bad day
+1126,1,model,doctor,phone,hand,town,Things you might use to respond to an emergency in a small community
+455,36,human,anger,confession,request,solution,problem solving
+89,6,human,house,boy,baby,girl,toys you might find in a childs room
+488,39,human,king,piece,boss,class,chess
+434,35,human,heavens,stress,punishment,option,Characteristic of good and or bad.
+1286,43,model,truck,list,store,star,Common English words that function as both nouns and verbs
+327,24,human,building,army,train,card,toys you might find in a little boys room
+1107,99,human,signal,heat,contact,director,things you would use if you got in a car accident

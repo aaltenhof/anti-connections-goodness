@@ -1,0 +1,74 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+473,38,human,difference,pleasure,situation,service,Working a job you love
+1393,64,model,gate,mail,chocolate,shoe,Things that can be left on a front porch
+869,75,human,pressure,fool,charge,force,physics
+295,22,human,court,lieutenant,lunch,mama,people or places with authority
+497,40,human,killer,surprise,space,idiot,dumb
+1036,93,human,cab,roof,monkey,pizza,Things related to a scene including King Kong
+1515,95,model,shirt,knife,weapon,jail,Key elements involved in a stabbing crime that results in someone going to jail
+1103,99,human,signal,heat,contact,director,movie titles
+952,83,human,weight,player,battle,manager,What you might find at a wrestling match
+1296,44,model,area,top,report,ride,"Words commonly used in local TV news, especially in weather and traffic segments"
+448,36,human,anger,confession,request,solution,Scandal
+1300,45,model,cell,queen,glass,teacher,"Things that can be preceded by ""mother"" to form a compound term"
+609,50,human,spot,client,pal,north,"Things can be found in the movie ""Stand by Me"""
+687,57,human,suit,beach,tea,arms,The beaches of Southern France
+1398,65,model,base,project,weather,property,Key factors considered before starting a building construction project on a piece of land
+860,74,human,account,subject,winner,vacation,things you to do with winning the lottery
+1085,98,human,cigarette,tank,painting,garden,Thing that someone might find at a park
+1379,62,model,sheriff,foot,prison,wall,"Things that can be ""on the run"" or associated with an escape attempt"
+1241,32,model,eye,road,table,paper,"Things that can be described as having a ""corner"" or ""cornered"""
+653,54,human,rose,bike,button,dollar,Things a man may bring when proposing a woman 40 years ago
+121,9,human,word,number,week,part,All things that can be numerically classified
+1191,19,model,drink,shot,movie,picture,"Things that can be described as ""short"""
+228,18,human,camera,chicken,wine,park,Things required for a picnic date night
+508,41,human,neck,arm,hat,computer,things involved in a construction job
+90,7,human,trip,summer,doc,evidence,A diagnosis of a foreign disease
+661,55,human,photo,stairs,university,belt,... escalator
+925,81,human,fairy,trail,suite,spy,men in black
+575,47,human,blade,rocket,patch,robot,robotics class
+1231,30,model,club,colonel,wedding,agent,"Roles or titles that can be preceded by ""secret"" to form a common phrase."
+272,21,human,security,system,information,order,Museum
+1285,42,model,stage,board,shop,camp,Types of summer programs for children
+586,48,human,ship,horse,tv,clothes,movie about the Columbian exchange
+721,60,human,pardon,condition,shame,health,Subjects of public stigma or public discussion
+678,56,human,ear,radar,senator,jacket,Things that you might find in a movie set in cold weather
+933,82,human,flag,locker,actress,tube,Things found in a sports advertisement
+347,27,human,hero,enemy,east,mission,conflict
+1020,91,human,exit,hug,warden,chopper,things related to prison
+640,53,human,football,bullet,soldier,crowd,Things that come in large amounts.
+698,58,human,station,record,girlfriend,cop,Law
+332,26,human,defense,safety,command,permission,The Army
+754,63,human,glasses,pocket,lake,buck,Things that can be found in up north wisconsin
+1421,72,model,teeth,bottle,restaurant,hall,Things associated with eating and drinking (from body part to container to dining venues)
+391,31,human,letter,college,lawyer,bank,Things a law firm worker might experience throughout his career
+307,23,human,husband,captain,dinner,line,cruise
+4,1,human,doctor,phone,hand,town,Places you might find a doctors office
+1184,17,model,funeral,arrest,unit,taste,"Things that can be preceded by the word ""after"" to form a common phrase"
+1305,46,model,brain,beer,fish,ice,"Things that can be ""on"" a person (as slang or idiomatic expressions)"
+628,52,human,horn,basketball,chick,flower,Outside
+179,15,human,furniture,clown,towel,corn,Items that can match in color
+413,33,human,shower,planet,bedroom,candy,Stuff at an airport for first class passangers
+1425,73,model,damage,sale,schedule,divorce,Common reasons ordinary people might have a case in civil/family court
+797,68,human,telephone,wire,sword,desert,Things you might find in an action film
+1111,100,human,mister,conversation,size,code,Gossip
+1144,6,model,house,boy,baby,girl,Members of a nuclear family
+444,35,human,heavens,stress,punishment,option,words you might hear in a prison
+738,61,human,coat,milk,jury,meat,jug
+1443,77,model,ways,decision,secret,duty,"Things that can be ""weighed"" in a metaphorical sense"
+1052,94,human,leader,contract,madame,county,madame president
+17,2,human,room,mother,world,woman,All related to societal roles
+1163,12,model,deal,second,rest,end,"Words that can follow ""the"" to form common phrases"
+201,16,human,case,death,party,couple,a crime movie
+897,79,human,church,key,tree,tape,Christmas
+72,5,human,hair,food,coffee,street,farmers market
+995,86,human,pool,animal,prince,driver,things in royaltys house
+432,34,human,bag,apartment,window,box,things that can be locked
+1135,4,model,dog,blood,bed,office,Things commonly found in a hospital setting
+40,3,human,birthday,state,pain,meeting,giving birth
+526,43,human,truck,list,store,star,Things that need to be bought eat the store for a truck
+313,24,human,building,army,train,card,All things that were either characters or pivotal plot points in Toy Story 1
+1454,80,model,breath,chair,sky,drug,Common ways people try to relax or relieve stress
+981,85,human,radio,boyfriend,bus,sun,things in a student would have
+1520,97,model,singer,thumb,temple,dime,Things you might notice while giving spare change to a street singer performing on the street
+786,67,human,language,freedom,rule,society,Items associated with politics.

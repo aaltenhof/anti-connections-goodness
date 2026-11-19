@@ -1,0 +1,73 @@
+category_id,group_id,subject_type,word1,word2,word3,word4,category_response
+1060,95,human,shirt,knife,weapon,jail,Things that relate to crime
+133,9,human,word,number,week,part,things learned in elementary school
+551,45,human,cell,queen,glass,teacher,container
+627,52,human,horn,basketball,chick,flower,Items you could find on a garage table.
+112,8,human,murder,dude,afternoon,message,arrest
+1477,85,model,radio,boyfriend,bus,sun,"Things that can be ""caught"" in a metaphorical or literal sense"
+1044,93,human,cab,roof,monkey,pizza,things in teenage mutant ninja turtles
+1182,17,model,funeral,arrest,unit,taste,"Things that can be preceded by the word ""after"" to describe an experience or event"
+251,19,human,drink,shot,movie,picture,television award show
+409,32,human,eye,road,table,paper,roadtrip
+672,56,human,ear,radar,senator,jacket,All of these are necessary on a boat.
+1325,51,model,machine,gift,cash,land,Assets that can be inherited or passed down in an estate
+524,43,human,truck,list,store,star,Shopping
+1323,50,model,spot,client,pal,north,"Words that are one half of a familiar contrasting pair (north/south, client/server, friend/foe, spots/stripes)"
+831,72,human,teeth,bottle,restaurant,hall,Things talked about at the dentist
+195,16,human,case,death,party,couple,All things that tend to appear in murder mysteries involving rich families
+1159,12,model,deal,second,rest,end,Common English words that function as both a noun and a verb
+383,30,human,club,colonel,wedding,agent,important things
+1401,67,model,language,freedom,rule,society,Core concepts in political philosophy
+43,3,human,birthday,state,pain,meeting,reasons people might gather around you
+1317,48,model,ship,horse,tv,clothes,Things you might use or encounter on a cruise vacation
+397,31,human,letter,college,lawyer,bank,words used in the corporate world
+467,37,human,partner,folks,middle,angel,wedding
+841,73,human,damage,sale,schedule,divorce,Effects of divorce
+701,58,human,station,record,girlfriend,cop,Things that might be involved when getting in trouble with the cops
+819,71,human,desk,note,cream,ticket,Things that could be found in a bedroom.
+280,21,human,security,system,information,order,person's security information
+1278,41,model,neck,arm,hat,computer,"Things you might adjust for comfort when settling in to use a computer (your neck position, arm position, hat, and the computer itself)"
+1026,92,human,trick,devil,speech,program,Things used deceive people
+1226,29,model,oxygen,temperature,movement,pattern,Essential factors for monitoring a patient's vital signs in a hospital setting
+1269,39,model,king,piece,boss,class,"Terms that can be preceded by ""chess"" to form a compound word or phrase"
+1348,55,model,photo,stairs,university,belt,Things involved in a formal graduation photo taken on the steps of a university building
+1481,86,model,pool,animal,prince,driver,"Things that can be preceded by the word ""pool"" to form a common phrase or compound noun"
+1459,81,model,fairy,trail,suite,spy,"Words that can follow ""honey"" to form a compound noun or phrase"
+288,22,human,court,lieutenant,lunch,mama,Things you call for
+758,63,human,glasses,pocket,lake,buck,glimmering
+1395,65,model,base,project,weather,property,Factors that can affect the value of real estate
+577,47,human,blade,rocket,patch,robot,technological tools or gadgets
+94,7,human,trip,summer,doc,evidence,Summer classes
+932,82,human,flag,locker,actress,tube,High school football game
+13,1,human,doctor,phone,hand,town,on-call medical service
+895,78,human,monsieur,tour,demon,season,things you would see at a museum
+1526,98,model,cigarette,tank,painting,garden,Things you might find in the outdoor area (yard/backyard) of a house
+558,46,human,brain,beer,fish,ice,Cooler you take home after fishing
+522,42,human,stage,board,shop,camp,words used by theater kids
+998,87,human,dress,sergeant,film,bathroom,Things recorded in evidence
+1392,64,model,gate,mail,chocolate,shoe,Things a mischievous dog might destroy when left unsupervised at home
+229,18,human,camera,chicken,wine,park,Things that would make a good picnic
+814,69,human,gas,test,group,field,random things
+1505,94,model,leader,contract,madame,county,Elements you might see mentioned in a news story about a county-level political corruption and sex scandal
+1119,100,human,mister,conversation,size,code,things related to the bro code
+748,62,human,sheriff,foot,prison,wall,in a jail
+1083,97,human,singer,thumb,temple,dime,things with silver
+356,28,human,hotel,ball,boat,earth,Types of joints/connections
+167,14,human,mouth,floor,plane,officer,Things that could be the feature of a porno.
+322,24,human,building,army,train,card,army training
+855,74,human,account,subject,winner,vacation,Things you do after winning the lottery
+423,34,human,bag,apartment,window,box,Moving apartments
+726,60,human,pardon,condition,shame,health,care
+708,59,human,pants,hole,sea,river,The favorite things of an old fisherman
+24,2,human,room,mother,world,woman,Things you would find in a history classroom.
+1409,68,model,telephone,wire,sword,desert,"Objects you might find at a military outpost in a desert war setting (e.g., WWI/WWII North Africa)"
+305,23,human,husband,captain,dinner,line,Things that demand order
+181,15,human,furniture,clown,towel,corn,The corn palace
+68,5,human,hair,food,coffee,street,What a girl would do in her weekend
+163,13,human,child,daughter,book,city,things filled with imagination
+55,4,human,dog,blood,bed,office,helper
+342,27,human,hero,enemy,east,mission,How are plots from movies or show are created?
+1359,57,model,suit,beach,tea,arms,Things you might take a break with or for
+1213,26,model,defense,safety,command,permission,"Responsibilities of an authority figure in charge of security (e.g., a military or security chief)"
+85,6,human,house,boy,baby,girl,family
+861,75,human,pressure,fool,charge,force,Engineering students
