@@ -75,7 +75,7 @@ const instructions = {
                     <p><strong>Answers:</strong> towel &nbsp;&bull;&nbsp; sunscreen &nbsp;&bull;&nbsp; umbrella &nbsp;&bull;&nbsp; cooler</p>
                 </div>
             </div>
-            <p>There are no right or wrong answers. Just go with what comes to mind.</p>
+            <p>Some of the category descriptions may seem unusual or a bit strange. Don't worry about that! There are no right or wrong answers, so just write in four words that come to mind.</p>
             <p>You'll start with one practice round.</p>
         </div>
     `,
